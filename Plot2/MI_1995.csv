@@ -1,0 +1,8343 @@
+conceptID,concept,rank,PMID
+,validity,1,8619104
+,ischaemic,1,8619104
+,ischaemic heart disease,1,8619104
+,heart,1,8619104
+,heart disease,1,8619104
+,disease,2,8619104
+,chronic,1,8619104
+,chronic obstructive pulmonary disease,1,8619104
+,obstructive pulmonary disease,1,8619104
+,pulmonary,1,8619104
+,pulmonary disease,1,8619104
+,saskatchewan,1,8619104
+,health,1,8619104
+,health care,1,8619104
+,care,1,8619104
+,internal,1,8619104
+,validity,1,8619104
+,information,2,8619104
+,ischaemic,1,8619104
+,ischaemic heart disease,1,8619104
+,heart,1,8619104
+,heart disease,1,8619104
+,disease,2,8619104
+,chronic,2,8619104
+,chronic obstructive pulmonary disease,1,8619104
+,obstructive pulmonary disease,1,8619104
+,pulmonary,1,8619104
+,pulmonary disease,1,8619104
+,copd,3,8619104
+,administrative,1,8619104
+,administrative health care,1,8619104
+,health,1,8619104
+,health care,1,8619104
+,care,1,8619104
+,canadian,1,8619104
+,province,1,8619104
+,saskatchewan,1,8619104
+,comparisons,1,8619104
+,hospital,1,8619104
+,data,1,8619104
+,medical,1,8619104
+,charts,1,8619104
+,acute,1,8619104
+,acute myocardial infarction,1,8619104
+,myocardial,1,8619104
+,myocardial infarction,1,8619104
+,infarction,1,8619104
+,chronic airways obstruction,1,8619104
+,airways,1,8619104
+,airways obstruction,1,8619104
+,obstruction,1,8619104
+,patients,1,8619104
+,excellent,1,8619104
+,diagnostic,1,8619104
+,agreement,1,8619104
+,cent,7,8619104
+,physician,2,8619104
+,physician service,1,8619104
+,service,1,8619104
+,hospitalizations,2,8619104
+,ihd,4,8619104
+,exact,1,8619104
+,concordance,2,8619104
+,diagnoses,1,8619104
+,asthma,1,8619104
+,diagnosis,1,8619104
+,same,1,8619104
+,broad,1,8619104
+,category,1,8619104
+,cop,1,8619104
+,epidemiologically,1,8619104
+,trial,1,8551821
+,intravenous,1,8551821
+,diltiazem,1,8551821
+,glyceryl trinitrate,1,8551821
+,unstable,1,8551821
+,unstable angina,1,8551821
+,unstable angina pectoris,1,8551821
+,angina,1,8551821
+,angina pectoris,1,8551821
+,effect,2,8551821
+,dihydropyridines,1,8551821
+,patients,6,8551821
+,unstable,3,8551821
+,unstable angina,1,8551821
+,angina,7,8551821
+,out,1,8551821
+,diltiazem,9,8551821
+,trial,2,8551821
+,glyceryl trinitrate,4,8551821
+,intravenously,1,8551821
+,ang,2,8551821
+,endpoints,1,8551821
+,refractory,6,8551821
+,refractory angina,6,8551821
+,myocardial,4,8551821
+,myocardial infarction,4,8551821
+,infarction,4,8551821
+,individually,1,8551821
+,composite,1,8551821
+,endpoint,1,8551821
+,alone,1,8551821
+,together,1,8551821
+,significantly,5,8551821
+,less,2,8551821
+,group,7,8551821
+,trial drugs,1,8551821
+,drugs,2,8551821
+,numbers,2,8551821
+,relative,5,8551821
+,relative risk,5,8551821
+,risk,5,8551821
+,number,1,8551821
+,better,1,8551821
+,survival,1,8551821
+,pressure,1,8551821
+,product,1,8551821
+,only,1,8551821
+,incidence,1,8551821
+,bradyarrhythmias,1,8551821
+,not,2,8551821
+,atrioventricular conduction,1,8551821
+,conduction,1,8551821
+,conduction disturbances,1,8551821
+,disturbances,2,8551821
+,dose,2,8551821
+,drug,1,8551821
+,temporary,1,8551821
+,temporary pacemakers,1,8551821
+,pacemakers,1,8551821
+,headache,1,8551821
+,analgesic,1,8551821
+,dose adjustment,1,8551821
+,adjustment,1,8551821
+,results,1,8551821
+,intravenous,2,8551821
+,ischaemic,1,8551821
+,events,1,8551821
+,clinical,1,7477219
+,clinical trial,1,7477219
+,trial,1,7477219
+,inhibitor,1,7477219
+,trandolapril,2,7477219
+,patients,1,7477219
+,left,1,7477219
+,left ventricular dysfunction,1,7477219
+,ventricular,1,7477219
+,ventricular dysfunction,1,7477219
+,dysfunction,1,7477219
+,myocardial,1,7477219
+,myocardial infarction,1,7477219
+,infarction,1,7477219
+,cardiac,1,7477219
+,cardiac evaluation,1,7477219
+,evaluation,1,7477219
+,trace,1,7477219
+,study,1,7477219
+,group,1,7477219
+,background,1,7477219
+,treatment,2,7477219
+,ace,3,7477219
+,inhibitors,2,7477219
+,mortality,4,7477219
+,survivors,1,7477219
+,acute,1,7477219
+,acute myocardial infarction,1,7477219
+,myocardial,5,7477219
+,myocardial infarction,4,7477219
+,infarction,5,7477219
+,ace inhibitors,1,7477219
+,patients,9,7477219
+,only,1,7477219
+,uncertain,1,7477219
+,methods,1,7477219
+,consecutive,2,7477219
+,myocardial infarctions,1,7477219
+,infarctions,1,7477219
+,enzyme,1,7477219
+,studies,1,7477219
+,total,1,7477219
+,echocardiographic,1,7477219
+,evidence,1,7477219
+,ventricular,2,7477219
+,ventricular systolic,1,7477219
+,systolic,1,7477219
+,systolic dysfunction,1,7477219
+,dysfunction,1,7477219
+,fraction,1,7477219
+,percent,9,7477219
+,days,1,7477219
+,oral,1,7477219
+,trandolapril,6,7477219
+,placebo,3,7477219
+,duration,1,7477219
+,followup,1,7477219
+,months,1,7477219
+,results,1,7477219
+,study,2,7477219
+,period,1,7477219
+,group,5,7477219
+,relative,5,7477219
+,relative risk,5,7477219
+,risk,8,7477219
+,death,4,7477219
+,confidence,5,7477219
+,confidence interval,5,7477219
+,interval,5,7477219
+,cardiovascular,2,7477219
+,causes,2,7477219
+,sudden,2,7477219
+,sudden death,2,7477219
+,progression,1,7477219
+,severe,2,7477219
+,heart,2,7477219
+,heart failure,2,7477219
+,failure,2,7477219
+,less,1,7477219
+,frequent,1,7477219
+,contrast,1,7477219
+,recurrent,1,7477219
+,recurrent myocardial infarction,1,7477219
+,fatal,1,7477219
+,not,1,7477219
+,not significantly,1,7477219
+,significantly,2,7477219
+,conclusions,1,7477219
+,reduced,1,7477219
+,left,1,7477219
+,left ventricular function,1,7477219
+,ventricular function,1,7477219
+,function,1,7477219
+,overall,1,7477219
+,development,1,7477219
+,randomized,1,7477219
+,use,1,7477219
+,inhibition,1,7477219
+,ethnic,1,7500535
+,ethnic differences,1,7500535
+,differences,1,7500535
+,use,1,7500535
+,peritoneal,1,7500535
+,peritoneal dialysis,1,7500535
+,dialysis,1,7500535
+,initial,1,7500535
+,treatment,1,7500535
+,renal,1,7500535
+,renal disease,1,7500535
+,disease,1,7500535
+,objective,1,7500535
+,ethnicity,2,7500535
+,use,3,7500535
+,peritoneal,1,7500535
+,peritoneal dialysis,1,7500535
+,dialysis,2,7500535
+,initial,4,7500535
+,treatment,4,7500535
+,renal,1,7500535
+,renal disease,1,7500535
+,disease,1,7500535
+,esrd,4,7500535
+,other,1,7500535
+,patient,1,7500535
+,patient characteristics,1,7500535
+,characteristics,1,7500535
+,design,1,7500535
+,cohort,1,7500535
+,cohort analysis,1,7500535
+,analysis,1,7500535
+,incident,1,7500535
+,patients,4,7500535
+,white,1,7500535
+,dialysis centers,1,7500535
+,centers,1,7500535
+,north,1,7500535
+,north carolina,1,7500535
+,south,1,7500535
+,south carolina,1,7500535
+,georgia,1,7500535
+,network,1,7500535
+,january,1,7500535
+,december,1,7500535
+,main,1,7500535
+,outcome,1,7500535
+,outcome measure,1,7500535
+,measure,1,7500535
+,odds ratios,1,7500535
+,ratios,1,7500535
+,ors,1,7500535
+,association,1,7500535
+,modality,1,7500535
+,results,1,7500535
+,less,1,7500535
+,likely,1,7500535
+,whites,1,7500535
+,confidence,1,7500535
+,confidence interval,1,7500535
+,interval,1,7500535
+,difference,1,7500535
+,adjustment,1,7500535
+,age,1,7500535
+,education,1,7500535
+,social,1,7500535
+,social support,1,7500535
+,support,1,7500535
+,home,1,7500535
+,ownership,1,7500535
+,functional,1,7500535
+,functional status,1,7500535
+,status,1,7500535
+,level,1,7500535
+,hypertension,1,7500535
+,history,1,7500535
+,myocardial,1,7500535
+,myocardial infarction,1,7500535
+,infarction,1,7500535
+,peripheral,1,7500535
+,peripheral neuropathy,1,7500535
+,neuropathy,1,7500535
+,diabetes,1,7500535
+,conclusions,1,7500535
+,ethnic,1,7500535
+,ethnic differences,1,7500535
+,differences,1,7500535
+,many,1,7500535
+,demographic,1,7500535
+,socioeconomic,1,7500535
+,factors,1,7500535
+,coronary,1,7500756
+,coronary artery,1,7500756
+,coronary artery bypass,1,7500756
+,coronary artery bypass surgery,1,7500756
+,artery,1,7500756
+,bypass,1,7500756
+,bypass surgery,1,7500756
+,surgery,1,7500756
+,study,1,7500756
+,consecutive,1,7500756
+,patients,1,7500756
+,ontario,2,7500756
+,steering,1,7500756
+,steering committee,1,7500756
+,committee,1,7500756
+,adult,1,7500756
+,cardiac,1,7500756
+,network,1,7500756
+,deaths,1,7500756
+,coronary,2,7500756
+,surgery,8,7500756
+,canada,1,7500756
+,american,1,7500756
+,interest,1,7500756
+,interest groups,1,7500756
+,groups,1,7500756
+,socialized,1,7500756
+,socialized medicine,1,7500756
+,medicine,1,7500756
+,cardiac,1,7500756
+,cardiac surgery,1,7500756
+,centres,1,7500756
+,ontario,2,7500756
+,register,1,7500756
+,patients,6,7500756
+,experience,1,7500756
+,consecutive,1,7500756
+,registry,1,7500756
+,october,1,7500756
+,july,1,7500756
+,individual,2,7500756
+,acuity,5,7500756
+,scores,2,7500756
+,symptoms,2,7500756
+,angiographic,1,7500756
+,findings,1,7500756
+,ventricular,1,7500756
+,ventricular function,1,7500756
+,function,1,7500756
+,available,1,7500756
+,noninvasive,1,7500756
+,tests,1,7500756
+,ischaemic,1,7500756
+,queue,2,7500756
+,indefinitely,1,7500756
+,myocardial,1,7500756
+,myocardial infarction,1,7500756
+,infarction,1,7500756
+,median,1,7500756
+,wait,1,7500756
+,days,2,7500756
+,interquartile range,1,7500756
+,range,1,7500756
+,day,1,7500756
+,very,2,7500756
+,urgent,1,7500756
+,score,2,7500756
+,low,1,7500756
+,priority,1,7500756
+,multivariate analysis,1,7500756
+,analysis,1,7500756
+,most,1,7500756
+,determinant,1,7500756
+,time,2,7500756
+,symptom,1,7500756
+,symptom status,1,7500756
+,status,1,7500756
+,anatomy,1,7500756
+,age,1,7500756
+,not,2,7500756
+,statistical,1,7500756
+,statistical methods,1,7500756
+,methods,1,7500756
+,female,1,7500756
+,female sex,1,7500756
+,sex,1,7500756
+,either,1,7500756
+,not significant,1,7500756
+,significant,2,7500756
+,independently,1,7500756
+,approximately,1,7500756
+,relative,1,7500756
+,delay,1,7500756
+,clinical,2,7500756
+,factors,1,7500756
+,times,3,7500756
+,hospitals,2,7500756
+,rarely,1,7500756
+,critical,1,7500756
+,events,1,7500756
+,extreme,1,7500756
+,variation,1,7500756
+,exertion,1,7500756
+,effect,1,7500749
+,different,1,7500749
+,progestagens,1,7500749
+,low,1,7500749
+,low oestrogen,1,7500749
+,oestrogen,1,7500749
+,oral,1,7500749
+,oral contraceptives,1,7500749
+,contraceptives,1,7500749
+,venous,1,7500749
+,venous thromboembolic,1,7500749
+,venous thromboembolic disease,1,7500749
+,thromboembolic,1,7500749
+,thromboembolic disease,1,7500749
+,disease,2,7500749
+,world,1,7500749
+,world health,1,7500749
+,world health organization,1,7500749
+,health,1,7500749
+,health organization,1,7500749
+,organization,1,7500749
+,collaborative,1,7500749
+,collaborative study,1,7500749
+,study,1,7500749
+,cardiovascular,1,7500749
+,cardiovascular disease,1,7500749
+,steroid,1,7500749
+,steroid hormone,1,7500749
+,hormone,1,7500749
+,contraception,1,7500749
+,study,2,7500749
+,risk,6,7500749
+,venous,2,7500749
+,venous thromboembolic,1,7500749
+,venous thromboembolic disease,1,7500749
+,thromboembolic,1,7500749
+,thromboembolic disease,1,7500749
+,disease,2,7500749
+,oral,1,7500749
+,oral contraceptives,1,7500749
+,contraceptives,1,7500749
+,separate,1,7500749
+,inquiry,1,7500749
+,venous thromboembolism,1,7500749
+,thromboembolism,1,7500749
+,low,3,7500749
+,low oestrogen,3,7500749
+,oestrogen,3,7500749
+,micrograms,1,7500749
+,ethinyloestradiol,1,7500749
+,levonorgestrel,7,7500749
+,risks,2,7500749
+,preparations,1,7500749
+,progestagens,3,7500749
+,desogestrel,6,7500749
+,gestodene,7,7500749
+,analysis,1,7500749
+,data,1,7500749
+,countries,1,7500749
+,cases,5,7500749
+,age,2,7500749
+,hospital,1,7500749
+,controls,4,7500749
+,centre,2,7500749
+,community,1,7500749
+,general,1,7500749
+,general practice,1,7500749
+,practice,1,7500749
+,current,4,7500749
+,users,5,7500749
+,odds ratio,1,7500749
+,ratio,1,7500749
+,confidence,1,7500749
+,confidence interval,1,7500749
+,interval,1,7500749
+,reference,1,7500749
+,ratios,1,7500749
+,products,1,7500749
+,body,1,7500749
+,body mass,1,7500749
+,body mass index,1,7500749
+,mass,1,7500749
+,index,1,7500749
+,bmi,1,7500749
+,dose,1,7500749
+,vte,1,7500749
+,results,2,7500749
+,secondary,1,7500749
+,study objective,1,7500749
+,objective,1,7500749
+,due,1,7500749
+,chance,1,7500749
+,bias,1,7500749
+,residual,1,7500749
+,independent,1,7500749
+,studies,1,7500749
+,variance,1,7500749
+,apparently,1,7500749
+,more,1,7500749
+,metabolic,1,7500749
+,metabolic effects,1,7500749
+,effects,1,7500749
+,new,1,7500749
+,lower,1,7500749
+,arterial,1,7500749
+,arterial disease,1,7500749
+,stroke,1,7500749
+,myocardial,1,7500749
+,myocardial infarction,1,7500749
+,infarction,1,7500749
+,further,1,7500749
+,risk,1,8747258
+,myocardial,1,8747258
+,myocardial infarction,1,8747258
+,infarction,1,8747258
+,subjects,1,8747258
+,doctor,1,8747258
+,back,1,8747258
+,back disorder,1,8747258
+,disorder,1,8747258
+,study,1,8747258
+,finnish,1,8747258
+,farmers,1,8747258
+,study,3,8747258
+,study design,1,8747258
+,design,1,8747258
+,correlation,1,8747258
+,back,9,8747258
+,back trouble,2,8747258
+,myocardial,6,8747258
+,myocardial infarction,6,8747258
+,infarction,6,8747258
+,objectives,1,8747258
+,purpose,1,8747258
+,present,1,8747258
+,individuals,2,8747258
+,doctor,4,8747258
+,risk,2,8747258
+,summary,1,8747258
+,background,1,8747258
+,data,1,8747258
+,previous,2,8747258
+,results,3,8747258
+,back pain,4,8747258
+,pain,4,8747258
+,young,1,8747258
+,male,1,8747258
+,farmers,2,8747258
+,patients,1,8747258
+,methods,1,8747258
+,basic,1,8747258
+,cohort,1,8747258
+,finnish,1,8747258
+,february,2,8747258
+,december,1,8747258
+,case,6,8747258
+,case studies,1,8747258
+,studies,1,8747258
+,control,4,8747258
+,subjects,7,8747258
+,case subject,2,8747258
+,subject,2,8747258
+,final,1,8747258
+,group,1,8747258
+,case subjects,3,8747258
+,doctor visits,1,8747258
+,visits,1,8747258
+,complaint,2,8747258
+,followup,2,8747258
+,period,2,8747258
+,date,1,8747258
+,back disorders,1,8747258
+,disorders,1,8747258
+,true,1,8747258
+,nonspecific,1,8747258
+,odds ratio,1,8747258
+,ratio,1,8747258
+,confidence,1,8747258
+,confidence interval,1,8747258
+,interval,1,8747258
+,conclusion,1,8747258
+,atherosclerosis,1,8747258
+,not,1,8747258
+,probable,1,8747258
+,cause,1,8747258
+,kind,1,8747258
+,general,1,8747258
+,general practitioner,1,8747258
+,practitioner,1,8747258
+,31p,1,8521576
+,nuclear,1,8521576
+,nuclear magnetic resonance,1,8521576
+,nuclear magnetic resonance spectroscopic,1,8521576
+,magnetic,1,8521576
+,magnetic resonance,1,8521576
+,magnetic resonance spectroscopic,1,8521576
+,magnetic resonance spectroscopic imaging,1,8521576
+,resonance,1,8521576
+,imaging,1,8521576
+,regions,1,8521576
+,myocardium,1,8521576
+,infarcted,1,8521576
+,rat,1,8521576
+,rat heart,1,8521576
+,heart,1,8521576
+,background,1,8521576
+,clinical,1,8521576
+,clinical course,1,8521576
+,course,1,8521576
+,patient,1,8521576
+,myocardial,1,8521576
+,myocardial infarction,1,8521576
+,infarction,2,8521576
+,ability,1,8521576
+,region,2,8521576
+,loss,1,8521576
+,infarcted,1,8521576
+,previous,1,8521576
+,studies,1,8521576
+,viable,6,8521576
+,myocardium,8,8521576
+,morphologically,1,8521576
+,functionally,1,8521576
+,biochemically,1,8521576
+,purpose,1,8521576
+,study,1,8521576
+,regional,2,8521576
+,distribution,2,8521576
+,biochemical,2,8521576
+,remodeling,2,8521576
+,rat,2,8521576
+,rat hearts,2,8521576
+,hearts,3,8521576
+,use,1,8521576
+,technique,1,8521576
+,noninvasively,1,8521576
+,human,1,8521576
+,human subjects,1,8521576
+,subjects,1,8521576
+,methods,1,8521576
+,results,1,8521576
+,infarcts,1,8521576
+,left,1,8521576
+,left ventricular apex,1,8521576
+,ventricular,1,8521576
+,apex,1,8521576
+,anterolateral,1,8521576
+,wall,1,8521576
+,coronary,1,8521576
+,coronary artery,1,8521576
+,artery,1,8521576
+,weeks,1,8521576
+,chemical,1,8521576
+,shift,1,8521576
+,31p,4,8521576
+,nuclear,1,8521576
+,nuclear magnetic resonance,1,8521576
+,magnetic,1,8521576
+,magnetic resonance,1,8521576
+,resonance,1,8521576
+,spectra,1,8521576
+,long,1,8521576
+,long axis,1,8521576
+,axis,1,8521576
+,base,1,8521576
+,atp,5,8521576
+,phosphocreatine,1,8521576
+,contents,1,8521576
+,normal,1,8521576
+,sham,1,8521576
+,mass,4,8521576
+,slice,3,8521576
+,calculations,1,8521576
+,metabolite,1,8521576
+,amount,4,8521576
+,unit,3,8521576
+,hypertrophy,3,8521576
+,not,1,8521576
+,scar,3,8521576
+,tissue,6,8521576
+,contrast,2,8521576
+,less,1,8521576
+,signal,4,8521576
+,distal,1,8521576
+,occlusion,2,8521576
+,scar tissue,1,8521576
+,signal intensity,2,8521576
+,intensity,2,8521576
+,proximal,1,8521576
+,myocyte,1,8521576
+,direct,1,8521576
+,proportion,1,8521576
+,same,1,8521576
+,pcr,3,8521576
+,decrease,2,8521576
+,uniform,1,8521576
+,infarct,2,8521576
+,size,2,8521576
+,parallels,1,8521576
+,similar,1,8521576
+,creatine,1,8521576
+,content,1,8521576
+,conclusions,1,8521576
+,postmi,1,8521576
+,independent,1,8521576
+,distance,1,8521576
+,profile,1,8521576
+,biochemical marker,1,8521576
+,marker,3,8521576
+,morphological,1,8521576
+,regions,1,8521576
+,tissue injury,1,8521576
+,injury,2,8521576
+,decreased,1,8521576
+,extent,1,8521576
+,response,1,8521576
+,single,1,8521576
+,set,1,8521576
+,noninvasive,1,8521576
+,measurements,1,8521576
+,catheter,1,8521570
+,catheter ablation,1,8521570
+,ablation,1,8521570
+,mitral,1,8521570
+,isthmus,1,8521570
+,ventricular,1,8521570
+,ventricular tachycardia,1,8521570
+,tachycardia,1,8521570
+,inferior,1,8521570
+,inferior infarction,1,8521570
+,infarction,1,8521570
+,background,1,8521570
+,intraoperative,1,8521570
+,mapping,1,8521570
+,studies,1,8521570
+,isthmus,4,8521570
+,myocardium,1,8521570
+,mitral,4,8521570
+,mitral valve,1,8521570
+,mitral valve annulus,1,8521570
+,valve,1,8521570
+,annulus,1,8521570
+,border,1,8521570
+,inferior,3,8521570
+,inferior myocardial infarction,2,8521570
+,myocardial,2,8521570
+,myocardial infarction,2,8521570
+,infarction,3,8521570
+,role,1,8521570
+,genesis,1,8521570
+,ventricular,3,8521570
+,ventricular tachycardia,3,8521570
+,tachycardia,7,8521570
+,frequency,1,8521570
+,slow,5,8521570
+,conduction,5,8521570
+,zone,3,8521570
+,critical,3,8521570
+,maintenance,1,8521570
+,remote,1,8521570
+,inferior infarction,1,8521570
+,patients,4,8521570
+,catheter,2,8521570
+,catheter ablation,2,8521570
+,ablation,2,8521570
+,methods,1,8521570
+,results,1,8521570
+,characteristic,2,8521570
+,morphologically,1,8521570
+,distinct,1,8521570
+,tachycardias,1,8521570
+,left,1,8521570
+,superior,2,8521570
+,superior axis,1,8521570
+,axis,1,8521570
+,morphology,2,8521570
+,right,2,8521570
+,right superior,1,8521570
+,cycle,3,8521570
+,length,3,8521570
+,patient,3,8521570
+,diastolic,1,8521570
+,potentials,1,8521570
+,intervals,2,8521570
+,fusion,1,8521570
+,pacing,1,8521570
+,single,1,8521570
+,radiofrequency,1,8521570
+,energy,1,8521570
+,application,1,8521570
+,site,1,8521570
+,followup,1,8521570
+,months,1,8521570
+,recurrent,1,8521570
+,conclusions,1,8521570
+,region,1,8521570
+,anatomically,1,8521570
+,localized,1,8521570
+,target,1,8521570
+,clinical,1,8521570
+,clinical markers,1,8521570
+,markers,1,8521570
+,mechanism,1,8521570
+,evaluation,1,8521562
+,central,1,8521562
+,effects,1,8521562
+,atenolol,1,8521562
+,metoprolol,1,8521562
+,heart,1,8521562
+,heart rate,1,8521562
+,rate,1,8521562
+,variability,1,8521562
+,mental,1,8521562
+,performance,1,8521562
+,physical,1,8521562
+,physical exercise,1,8521562
+,exercise,1,8521562
+,daily,1,8521562
+,life,1,8521562
+,stable,1,8521562
+,patients,1,8521562
+,background,1,8521562
+,physical,2,8521562
+,physical exercise,1,8521562
+,exercise,3,8521562
+,mental,5,8521562
+,work,1,8521562
+,cause,1,8521562
+,alterations,1,8521562
+,cardiac,1,8521562
+,autonomic,2,8521562
+,control,1,8521562
+,heart,2,8521562
+,stress,2,8521562
+,effect,1,8521562
+,part,1,8521562
+,context,1,8521562
+,lipophilicity,2,8521562
+,drug,1,8521562
+,relevant,1,8521562
+,methods,1,8521562
+,results,1,8521562
+,thirty,1,8521562
+,patients,3,8521562
+,metoprolol,6,8521562
+,crossover,1,8521562
+,period,1,8521562
+,heart rate,1,8521562
+,rate,1,8521562
+,variability,5,8521562
+,study,2,8521562
+,autonomic effects,1,8521562
+,effects,3,8521562
+,physical stress,1,8521562
+,variations,1,8521562
+,minute,2,8521562
+,atenolol,4,8521562
+,baseline,1,8521562
+,performance,3,8521562
+,not,5,8521562
+,index,2,8521562
+,milliseconds,1,8521562
+,power,5,8521562
+,treatment,3,8521562
+,bicycle,1,8521562
+,bicycle exercise,1,8521562
+,difference,1,8521562
+,decrease,1,8521562
+,differences,3,8521562
+,absolute,1,8521562
+,high,1,8521562
+,adjustment,1,8521562
+,blockade,1,8521562
+,methylatropine,1,8521562
+,chronic,2,8521562
+,nearly,1,8521562
+,components,1,8521562
+,spectral,1,8521562
+,parameter,1,8521562
+,most,1,8521562
+,conclusions,1,8521562
+,stable,2,8521562
+,attenuates,1,8521562
+,reduction,3,8521562
+,patient,1,8521562
+,group,1,8521562
+,point,1,8521562
+,action,1,8521562
+,probably,1,8521562
+,due,1,8521562
+,activation,1,8521562
+,significant,1,8521562
+,degree,1,8521562
+,specific,1,8521562
+,challenges,1,8521562
+,value,1,8521560
+,myoglobin,1,8521560
+,troponin,1,8521560
+,out,1,8521560
+,acute,1,8521560
+,acute myocardial infarction,1,8521560
+,myocardial,1,8521560
+,myocardial infarction,1,8521560
+,infarction,1,8521560
+,emergency,1,8521560
+,emergency room,1,8521560
+,room,1,8521560
+,background,1,8521560
+,out,3,8521560
+,acute,1,8521560
+,acute myocardial infarction,1,8521560
+,myocardial,1,8521560
+,myocardial infarction,1,8521560
+,infarction,1,8521560
+,ami,9,8521560
+,basis,1,8521560
+,rapid,1,8521560
+,cardiac,3,8521560
+,cardiac markers,3,8521560
+,markers,4,8521560
+,early,3,8521560
+,triage,1,8521560
+,patients,7,8521560
+,use,1,8521560
+,available,1,8521560
+,coronary,1,8521560
+,care,1,8521560
+,methods,1,8521560
+,results,1,8521560
+,value,2,8521560
+,myoglobin,4,8521560
+,creatine,1,8521560
+,creatine kinase,1,8521560
+,kinase,1,8521560
+,troponin,3,8521560
+,emergency,2,8521560
+,emergency room,2,8521560
+,room,2,8521560
+,consecutive,1,8521560
+,chest,1,8521560
+,chest pain,1,8521560
+,pain,1,8521560
+,gold,1,8521560
+,gold standard,1,8521560
+,standard,1,8521560
+,combination,1,8521560
+,history,1,8521560
+,ecg,1,8521560
+,typical,1,8521560
+,curve,1,8521560
+,ckmb,1,8521560
+,activity,1,8521560
+,marker,4,8521560
+,negative,1,8521560
+,negative predictive value,1,8521560
+,predictive,1,8521560
+,predictive value,1,8521560
+,significantly,1,8521560
+,hours,5,8521560
+,onset,4,8521560
+,symptoms,4,8521560
+,npv,6,8521560
+,not,1,8521560
+,time,2,8521560
+,together,1,8521560
+,subgroup,1,8521560
+,low,1,8521560
+,probability,2,8521560
+,presence,2,8521560
+,earlier,1,8521560
+,large,1,8521560
+,infarcts,2,8521560
+,small,1,8521560
+,cumulative,1,8521560
+,proportion,1,8521560
+,upper,1,8521560
+,reference,1,8521560
+,limit,1,8521560
+,time point,1,8521560
+,point,1,8521560
+,conclusions,1,8521560
+,better,1,8521560
+,maximal,1,8521560
+,only,1,8521560
+,test,1,8521560
+,characteristics,1,8521560
+,size,2,8521560
+,infarct,1,8521560
+,studies,1,8521560
+,evaluation,1,7503005
+,end,1,7503005
+,end points,1,7503005
+,serial,1,7503005
+,drug,1,7503005
+,patients,1,7503005
+,sustained,1,7503005
+,sustained ventricular tachycardia,1,7503005
+,ventricular,1,7503005
+,ventricular tachycardia,1,7503005
+,tachycardia,1,7503005
+,healing,1,7503005
+,acute,1,7503005
+,acute myocardial infarction,1,7503005
+,myocardial,1,7503005
+,myocardial infarction,1,7503005
+,infarction,1,7503005
+,serial,1,7503005
+,electrophysiologic,1,7503005
+,drug,8,7503005
+,drug testing,2,7503005
+,testing,2,7503005
+,antiarrhythmic,2,7503005
+,therapy,2,7503005
+,consecutive,1,7503005
+,series,1,7503005
+,patients,6,7503005
+,clinical,2,7503005
+,ventricular,1,7503005
+,ventricular tachycardia,1,7503005
+,tachycardia,1,7503005
+,cardiac,2,7503005
+,cardiac arrest,2,7503005
+,arrest,2,7503005
+,inducible,1,7503005
+,coronary,1,7503005
+,coronary artery,1,7503005
+,coronary artery disease,1,7503005
+,artery,1,7503005
+,artery disease,1,7503005
+,disease,1,7503005
+,history,1,7503005
+,myocardial,1,7503005
+,myocardial infarction,1,7503005
+,infarction,1,7503005
+,partial,2,7503005
+,rate,1,7503005
+,systolic,1,7503005
+,systolic blood pressure,1,7503005
+,blood,1,7503005
+,blood pressure,1,7503005
+,pressure,1,7503005
+,similar,2,7503005
+,total,1,7503005
+,mortality,1,7503005
+,mortality rates,1,7503005
+,survival,2,7503005
+,statistically,1,7503005
+,different,1,7503005
+,high,1,7503005
+,arrhythmia,1,7503005
+,recurrence,1,7503005
+,survivors,1,7503005
+,results,1,7503005
+,not,1,7503005
+,prognosis,2,7503005
+,change,1,7503005
+,mode,1,7503005
+,induction,1,7503005
+,favorable,1,7503005
+,deaths,1,7503005
+,followup,1,7503005
+,immediate,1,7503000
+,reversible,1,7503000
+,platelet,1,7503000
+,inhibition,1,7503000
+,intravenous,1,7503000
+,intravenous administration,1,7503000
+,administration,1,7503000
+,peptide,1,7503000
+,glycoprotein,1,7503000
+,inhibitor,1,7503000
+,percutaneous,1,7503000
+,percutaneous coronary intervention,1,7503000
+,coronary,1,7503000
+,intervention,1,7503000
+,pharmacokinetic,1,7503000
+,pharmacodynamic,1,7503000
+,properties,1,7503000
+,integrelin,5,7503000
+,novel,1,7503000
+,platelet,5,7503000
+,platelet glycoprotein,1,7503000
+,platelet glycoprotein iib/iiia,1,7503000
+,glycoprotein,1,7503000
+,receptor,1,7503000
+,inhibitor,1,7503000
+,patients,7,7503000
+,elective,2,7503000
+,percutaneous,2,7503000
+,percutaneous coronary intervention,2,7503000
+,coronary,5,7503000
+,intervention,5,7503000
+,regimens,1,7503000
+,total,1,7503000
+,sequentially,1,7503000
+,aspirin,2,7503000
+,heparin,2,7503000
+,discharge,1,7503000
+,occurrence,1,7503000
+,clinical,3,7503000
+,clinical events,2,7503000
+,events,3,7503000
+,death,1,7503000
+,myocardial,1,7503000
+,myocardial infarction,1,7503000
+,infarction,1,7503000
+,coronary artery,1,7503000
+,coronary artery bypass,1,7503000
+,coronary artery bypass surgery,1,7503000
+,artery,1,7503000
+,bypass,1,7503000
+,bypass surgery,1,7503000
+,surgery,1,7503000
+,repeat,1,7503000
+,recurrent,1,7503000
+,ischemia,1,7503000
+,bleeding,3,7503000
+,primary,1,7503000
+,safety,1,7503000
+,end,1,7503000
+,end point,1,7503000
+,point,1,7503000
+,frequent,1,7503000
+,blood,1,7503000
+,blood sampling,1,7503000
+,sampling,1,7503000
+,adenosine,2,7503000
+,platelet aggre,1,7503000
+,platelet aggre gations,1,7503000
+,bleeding times,1,7503000
+,times,1,7503000
+,less,1,7503000
+,less often,1,7503000
+,often,1,7503000
+,overall,1,7503000
+,numbers,1,7503000
+,small,1,7503000
+,definitive,1,7503000
+,statement,1,7503000
+,clinical efficacy,1,7503000
+,efficacy,1,7503000
+,significant,2,7503000
+,increase,2,7503000
+,serious,2,7503000
+,highest,1,7503000
+,micrograms/k,1,7503000
+,immediately,1,7503000
+,minutes,1,7503000
+,bolus,1,7503000
+,inhibition,2,7503000
+,platelet aggregation,1,7503000
+,aggregation,1,7503000
+,treated,1,7503000
+,constant,1,7503000
+,infusion,2,7503000
+,marked,1,7503000
+,effect,1,7503000
+,gradual,1,7503000
+,recovery,1,7503000
+,platelet function,1,7503000
+,function,1,7503000
+,regi men,1,7503000
+,men,1,7503000
+,rapid,1,7503000
+,intense,1,7503000
+,persistent,1,7503000
+,ex vivo,1,7503000
+,vivo,1,7503000
+,new,1,7503000
+,antiplatelet agent,1,7503000
+,agent,1,7503000
+,ischemic,1,7503000
+,complications,1,7503000
+,plasma,1,7502999
+,levels,1,7502999
+,antioxidant,1,7502999
+,selenium,1,7502999
+,risk,1,7502999
+,myocardial,1,7502999
+,myocardial infarction,1,7502999
+,infarction,1,7502999
+,antioxidant,1,7502999
+,properties,1,7502999
+,selenium,6,7502999
+,lower,1,7502999
+,incidence,1,7502999
+,cardiovascular,2,7502999
+,cardiovascular disease,1,7502999
+,disease,1,7502999
+,humans,1,7502999
+,findings,1,7502999
+,plasma,5,7502999
+,plasma selenium,4,7502999
+,level,1,7502999
+,risk,4,7502999
+,myocardial,1,7502999
+,myocardial infarction,1,7502999
+,infarction,1,7502999
+,prospectively,1,7502999
+,plasma samples,1,7502999
+,samples,1,7502999
+,study,3,7502999
+,participants,1,7502999
+,physicians,1,7502999
+,health,1,7502999
+,randomized,1,7502999
+,trial,1,7502999
+,aspirin,1,7502999
+,betacarotene,1,7502999
+,blood,1,7502999
+,blood specimens,1,7502999
+,specimens,1,7502999
+,degrees,1,7502999
+,infarcts,1,7502999
+,medical,1,7502999
+,medical records,1,7502999
+,records,1,7502999
+,subjects,2,7502999
+,infarctions,1,7502999
+,equal,1,7502999
+,number,1,7502999
+,healthy,1,7502999
+,healthy controls,1,7502999
+,controls,2,7502999
+,age,1,7502999
+,smoking,1,7502999
+,smoking status,1,7502999
+,status,1,7502999
+,time,1,7502999
+,randomization,1,7502999
+,mean,1,7502999
+,levels,3,7502999
+,cases,1,7502999
+,conditional,1,7502999
+,logistic,1,7502999
+,logistic regression,1,7502999
+,logistic regression analysis,1,7502999
+,regression,1,7502999
+,regression analysis,1,7502999
+,analysis,1,7502999
+,quintile,3,7502999
+,suggestion,1,7502999
+,effect,1,7502999
+,sele,1,7502999
+,highest,1,7502999
+,relative,1,7502999
+,relative risk,1,7502999
+,confidence,2,7502999
+,confidence interval,2,7502999
+,interval,2,7502999
+,bottom,1,7502999
+,adjustment,1,7502999
+,other,1,7502999
+,cardiovascular risk factors,1,7502999
+,risk factors,1,7502999
+,factors,1,7502999
+,data,1,7502999
+,evidence,1,7502999
+,association,1,7502999
+,current,1,7502999
+,selenium intake,1,7502999
+,intake,1,7502999
+,pet,1,7502998
+,pet ownership,1,7502998
+,ownership,1,7502998
+,social,1,7502998
+,social support,1,7502998
+,support,1,7502998
+,survival,1,7502998
+,acute,1,7502998
+,acute myocardial infarction,1,7502998
+,myocardial,1,7502998
+,myocardial infarction,1,7502998
+,infarction,1,7502998
+,cardiac,1,7502998
+,cardiac arrhythmia,1,7502998
+,arrhythmia,1,7502998
+,suppression,1,7502998
+,trial,1,7502998
+,cast,1,7502998
+,social,8,7502998
+,social support,8,7502998
+,support,8,7502998
+,pet,6,7502998
+,pet ownership,5,7502998
+,ownership,5,7502998
+,form,1,7502998
+,coronary,3,7502998
+,coronary artery,2,7502998
+,coronary artery disease,2,7502998
+,artery,2,7502998
+,artery disease,2,7502998
+,disease,3,7502998
+,survival,7,7502998
+,independent,4,7502998
+,effects,2,7502998
+,disease severity,1,7502998
+,severity,2,7502998
+,other,3,7502998
+,psychosocial,5,7502998
+,psychosocial factors,3,7502998
+,factors,3,7502998
+,acute,1,7502998
+,acute myocardial infarction,1,7502998
+,myocardial,1,7502998
+,myocardial infarction,1,7502998
+,infarction,2,7502998
+,prospectively,1,7502998
+,cardiac,2,7502998
+,cardiac arrhythmia,2,7502998
+,arrhythmia,2,7502998
+,suppression,2,7502998
+,trial,2,7502998
+,physiologic,3,7502998
+,data,4,7502998
+,group,1,7502998
+,patients,4,7502998
+,asymptomatic,1,7502998
+,ventricular,1,7502998
+,ventricular arrhythmias,1,7502998
+,arrhythmias,1,7502998
+,ancillary study,1,7502998
+,study,1,7502998
+,recent,1,7502998
+,life,2,7502998
+,life events,2,7502998
+,events,2,7502998
+,future,1,7502998
+,anxiety,1,7502998
+,depression,1,7502998
+,coronary prone behavior,1,7502998
+,prone,1,7502998
+,behavior,1,7502998
+,expression,1,7502998
+,anger,1,7502998
+,subjects,1,7502998
+,trial sites,1,7502998
+,sites,1,7502998
+,baseline,1,7502998
+,questionnaires,1,7502998
+,year,2,7502998
+,pets,1,7502998
+,logistic,1,7502998
+,logistic regression,1,7502998
+,regression,1,7502998
+,high,1,7502998
+,demographic,1,7502998
+,dog,1,7502998
+,significantly,1,7502998
+,less,1,7502998
+,likely,1,7502998
+,not,1,7502998
+,dogs,1,7502998
+,amount,1,7502998
+,predictor,1,7502998
+,significant,1,7502998
+,predictors,1,7502998
+,status,1,7502998
+,previous,1,7502998
+,findings,1,7502998
+,management,1,8925146
+,postinfarction,1,8925146
+,postinfarction ventricular septal defect,1,8925146
+,ventricular,1,8925146
+,ventricular septal defect,1,8925146
+,septal,1,8925146
+,septal defect,1,8925146
+,defect,1,8925146
+,postinfarction,1,8925146
+,postinfarction ventricular septal defect,1,8925146
+,ventricular,1,8925146
+,ventricular septal defect,1,8925146
+,septal,1,8925146
+,septal defect,1,8925146
+,defect,1,8925146
+,acute,1,8925146
+,emergency,1,8925146
+,very,1,8925146
+,very high,1,8925146
+,high,1,8925146
+,mortality,1,8925146
+,early,1,8925146
+,early intervention,1,8925146
+,intervention,1,8925146
+,significantly,1,8925146
+,survival,1,8925146
+,survival rate,1,8925146
+,rate,1,8925146
+,article,1,8925146
+,condition,1,8925146
+,effects,1,7500507
+,elevated,1,7500507
+,elevated ldl,1,7500507
+,ldl,1,7500507
+,ldl cholesterol,1,7500507
+,cholesterol,1,7500507
+,cardiovascular,1,7500507
+,risk,1,7500507
+,lipoprotein(,1,7500507
+,objective,1,7500507
+,elevated,5,7500507
+,lipoprotein,1,7500507
+,lipoprotein cholesterol,1,7500507
+,cholesterol,1,7500507
+,levels,6,7500507
+,offsets,1,7500507
+,adverse effect,1,7500507
+,effect,1,7500507
+,lipoprotein(,2,7500507
+,coronary,1,7500507
+,coronary artery,1,7500507
+,coronary artery disease,1,7500507
+,artery,1,7500507
+,artery disease,1,7500507
+,disease,3,7500507
+,cac,1,7500507
+,men,3,7500507
+,design,1,7500507
+,randomized,1,7500507
+,trial,1,7500507
+,lipid,1,7500507
+,cad,6,7500507
+,setting,1,7500507
+,post,1,7500507
+,analysis,1,7500507
+,familial,1,7500507
+,atherosclerosis,1,7500507
+,treatment,2,7500507
+,treatment study,1,7500507
+,study,1,7500507
+,participants,1,7500507
+,total,1,7500507
+,years,3,7500507
+,intervention,1,7500507
+,patients,5,7500507
+,step,1,7500507
+,diet,1,7500507
+,lovastatin,1,7500507
+,daily,3,7500507
+,colestipol,3,7500507
+,niacin,1,7500507
+,placebo,1,7500507
+,percentile,2,7500507
+,responses,1,7500507
+,minimal,3,7500507
+,less,1,7500507
+,baseline,3,7500507
+,change,4,7500507
+,more,1,7500507
+,main,1,7500507
+,outcome,1,7500507
+,outcome measure,1,7500507
+,measure,1,7500507
+,impact,1,7500507
+,cardiac,1,7500507
+,cardiac event,1,7500507
+,event,2,7500507
+,rate,2,7500507
+,myocardial,1,7500507
+,myocardial infarction,1,7500507
+,infarction,1,7500507
+,revascularization,1,7500507
+,refractory,1,7500507
+,ischemia,1,7500507
+,results,1,7500507
+,multivariate analyses,1,7500507
+,best,1,7500507
+,correlate,1,7500507
+,severity,2,7500507
+,reduction,4,7500507
+,progression,2,7500507
+,only,1,7500507
+,not,2,7500507
+,not significantly,1,7500507
+,significantly,1,7500507
+,group,1,7500507
+,events,1,7500507
+,frequent,1,7500507
+,few,1,7500507
+,relative,1,7500507
+,relative risk,1,7500507
+,risk,1,7500507
+,confidence,1,7500507
+,confidence interval,1,7500507
+,interval,1,7500507
+,conclusions,1,7500507
+,dominant,1,7500507
+,disease severity,1,7500507
+,reductions,1,7500507
+,persistent,1,7500507
+,elevations,1,7500507
+,possible,1,7500507
+,direction,1,7500507
+,physical,1,7500506
+,psychosocial,1,7500506
+,functioning,1,7500506
+,women,1,7500506
+,men,1,7500506
+,coronary,1,7500506
+,coronary artery,1,7500506
+,coronary artery bypass,1,7500506
+,coronary artery bypass surgery,1,7500506
+,artery,1,7500506
+,bypass,1,7500506
+,bypass surgery,1,7500506
+,surgery,1,7500506
+,objective,1,7500506
+,physical,2,7500506
+,psychosocial,2,7500506
+,functioning,2,7500506
+,women,7,7500506
+,men,7,7500506
+,coronary,4,7500506
+,coronary artery,4,7500506
+,coronary artery bypass,3,7500506
+,coronary artery bypass surgery,3,7500506
+,artery,4,7500506
+,bypass,3,7500506
+,bypass surgery,3,7500506
+,surgery,7,7500506
+,design,1,7500506
+,observational,1,7500506
+,cohort,1,7500506
+,cohort study,1,7500506
+,study,1,7500506
+,major,1,7500506
+,teaching,1,7500506
+,teaching hospital,1,7500506
+,hospital,1,7500506
+,patients,3,7500506
+,total,1,7500506
+,consecutive,1,7500506
+,june,1,7500506
+,march,1,7500506
+,main,1,7500506
+,outcome,1,7500506
+,outcome measures,1,7500506
+,measures,1,7500506
+,nurse,1,7500506
+,reviewers,1,7500506
+,data,1,7500506
+,severity,2,7500506
+,coronary artery disease,1,7500506
+,artery disease,1,7500506
+,disease,1,7500506
+,illnesses,2,7500506
+,medical,1,7500506
+,medical records,1,7500506
+,records,1,7500506
+,survey,1,7500506
+,instrumental,1,7500506
+,activities,4,7500506
+,daily,1,7500506
+,social,3,7500506
+,social activities,3,7500506
+,mental,3,7500506
+,mental health,3,7500506
+,health,3,7500506
+,vitality,3,7500506
+,alive,1,7500506
+,months,2,7500506
+,scale,1,7500506
+,age,1,7500506
+,marital,1,7500506
+,marital status,1,7500506
+,status,1,7500506
+,education,1,7500506
+,ang,1,7500506
+,recent,2,7500506
+,recent myocardial infarction,2,7500506
+,myocardial,2,7500506
+,myocardial infarction,2,7500506
+,infarction,2,7500506
+,congestive,2,7500506
+,congestive heart failure,2,7500506
+,heart,2,7500506
+,heart failure,2,7500506
+,failure,2,7500506
+,time,2,7500506
+,results,1,7500506
+,much,1,7500506
+,more,2,7500506
+,likely,1,7500506
+,class,1,7500506
+,class iv,1,7500506
+,class iv angina,1,7500506
+,angina,1,7500506
+,range,1,7500506
+,impairment,2,7500506
+,postoperative,1,7500506
+,equivalent,1,7500506
+,iadls,2,7500506
+,similar,2,7500506
+,greater,1,7500506
+,improvements,1,7500506
+,conclusions,1,7500506
+,severely,1,7500506
+,ill,1,7500506
+,findings,1,7500506
+,functional,1,7500506
+,benefits,1,7500506
+,procedure,1,7500506
+,cocaine,1,8539739
+,cocaine abuse,1,8539739
+,abuse,1,8539739
+,heart,1,8539739
+,heart disease,1,8539739
+,disease,1,8539739
+,cocaine,3,8539739
+,cocaine abuse,1,8539739
+,abuse,1,8539739
+,problem,1,8539739
+,western,1,8539739
+,societies,1,8539739
+,health,1,8539739
+,health personnel,1,8539739
+,personnel,1,8539739
+,aware,1,8539739
+,cardiovascular,1,8539739
+,effects,1,8539739
+,myocardial,2,8539739
+,myocardial infarction,2,8539739
+,infarction,2,8539739
+,most,1,8539739
+,frequent,1,8539739
+,complication,2,8539739
+,cardiac,1,8539739
+,cardiac arrhythmia,1,8539739
+,arrhythmia,2,8539739
+,serious,1,8539739
+,young,1,8539739
+,female,1,8539739
+,intravenously,1,8539739
+,circulatory,1,8539739
+,circulatory collapse,1,8539739
+,collapse,1,8539739
+,authors,1,8539739
+,pharmacological,1,8539739
+,clinical,1,8539739
+,clinical aspects,1,8539739
+,aspects,1,8539739
+,arrhythmias,1,8539739
+,guidelines,1,8539739
+,treatment,1,8539739
+,development,1,8539737
+,risk,1,8539737
+,risk factors,1,8539737
+,factors,1,8539737
+,cardiovascular,1,8539737
+,cardiovascular diseases,1,8539737
+,diseases,1,8539737
+,persons,1,8539737
+,years,1,8539737
+,county,1,8539737
+,period,1,8539737
+,national,1,8539737
+,health,1,8539737
+,health screening,1,8539737
+,screening,1,8539737
+,service,1,8539737
+,screenings,1,8539737
+,risk,2,8539737
+,risk factors,1,8539737
+,factors,1,8539737
+,cardiovascular,1,8539737
+,cardiovascular disease,1,8539737
+,disease,1,8539737
+,years,1,8539737
+,age,1,8539737
+,county,1,8539737
+,myocardial,1,8539737
+,myocardial infarction,1,8539737
+,infarction,1,8539737
+,due,1,8539737
+,reductions,1,8539737
+,total,1,8539737
+,total cholesterol,1,8539737
+,cholesterol,3,8539737
+,more,1,8539737
+,cholesterol levels,1,8539737
+,levels,1,8539737
+,now,1,8539737
+,persons,1,8539737
+,daily,2,8539737
+,little,1,8539737
+,change,1,8539737
+,men,1,8539737
+,percentage,1,8539737
+,women,1,8539737
+,systolic,1,8539737
+,diastolic,1,8539737
+,diastolic blood pressure,1,8539737
+,blood,1,8539737
+,blood pressure,1,8539737
+,pressure,1,8539737
+,slightly,1,8539737
+,consumption,1,8539737
+,butter,1,8539737
+,traditionally,1,8539737
+,coffee,2,8539737
+,not,1,8539737
+,other,1,8539737
+,counties,1,8539737
+,high,1,8539737
+,values,1,8539737
+,smoking,1,8539737
+,habits,1,8539737
+,preventive,1,8539737
+,preventive measures,1,8539737
+,measures,1,8539737
+,still,1,8539737
+,potential,1,8539737
+,future,1,8539737
+,trend,1,8539737
+,favorable,1,8657319
+,results,1,8657319
+,primary,1,8657319
+,percutaneous,1,8657319
+,percutaneous transluminal coronary angioplasty,1,8657319
+,transluminal,1,8657319
+,coronary,1,8657319
+,coronary angioplasty,1,8657319
+,angioplasty,1,8657319
+,acute,1,8657319
+,acute myocardial infarction,1,8657319
+,myocardial,1,8657319
+,myocardial infarction,1,8657319
+,infarction,1,8657319
+,intravenous,1,8657319
+,streptokinase,1,8657319
+,treatment,1,8657319
+,randomized,1,8657319
+,study,1,8657319
+,objective,1,8657319
+,treatment,1,8657319
+,patients,9,8657319
+,acute,2,8657319
+,acute myocardial infarction,2,8657319
+,myocardial,3,8657319
+,myocardial infarction,3,8657319
+,infarction,3,8657319
+,thrombolytic,1,8657319
+,thrombolytic drugs,1,8657319
+,drugs,1,8657319
+,primary,3,8657319
+,angioplasty,6,8657319
+,randomized,2,8657319
+,trial,3,8657319
+,design,1,8657319
+,setting,1,8657319
+,hospital,2,8657319
+,netherlands,1,8657319
+,methods,1,8657319
+,total,2,8657319
+,intravenous,3,8657319
+,streptokinase,5,8657319
+,mean,1,8657319
+,followup,3,8657319
+,duration,1,8657319
+,months,2,8657319
+,ventricular,3,8657319
+,ventricular function,2,8657319
+,function,2,8657319
+,radionuclide,1,8657319
+,radionuclide technique,1,8657319
+,technique,1,8657319
+,hospital discharge,1,8657319
+,discharge,1,8657319
+,end,2,8657319
+,period,2,8657319
+,cost,1,8657319
+,cost analysis,1,8657319
+,analysis,1,8657319
+,calculation,1,8657319
+,medical,1,8657319
+,costs,2,8657319
+,results,1,8657319
+,cardiac,2,8657319
+,cause,1,8657319
+,death,2,8657319
+,sustained,1,8657319
+,effect,1,8657319
+,comparison,2,8657319
+,most,1,8657319
+,benefit,1,8657319
+,anterior,1,8657319
+,anterior wall,1,8657319
+,anterior wall myocardial infarction,1,8657319
+,wall,1,8657319
+,conclusion,1,8657319
+,average,1,8657319
+,lower,1,8657319
+,rate,1,8657319
+,cardiac death,1,8657319
+,better,1,8657319
+,ventricular ejection,1,8657319
+,ventricular ejection fraction,1,8657319
+,ejection,1,8657319
+,ejection fraction,1,8657319
+,fraction,1,8657319
+,increase,1,8657319
+,enzyme,1,8545440
+,inhibitors,1,8545440
+,current,1,8545440
+,knowledge,1,8545440
+,angiotensin,1,8545440
+,enzyme,1,8545440
+,enzyme inhibitors,1,8545440
+,inhibitors,1,8545440
+,treatment,3,8545440
+,hypertension,1,8545440
+,heart,1,8545440
+,heart failure,1,8545440
+,failure,3,8545440
+,effect,5,8545440
+,arteriol,1,8545440
+,resistance,1,8545440
+,early,1,8545440
+,myocardial,1,8545440
+,myocardial infarction,1,8545440
+,infarction,2,8545440
+,mortality,1,8545440
+,patients,2,8545440
+,severely,1,8545440
+,deteriorated,1,8545440
+,myocardium,1,8545440
+,lives,1,8545440
+,additive,1,8545440
+,aspirin,1,8545440
+,first,2,8545440
+,month,1,8545440
+,hours,1,8545440
+,tolerance,1,8545440
+,good,1,8545440
+,dosage,1,8545440
+,case,1,8545440
+,hypotension,1,8545440
+,temporary,1,8545440
+,renal,2,8545440
+,renal failure,2,8545440
+,nephropathy,1,8545440
+,indication,1,8545440
+,captopril,1,8545440
+,enalapril,1,8545440
+,progression,1,8545440
+,risk,1,8545440
+,death,1,8545440
+,chronic,1,8545440
+,chronic dialysis,1,8545440
+,dialysis,1,8545440
+,further,1,8545440
+,studies,1,8545440
+,diabetes,1,8545440
+,experimental,1,8545440
+,arguments,1,8545440
+,atherosclerosis,1,8545440
+,dependent,1,8545440
+,system,1,8545440
+,development,1,8545440
+,most,1,8545440
+,clinical,1,8545440
+,clinical trials,1,8545440
+,action,1,8545440
+,atheromatosis,1,8545440
+,carotid,1,8545440
+,coronary,1,8545440
+,coronary arteries,1,8545440
+,arteries,1,8545440
+,coronary,1,8545436
+,best,1,8545436
+,treatment,1,8545436
+,acute,1,8545436
+,acute myocardial infarction,1,8545436
+,myocardial,1,8545436
+,myocardial infarction,1,8545436
+,infarction,1,8545436
+,efficacy,1,8545436
+,intravenous,1,8545436
+,thrombolysis,5,8545436
+,treatment,5,8545436
+,acute,3,8545436
+,acute myocardial infarction,3,8545436
+,myocardial,3,8545436
+,myocardial infarction,3,8545436
+,infarction,4,8545436
+,coronary,7,8545436
+,coronary angioplasty,6,8545436
+,angioplasty,8,8545436
+,alternative,2,8545436
+,disadvantage,1,8545436
+,risk,2,8545436
+,haemorrhage,1,8545436
+,many,2,8545436
+,cases,2,8545436
+,addition,1,8545436
+,little,1,8545436
+,effect,1,8545436
+,prognosis,1,8545436
+,patients,5,8545436
+,cardiogenic,1,8545436
+,cardiogenic shock,1,8545436
+,shock,1,8545436
+,occlusion,1,8545436
+,venous,1,8545436
+,graft,1,8545436
+,electrocardiographic,1,8545436
+,electrocardiographic findings,1,8545436
+,findings,1,8545436
+,not,1,8545436
+,patent,1,8545436
+,benefit/,1,8545436
+,risk ratio,1,8545436
+,ratio,1,8545436
+,uncertain,1,8545436
+,selection,1,8545436
+,main,1,8545436
+,limitation,1,8545436
+,only,2,8545436
+,effective,3,8545436
+,primary,2,8545436
+,direct,1,8545436
+,major,1,8545436
+,series,1,8545436
+,permeability,1,8545436
+,preservation,1,8545436
+,ventricular,1,8545436
+,ventricular function,1,8545436
+,function,1,8545436
+,short,1,8545436
+,survival,1,8545436
+,several,1,8545436
+,other,1,8545436
+,randomized,1,8545436
+,studies,1,8545436
+,elderly,1,8545436
+,subjects,1,8545436
+,anterior,1,8545436
+,anterior infarctions,1,8545436
+,infarctions,1,8545436
+,economic,1,8545436
+,data,1,8545436
+,available,1,8545436
+,costs,2,8545436
+,lower,1,8545436
+,due,1,8545436
+,reduction,1,8545436
+,hospitalization,1,8545436
+,time,2,8545436
+,number,1,8545436
+,best,1,8545436
+,most,1,8545436
+,severe,1,8545436
+,often,1,8545436
+,possible,1,8545436
+,option,1,8545436
+,contraindication,1,8545436
+,requirements,1,8545436
+,cardiology,1,8545436
+,emergency,2,8545436
+,hours,1,8545436
+,day,1,8545436
+,experienced,1,8545436
+,interventional,1,8545436
+,centres,2,8545436
+,present,1,8545436
+,indication,1,8545436
+,transportation,1,8545436
+,currently,1,8545436
+,stress,1,8545430
+,ultrasonography,1,8545430
+,dobutamine,1,8545430
+,diagnosis,1,8545430
+,coronary,1,8545430
+,coronary disease,1,8545430
+,disease,1,8545430
+,digital,1,8545430
+,stress,3,8545430
+,stress echocardiography,2,8545430
+,echocardiography,2,8545430
+,dobutamine,2,8545430
+,infusion,1,8545430
+,recently,1,8545430
+,attractive,1,8545430
+,alternative,1,8545430
+,stress testing,1,8545430
+,testing,1,8545430
+,coronary,2,8545430
+,coronary artery,2,8545430
+,coronary artery disease,2,8545430
+,artery,2,8545430
+,artery disease,2,8545430
+,disease,2,8545430
+,useful,2,8545430
+,diagnosis,2,8545430
+,assessment,2,8545430
+,ischemia,1,8545430
+,patients,3,8545430
+,unable,1,8545430
+,test,1,8545430
+,difficult,1,8545430
+,preoperative,1,8545430
+,evaluation,2,8545430
+,cardiac,1,8545430
+,risk,1,8545430
+,residual,1,8545430
+,myocardial,2,8545430
+,viability,1,8545430
+,previous,1,8545430
+,previous myocardial infarction,1,8545430
+,myocardial infarction,1,8545430
+,infarction,1,8545430
+,development,1,8545430
+,description,1,8545430
+,methodology,1,8545430
+,dobutamine stress echocardiography,1,8545430
+,article,1,8545430
+,experience,1,8545430
+,date,1,8545430
+,technique,1,8545430
+,postinfarction,1,8545429
+,myocardial,1,8545429
+,viability,1,8545429
+,role,1,8545429
+,evaluation,1,8545429
+,myocardial,4,8545429
+,myocardial scintigraphy,1,8545429
+,scintigraphy,1,8545429
+,relevant,1,8545429
+,management,1,8545429
+,patients,3,8545429
+,previous,1,8545429
+,previous myocardial infarction,1,8545429
+,myocardial infarction,2,8545429
+,infarction,2,8545429
+,purpose,1,8545429
+,investigation,1,8545429
+,first,1,8545429
+,infarcted,1,8545429
+,area,1,8545429
+,secondly,1,8545429
+,residual,2,8545429
+,myocardial ischaemia,1,8545429
+,ischaemia,2,8545429
+,thirdly,1,8545429
+,evidence,1,8545429
+,presence,1,8545429
+,akinetic,1,8545429
+,viable,1,8545429
+,myocardium,2,8545429
+,hibernating myocardium,1,8545429
+,spect,3,8545429
+,indication,1,8545429
+,new,1,8545429
+,tracers,1,8545429
+,fatty acids,1,8545429
+,acids,1,8545429
+,pet,2,8545429
+,cameras,1,8545429
+,indications,1,8545429
+,stress,2,8545429
+,sometimes,1,8545429
+,delayed,1,8545429
+,rest,2,8545429
+,acquisitions,1,8545429
+,case,1,8545429
+,negative,1,8545429
+,pet scans,1,8545429
+,scans,1,8545429
+,useful,1,8545429
+,large,1,8545429
+,severe,1,8545429
+,ventricular,1,8545429
+,ventricular dysfunction,1,8545429
+,dysfunction,1,8545429
+,segmental,1,8545429
+,segmental wall motion,1,8545429
+,wall,1,8545429
+,wall motion,1,8545429
+,motion,1,8545429
+,asynergy,1,8545429
+,absence,1,8545429
+,order,1,8545429
+,eligible,1,8545429
+,coronary,1,8545429
+,coronary revascularization,1,8545429
+,revascularization,1,8545429
+,heart,1,8545429
+,heart transplan,1,8545429
+,transplan,1,8545429
+,unstable,1,8545428
+,ang,1,8545428
+,physiopathology,1,8545428
+,clinical,1,8545428
+,clinical course,1,8545428
+,course,1,8545428
+,therapeutic,1,8545428
+,pathogenic,1,8545428
+,mechanism,1,8545428
+,unstable,3,8545428
+,ang,2,8545428
+,clinical,2,8545428
+,expression,1,8545428
+,coronary,3,8545428
+,coronary heart disease,2,8545428
+,heart,2,8545428
+,heart disease,2,8545428
+,disease,2,8545428
+,similar,1,8545428
+,myocardial,4,8545428
+,myocardial infarction,2,8545428
+,infarction,2,8545428
+,main,1,8545428
+,event,2,8545428
+,instability,1,8545428
+,atheromatous,2,8545428
+,atheromatous plaque,2,8545428
+,plaque,2,8545428
+,intima,1,8545428
+,occlusion,1,8545428
+,manifestations,1,8545428
+,severe,1,8545428
+,fatal,1,8545428
+,case,1,8545428
+,medical,1,8545428
+,treatment,2,8545428
+,most,1,8545428
+,patients,4,8545428
+,early,1,8545428
+,preventive,1,8545428
+,preventive treatment,1,8545428
+,phase,1,8545428
+,angina,2,8545428
+,undiagnosed,1,8545428
+,myocardial infarcts,1,8545428
+,infarcts,1,8545428
+,nearly,1,8545428
+,major,3,8545428
+,rapidly,1,8545428
+,therapeutic,1,8545428
+,strategy,2,8545428
+,myocardial revascularization,1,8545428
+,revascularization,1,8545428
+,angioplasty,1,8545428
+,often,1,8545428
+,risk,4,8545428
+,cardiac,2,8545428
+,cardiac events,1,8545428
+,events,1,8545428
+,short,1,8545428
+,moderate,1,8545428
+,delay,1,8545428
+,procedures,1,8545428
+,thrombosis,1,8545428
+,measures,1,8545428
+,unstable angina,1,8545428
+,new,1,8545428
+,antiplatelet agents,1,8545428
+,certain,1,8545428
+,high,1,8545428
+,high risk,1,8545428
+,cardiac event,1,8545428
+,search,1,8545428
+,compounds,1,8545428
+,rupture,1,8545428
+,prime,1,8545428
+,objective,1,8545428
+,overall,1,8545428
+,management,1,8545428
+,trial,1,7491044
+,streptokinase,1,7491044
+,aspirin,1,7491044
+,combination,1,7491044
+,treatment,1,7491044
+,acute,2,7491044
+,ischaemic,1,7491044
+,ischaemic stroke,1,7491044
+,stroke,2,7491044
+,acute stroke,1,7491044
+,group,1,7491044
+,ischaemic,3,7491044
+,ischaemic stroke,3,7491044
+,stroke,3,7491044
+,thrombolytic,2,7491044
+,thrombolytic drugs,1,7491044
+,drugs,1,7491044
+,recanalisation,1,7491044
+,intracerebral,1,7491044
+,arteries,1,7491044
+,effects,1,7491044
+,aspirin,8,7491044
+,not,2,7491044
+,trial,2,7491044
+,together,1,7491044
+,streptokinase,7,7491044
+,clinical,1,7491044
+,benefits,1,7491044
+,acute,3,7491044
+,similar,1,7491044
+,acute myocardial infarction,1,7491044
+,myocardial,1,7491044
+,myocardial infarction,1,7491044
+,infarction,1,7491044
+,patients,2,7491044
+,hours,1,7491044
+,symptom,1,7491044
+,onset,1,7491044
+,factorial,1,7491044
+,factorial design,1,7491044
+,design,1,7491044
+,intravenous,1,7491044
+,intravenous infusion,1,7491044
+,infusion,1,7491044
+,days,1,7491044
+,iii,1,7491044
+,active,1,7491044
+,treatments,2,7491044
+,neither,1,7491044
+,early,3,7491044
+,results,1,7491044
+,question,1,7491044
+,alone,3,7491044
+,excess,1,7491044
+,case,2,7491044
+,odds ratio,4,7491044
+,ratio,4,7491044
+,confidence,1,7491044
+,confidence interval,1,7491044
+,interval,1,7491044
+,groups,1,7491044
+,only,1,7491044
+,significantly,2,7491044
+,risk,2,7491044
+,death,2,7491044
+,not significantly,1,7491044
+,incidence,1,7491044
+,severe,2,7491044
+,disability,2,7491044
+,potential,1,7491044
+,benefit,1,7491044
+,marginal,1,7491044
+,reduction,1,7491044
+,first,1,7491044
+,months,1,7491044
+,treatment,1,10157380
+,differences,1,10157380
+,acute,1,10157380
+,acute myocardial infarction,1,10157380
+,myocardial,1,10157380
+,myocardial infarction,1,10157380
+,infarction,1,10157380
+,previous,1,10157380
+,research,2,10157380
+,black,2,10157380
+,patients,3,10157380
+,acute,1,10157380
+,acute myocardial infarction,1,10157380
+,myocardial,1,10157380
+,myocardial infarction,1,10157380
+,infarction,1,10157380
+,ami,3,10157380
+,significantly,1,10157380
+,less,3,10157380
+,likely,3,10157380
+,white,1,10157380
+,cardiac,2,10157380
+,cardiac procedures,1,10157380
+,procedures,1,10157380
+,article,1,10157380
+,limited,1,10157380
+,ability,1,10157380
+,low,1,10157380
+,low income,1,10157380
+,income,1,10157380
+,elderly,1,10157380
+,care,1,10157380
+,impact,1,10157380
+,differential,1,10157380
+,differential mortality,1,10157380
+,mortality,1,10157380
+,sample,1,10157380
+,medicare,1,10157380
+,days,1,10157380
+,other,1,10157380
+,factors,1,10157380
+,cardiac catheterization,1,10157380
+,catheterization,1,10157380
+,revascularization,1,10157380
+,procedure,1,10157380
+,responses,1,12836714
+,congestive,1,12836714
+,congestive heart failure,1,12836714
+,heart,1,12836714
+,heart failure,1,12836714
+,failure,1,12836714
+,subsequent,1,12836714
+,myocardial,1,12836714
+,myocardial infarction,1,12836714
+,infarction,1,12836714
+,rats,1,12836714
+,well,2,12836714
+,positive,1,12836714
+,positive inotropic,1,12836714
+,effect,1,12836714
+,catecholamines,3,12836714
+,activation,1,12836714
+,adrenergic,1,12836714
+,adrenergic receptors,1,12836714
+,receptors,2,12836714
+,formation,1,12836714
+,cyclic,4,12836714
+,cyclic adenosine monophosphate,1,12836714
+,adenosine,1,12836714
+,adenosine monophosphate,1,12836714
+,amp,4,12836714
+,cardiac,1,12836714
+,cardiac cell,1,12836714
+,cell,1,12836714
+,attenuated,1,12836714
+,responses,1,12836714
+,hearts,3,12836714
+,patients,1,12836714
+,experimental,3,12836714
+,experimental animals,3,12836714
+,animals,3,12836714
+,coronary,2,12836714
+,coronary artery,2,12836714
+,coronary artery disease,1,12836714
+,artery,2,12836714
+,artery disease,1,12836714
+,disease,1,12836714
+,mechanisms,2,12836714
+,poorly,1,12836714
+,status,1,12836714
+,receptor,2,12836714
+,congestive,1,12836714
+,congestive heart failure,1,12836714
+,heart,2,12836714
+,heart failure,1,12836714
+,failure,1,12836714
+,due,2,12836714
+,myocardial,1,12836714
+,myocardial infarction,1,12836714
+,infarction,1,12836714
+,rats,1,12836714
+,weeks,1,12836714
+,hemodynamic,2,12836714
+,biochemical,1,12836714
+,changes,3,12836714
+,isoproterenol,2,12836714
+,agonist,2,12836714
+,forskolin,1,12836714
+,rat,1,12836714
+,rat heart,1,12836714
+,preparations,1,12836714
+,contractile,2,12836714
+,function,1,12836714
+,cyclic amp,3,12836714
+,content,3,12836714
+,actions,1,12836714
+,left,2,12836714
+,ventricular,1,12836714
+,not,1,12836714
+,only,1,12836714
+,response,2,12836714
+,density,1,12836714
+,myocardium,1,12836714
+,isolated,1,12836714
+,increases,1,12836714
+,force,1,12836714
+,left ventricle,1,12836714
+,ventricle,1,12836714
+,data,1,12836714
+,defects,1,12836714
+,sites,1,12836714
+,cardiac,1,9422204
+,cardiac arrest,1,9422204
+,arrest,1,9422204
+,apparently,1,9422204
+,healthy,1,9422204
+,young,1,9422204
+,women,1,9422204
+,sudden,2,9422204
+,death,2,9422204
+,young,1,9422204
+,people,1,9422204
+,years,1,9422204
+,old,1,9422204
+,systematic,1,9422204
+,studies,1,9422204
+,anecdotal reports,1,9422204
+,reports,1,9422204
+,cases,1,9422204
+,global,1,9422204
+,survey,1,9422204
+,incidence,1,9422204
+,special,1,9422204
+,reference,1,9422204
+,belgian,1,9422204
+,database,1,9422204
+,prognosis,1,9422204
+,specific,1,9422204
+,age,1,9422204
+,age group,1,9422204
+,group,1,9422204
+,atherosclerotic,1,9422204
+,coronary,2,9422204
+,coronary artery,1,9422204
+,coronary artery disease,1,9422204
+,artery,1,9422204
+,artery disease,1,9422204
+,disease,2,9422204
+,cad,1,9422204
+,causes,1,9422204
+,well,1,9422204
+,role,1,9422204
+,intoxication,1,9422204
+,drug,1,9422204
+,substance,1,9422204
+,substance abuse,1,9422204
+,abuse,1,9422204
+,conventional,1,9422204
+,cardiopulmonary,1,9422204
+,cardiopulmonary resuscitation,1,9422204
+,resuscitation,1,9422204
+,restoration,1,9422204
+,spontaneous,1,9422204
+,circulation,1,9422204
+,neurological,1,9422204
+,outcome,1,9422204
+,search,1,9422204
+,mandatory,1,9422204
+,involvement,1,9422204
+,drugs,1,9422204
+,other,1,9422204
+,toxins,1,9422204
+,first,1,9422204
+,place,1,9422204
+,transoesophageal,1,9422204
+,transoesophageal echocardiography,1,9422204
+,echocardiography,1,9422204
+,coronary angiography,1,9422204
+,angiography,1,9422204
+,testing,1,9422204
+,serological,1,9422204
+,myocardial,1,9422204
+,myocardial biopsy,1,9422204
+,biopsy,1,9422204
+,magnetic,1,9422204
+,magnetic resonance,1,9422204
+,magnetic resonance imaging,1,9422204
+,resonance,1,9422204
+,imaging,1,9422204
+,years,1,9002776
+,experience,1,9002776
+,mibg,1,9002776
+,applications,1,9002776
+,potential,1,9002776
+,new,1,9002776
+,radiolabeled,1,9002776
+,peptides,1,9002776
+,personal,1,9002776
+,overview,1,9002776
+,remarks,1,9002776
+,international,1,9002776
+,workshop,1,9002776
+,metaiodobenzylguanidine,1,9002776
+,mibg,12,9002776
+,somatostatin,4,9002776
+,somatostatin analogs,2,9002776
+,analogs,3,9002776
+,rome,1,9002776
+,june,1,9002776
+,wide,2,9002776
+,range,5,9002776
+,broad,1,9002776
+,general,2,9002776
+,role,3,9002776
+,location,3,9002776
+,neuroendocrine,5,9002776
+,neuroendocrine tumors,3,9002776
+,tumors,11,9002776
+,scintigraphy,4,9002776
+,effective,2,9002776
+,pheochromocytomas,2,9002776
+,neuroblastoma,2,9002776
+,chemodectoma,1,9002776
+,other,11,9002776
+,apudomas,3,9002776
+,popularity,1,9002776
+,radiolabel,2,9002776
+,potential,2,9002776
+,advantages,1,9002776
+,spect,1,9002776
+,spect imaging,1,9002776
+,imaging,1,9002776
+,family,1,9002776
+,radiopharmaceuticals,3,9002776
+,biogenic amine,1,9002776
+,amine,1,9002776
+,uptake,2,9002776
+,storage,1,9002776
+,mechanisms,1,9002776
+,pet,1,9002776
+,vivo,2,9002776
+,probe,1,9002776
+,sympathetic nervous system,1,9002776
+,nervous,2,9002776
+,nervous system,2,9002776
+,system,2,9002776
+,cardiac,2,9002776
+,innervation,1,9002776
+,cardiomyopathy,1,9002776
+,myocardial,1,9002776
+,myocardial infarction,1,9002776
+,infarction,1,9002776
+,prognostic,1,9002776
+,index,2,9002776
+,cardiac transplantation,1,9002776
+,transplantation,2,9002776
+,pulmonary,2,9002776
+,function,1,9002776
+,intravenous,1,9002776
+,routes,1,9002776
+,administratio,1,9002776
+,radiopharmaceutical,2,9002776
+,radiopharmaceutical therapy,1,9002776
+,therapy,3,9002776
+,treatment,1,9002776
+,early,1,9002776
+,natural,1,9002776
+,natural history,1,9002776
+,history,1,9002776
+,disease,1,9002776
+,initial,1,9002776
+,management,1,9002776
+,modalitiese,1,9002776
+,chemotherapy,1,9002776
+,bone,1,9002776
+,bone marrow,1,9002776
+,bone marrow transplantation,1,9002776
+,marrow,1,9002776
+,marrow transplantation,1,9002776
+,radiolabeled,2,9002776
+,somatostatin receptor,2,9002776
+,receptor,2,9002776
+,pituitary,1,9002776
+,pituitary tumors,1,9002776
+,central,1,9002776
+,central nervous system,1,9002776
+,central nervous system tumors,1,9002776
+,nervous system tumors,1,9002776
+,carcinoids,2,9002776
+,islet cell,2,9002776
+,islet cell tumors,2,9002776
+,cell,3,9002776
+,medullary,1,9002776
+,medullary thyroid carcinoma,1,9002776
+,thyroid,1,9002776
+,thyroid carcinoma,1,9002776
+,carcinoma,1,9002776
+,small,1,9002776
+,small cell lung cancer,1,9002776
+,lung,1,9002776
+,lung cancer,1,9002776
+,cancer,1,9002776
+,superiority,1,9002776
+,future,1,9002776
+,labels,1,9002776
+,somatostatin receptor scintigraphy,1,9002776
+,autoimmune,1,9002776
+,pentetreotide,2,9002776
+,peptides,1,9002776
+,receptors,1,9002776
+,peptide,1,9002776
+,peptide hormones,1,9002776
+,hormones,1,9002776
+,lymphokines,2,9002776
+,paracrine,1,9002776
+,information,1,9002776
+,molecules,1,9002776
+,concepts,1,9002776
+,use,1,9002776
+,slowly,1,9002776
+,development,1,9002776
+,applicable,1,9002776
+,labeling,1,9002776
+,techniques,1,9002776
+,examples,1,9002776
+,interleukins,1,9002776
+,comparisons,1,9002776
+,neuroblastomas,1,9002776
+,use,1,9002748
+,mibg,1,9002748
+,cardiac,1,9002748
+,adrenergic,1,9002748
+,innervation,1,9002748
+,experience,1,9002748
+,hypertensive,1,9002748
+,hypertensive cardiopathy,1,9002748
+,cardiopathy,1,9002748
+,ventricular,1,9002748
+,ventricular aneurysms,1,9002748
+,aneurysms,1,9002748
+,mibg,7,9002748
+,tracer,1,9002748
+,adrenergic,3,9002748
+,adrenergic system,1,9002748
+,system,1,9002748
+,heart,2,9002748
+,aims,1,9002748
+,study,1,9002748
+,functional,2,9002748
+,functional status,1,9002748
+,status,1,9002748
+,hypertensive,4,9002748
+,patients,8,9002748
+,left,2,9002748
+,left ventricular hypertrophy,1,9002748
+,ventricular,2,9002748
+,ventricular hypertrophy,1,9002748
+,hypertrophy,1,9002748
+,lvh,2,9002748
+,distribution,2,9002748
+,terminals,1,9002748
+,left ventricular aneurysms,1,9002748
+,ventricular aneurysms,1,9002748
+,aneurysms,1,9002748
+,lva,2,9002748
+,complex,3,9002748
+,arrhythmias,3,9002748
+,normals,2,9002748
+,hypertension,1,9002748
+,previous,1,9002748
+,previous myocardial infarction,1,9002748
+,myocardial,4,9002748
+,myocardial infarction,2,9002748
+,infarction,2,9002748
+,series,1,9002748
+,scans,2,9002748
+,hours,1,9002748
+,spect,2,9002748
+,data,1,9002748
+,quantification,1,9002748
+,ratio,2,9002748
+,scan,2,9002748
+,percent,1,9002748
+,percent uptake,1,9002748
+,uptake,3,9002748
+,regions,1,9002748
+,significant,1,9002748
+,differences,1,9002748
+,either,1,9002748
+,regional,1,9002748
+,significantly,2,9002748
+,septal,1,9002748
+,wall,1,9002748
+,lateral,1,9002748
+,inferior,2,9002748
+,walls,2,9002748
+,lower,1,9002748
+,anteroapical myocardial infarction,1,9002748
+,size,1,9002748
+,defect,3,9002748
+,slightly,2,9002748
+,smaller,1,9002748
+,constant,1,9002748
+,severe,1,9002748
+,normal,1,9002748
+,while,1,9002748
+,innervation,1,9002748
+,myocardial perfusion,1,9002748
+,perfusion,2,9002748
+,large,1,9002748
+,area,1,9002748
+,anatomical,1,9002748
+,denervation,1,9002748
+,preserved,1,9002748
+,viability,1,9002748
+,mismatch,1,9002748
+,trigger,1,9002748
+,regional,1,9002747
+,sympathetic denervation,1,9002747
+,denervation,1,9002747
+,myocardial,1,9002747
+,myocardial infarction,1,9002747
+,infarction,1,9002747
+,followup,1,9002747
+,followup study,1,9002747
+,study,1,9002747
+,mibg,1,9002747
+,previous,1,9002747
+,studies,1,9002747
+,dogs,2,9002747
+,experimental,1,9002747
+,infarction,5,9002747
+,myocardial,4,9002747
+,sympathetic denervation,2,9002747
+,denervation,3,9002747
+,not,1,9002747
+,only,1,9002747
+,infarcted,3,9002747
+,area,3,9002747
+,region,1,9002747
+,apical,1,9002747
+,myocardial scintigraphy,1,9002747
+,scintigraphy,2,9002747
+,normal,1,9002747
+,few,1,9002747
+,months,4,9002747
+,time,2,9002747
+,reinnervation,2,9002747
+,mibg,3,9002747
+,patients,2,9002747
+,first,2,9002747
+,acute,1,9002747
+,acute transmural myocardial infarction,1,9002747
+,transmural,1,9002747
+,transmural myocardial infarction,1,9002747
+,myocardial infarction,1,9002747
+,scans,2,9002747
+,year,1,9002747
+,time course,1,9002747
+,course,1,9002747
+,possible,1,9002747
+,hours,1,9002747
+,therapy,1,9002747
+,followup,1,9002747
+,period,1,9002747
+,cardiac,1,9002747
+,cardiac events,1,9002747
+,events,1,9002747
+,week,1,9002747
+,comparison,1,9002747
+,perfusion,1,9002747
+,denervated,1,9002747
+,larger,1,9002747
+,difference,1,9002747
+,uptake,1,9002747
+,myocardium,1,9002747
+,clinical,1,9002746
+,use,1,9002746
+,metaiodobenzylguanidine,1,9002746
+,imaging,1,9002746
+,cardiology,1,9002746
+,cardiac,4,9002746
+,cardiac function,1,9002746
+,function,3,9002746
+,predominantly,1,9002746
+,autonomic,1,9002746
+,innervation,1,9002746
+,many,1,9002746
+,heart,2,9002746
+,heart diseases,1,9002746
+,diseases,1,9002746
+,alterations,1,9002746
+,adrenergic,4,9002746
+,neurotransmission,1,9002746
+,patients,8,9002746
+,cardiomyopathies,1,9002746
+,numerous,1,9002746
+,therapeutic,1,9002746
+,therapeutic agents,1,9002746
+,act,1,9002746
+,directly,1,9002746
+,metaiodobenzylguanidine,1,9002746
+,mibg,9,9002746
+,imaging,4,9002746
+,vivo,1,9002746
+,information,1,9002746
+,main,1,9002746
+,components,1,9002746
+,adrenergic nerve,2,9002746
+,nerve,2,9002746
+,norepinephrine,2,9002746
+,norepinephrine reuptake,2,9002746
+,reuptake,2,9002746
+,storage,2,9002746
+,system,2,9002746
+,uptake,4,9002746
+,congestive,1,9002746
+,congestive heart failure,1,9002746
+,heart failure,1,9002746
+,failure,1,9002746
+,impaired,1,9002746
+,dilated,1,9002746
+,dilated cardiomyopathy,1,9002746
+,cardiomyopathy,3,9002746
+,idiopathic,2,9002746
+,ischemic,2,9002746
+,alteration,1,9002746
+,severity,2,9002746
+,disease,1,9002746
+,basis,1,9002746
+,clinical,2,9002746
+,hemodynamic,1,9002746
+,parameters,1,9002746
+,prognostic,1,9002746
+,prognostic marker,1,9002746
+,marker,1,9002746
+,comparison,1,9002746
+,other,1,9002746
+,myocardial,1,9002746
+,myocardial infarction,1,9002746
+,infarction,1,9002746
+,decrease,1,9002746
+,transient,1,9002746
+,viability,1,9002746
+,indicator,1,9002746
+,occurrence,1,9002746
+,ventricular,3,9002746
+,ventricular arrhythmias,2,9002746
+,arrhythmias,3,9002746
+,primary,1,9002746
+,primary hypertrophic,1,9002746
+,primary hypertrophic cardiomyopathy,1,9002746
+,hypertrophic,1,9002746
+,hypertrophic cardiomyopathy,1,9002746
+,various,1,9002746
+,arrhythmogenic right ventricular cardiomyopathy,1,9002746
+,right,1,9002746
+,right ventricular cardiomyopathy,1,9002746
+,syndrome,1,9002746
+,regional,1,9002746
+,abnormalities,1,9002746
+,new,1,9002746
+,insights,1,9002746
+,mechanisms,1,9002746
+,scintigraphy,1,9002746
+,evaluation,1,9002746
+,anthracyclin,1,9002746
+,cardiotoxicity,1,9002746
+,tool,1,9002746
+,cardiologist,1,9002746
+,years,1,8964646
+,treatment,1,8964646
+,treatment efficacy,1,8964646
+,efficacy,1,8964646
+,patients,1,8964646
+,severe,1,8964646
+,hyperlipidemia,1,8964646
+,lipid,1,8964646
+,drugs,1,8964646
+,total,2,8964646
+,patients,5,8964646
+,heterozygous,1,8964646
+,hyperlipidemia,1,8964646
+,years,2,8964646
+,diet,2,8964646
+,drugs,2,8964646
+,only,1,8964646
+,treatment,1,8964646
+,periods,1,8964646
+,apheresis,3,8964646
+,group,7,8964646
+,rug,1,8964646
+,months,1,8964646
+,results,2,8964646
+,significant,1,8964646
+,differences,1,8964646
+,total cholesterol,1,8964646
+,cholesterol,1,8964646
+,ldl,1,8964646
+,patient,1,8964646
+,myocardial,2,8964646
+,myocardial infarction,2,8964646
+,infarction,2,8964646
+,manifestation,1,8964646
+,coronary,2,8964646
+,coronary heart disease,2,8964646
+,heart,2,8964646
+,heart disease,2,8964646
+,disease,2,8964646
+,cases,1,8964646
+,drug,2,8964646
+,severe,1,8964646
+,increased,1,8964646
+,clinical,1,8964646
+,performance,1,8964646
+,other,1,8964646
+,hand,1,8964646
+,wellbeing,1,8964646
+,lower,1,8964646
+,scores,1,8964646
+,present,1,8964646
+,trial,1,8964646
+,reduction,1,8964646
+,serum,1,8964646
+,serum lipid,1,8964646
+,lipid,1,8964646
+,concentrations,1,8964646
+,dose,1,8964646
+,dependent,1,8964646
+,risk,1,8964646
+,development,1,8964646
+,progression,1,8964646
+,respect,1,8964646
+,laboratory,1,8964646
+,laboratory results,1,8964646
+,most,1,8964646
+,effective,1,8964646
+,therapy,1,8964646
+,changes,1,8963353
+,body,1,8963353
+,body weight,1,8963353
+,weight,1,8963353
+,relation,1,8963353
+,mortality,1,8963353
+,european,1,8963353
+,men,1,8963353
+,countries,1,8963353
+,study,1,8963353
+,objectives,1,8963353
+,study,5,8963353
+,relation,1,8963353
+,changes,1,8963353
+,body,5,8963353
+,body weight,5,8963353
+,weight,13,8963353
+,subsequent,1,8963353
+,mortality,5,8963353
+,design,1,8963353
+,prospective,1,8963353
+,followup,3,8963353
+,followup study,1,8963353
+,population,1,8963353
+,population study,1,8963353
+,subjects,1,8963353
+,men,6,8963353
+,baseline,1,8963353
+,participating,1,8963353
+,european,1,8963353
+,cohorts,1,8963353
+,countries,1,8963353
+,groups,1,8963353
+,pattern,1,8963353
+,weight measurements,1,8963353
+,measurements,1,8963353
+,intervals,1,8963353
+,years,3,8963353
+,quartiles,1,8963353
+,degree,1,8963353
+,variability,2,8963353
+,main,1,8963353
+,outcome,1,8963353
+,outcome measures,1,8963353
+,measures,1,8963353
+,last,1,8963353
+,weight measurement,1,8963353
+,measurement,1,8963353
+,deaths,1,8963353
+,first,1,8963353
+,results,2,8963353
+,significantly,1,8963353
+,elevated,3,8963353
+,hazard,2,8963353
+,hazard ratios,2,8963353
+,ratios,2,8963353
+,death,1,8963353
+,causes,3,8963353
+,confidence,1,8963353
+,confidence interval,1,8963353
+,interval,1,8963353
+,cardiovascular,2,8963353
+,cardiovascular diseases,1,8963353
+,diseases,1,8963353
+,other,2,8963353
+,constant,2,8963353
+,fluctuating,2,8963353
+,risk,2,8963353
+,cause,1,8963353
+,coronary,3,8963353
+,coronary heart disease,3,8963353
+,heart,3,8963353
+,heart disease,3,8963353
+,disease,4,8963353
+,myocardial,3,8963353
+,myocardial infarction,3,8963353
+,infarction,3,8963353
+,group,1,8963353
+,only,1,8963353
+,significant,1,8963353
+,total,1,8963353
+,risks,1,8963353
+,cardiovascular disease,1,8963353
+,cancer,1,8963353
+,upper,1,8963353
+,quartile,2,8963353
+,lower,1,8963353
+,conclusions,1,8963353
+,present,1,8963353
+,decreasing,1,8963353
+,increased,1,8963353
+,average,1,8963353
+,increase,1,8963353
+,kg body weight,1,8963353
+,lowest,1,8963353
+,effect,1,8919348
+,myocardial,1,8919348
+,myocardial infarction,1,8919348
+,infarction,1,8919348
+,ischemia,1,8919348
+,induction,1,8919348
+,cardiac,1,8919348
+,ventricular,1,8919348
+,present,1,8919348
+,work,1,8919348
+,effects,3,8919348
+,myocardial,1,8919348
+,myocardial infarction,1,8919348
+,infarction,1,8919348
+,ischemia,5,8919348
+,induction,1,8919348
+,ventricular,3,8919348
+,electrophysiologic,1,8919348
+,global,1,8919348
+,local,2,8919348
+,variation,1,8919348
+,dispersion,3,8919348
+,refractory,3,8919348
+,refractory periods,3,8919348
+,periods,3,8919348
+,well,1,8919348
+,conduction,1,8919348
+,conduction velocity,1,8919348
+,velocity,1,8919348
+,initiation,1,8919348
+,reentry,2,8919348
+,mechanisms,1,8919348
+,means,1,8919348
+,computer,1,8919348
+,computer simulations,1,8919348
+,simulations,2,8919348
+,cellular,1,8919348
+,model,1,8919348
+,activation,1,8919348
+,wave,1,8919348
+,surface,1,8919348
+,element,1,8919348
+,local area,1,8919348
+,area,1,8919348
+,then,1,8919348
+,simulated,1,8919348
+,gaussian,1,8919348
+,gaussian distribution,1,8919348
+,distribution,1,8919348
+,mean,1,8919348
+,standard,1,8919348
+,standard deviation,1,8919348
+,deviation,1,8919348
+,phenomena,1,8919348
+,whole,1,8919348
+,ventricle,1,8919348
+,responsible,1,8919348
+,ventricular fibrillation,1,8919348
+,fibrillation,1,8919348
+,sudden,1,8919348
+,sudden cardiac death,1,8919348
+,cardiac,2,8919348
+,cardiac death,1,8919348
+,death,1,8919348
+,only,1,8919348
+,limited,1,8919348
+,parts,1,8919348
+,myocardium,1,8919348
+,statistical,1,8919348
+,statistical study,1,8919348
+,study,1,8919348
+,probability,1,8919348
+,function,1,8919348
+,size,1,8919348
+,ischemic,1,8919348
+,rate,1,8919348
+,parameter,1,8919348
+,primary,1,8919348
+,ree,1,8919348
+,evaluation,1,8907431
+,performance,1,8907431
+,equilibrium,1,8907431
+,equilibrium radionuclide angiocardiography,1,8907431
+,radionuclide,1,8907431
+,radionuclide angiocardiography,1,8907431
+,angiocardiography,1,8907431
+,patients,2,8907431
+,severe,1,8907431
+,heart,2,8907431
+,heart failure,1,8907431
+,failure,1,8907431
+,due,1,8907431
+,myocardial,1,8907431
+,myocardial infarction,1,8907431
+,infarction,1,8907431
+,ami,2,8907431
+,breathing,1,8907431
+,peep,2,8907431
+,additional,1,8907431
+,therapeutic,1,8907431
+,value,1,8907431
+,study,1,8907431
+,effects,1,8907431
+,cpap,1,8907431
+,face,1,8907431
+,face mask,1,8907431
+,mask,1,8907431
+,cm h2o,1,8907431
+,performance,2,8907431
+,equilibrium,1,8907431
+,equilibrium radionuclide angiocardiography,1,8907431
+,radionuclide,1,8907431
+,radionuclide angiocardiography,1,8907431
+,angiocardiography,1,8907431
+,era,1,8907431
+,response,1,8907431
+,lung,1,8907431
+,inflation,1,8907431
+,high,1,8907431
+,levels,1,8907431
+,heart rate,1,8907431
+,rate,1,8907431
+,stroke,1,8907431
+,stroke volume,1,8907431
+,volume,1,8907431
+,sum,1,8907431
+,pathological,1,8907431
+,reduction,1,8907431
+,decrease,1,8907431
+,left,1,8907431
+,ventricular,1,8907431
+,compliance,1,8907431
+,restriction,1,8907431
+,positive,1,8907431
+,pressure,1,8907431
+,global,1,8907431
+,systolic,1,8907431
+,cardiac,1,8903840
+,cardiac troponin,1,8903840
+,troponin,1,8903840
+,immunoassay,1,8903840
+,microplates,1,8903840
+,preliminary,1,8903840
+,performance,1,8903840
+,acute,1,8903840
+,acute myocardial infarction,1,8903840
+,myocardial,1,8903840
+,myocardial infarction,1,8903840
+,infarction,1,8903840
+,cardiac,1,8903840
+,cardiac troponin,1,8903840
+,troponin,2,8903840
+,tnt,6,8903840
+,immunoassay,2,8903840
+,system,5,8903840
+,elisa,1,8903840
+,germany,1,8903840
+,technology,1,8903840
+,sensitive,1,8903840
+,microplate,2,8903840
+,coating,1,8903840
+,microplates,1,8903840
+,bovine,1,8903840
+,serum,2,8903840
+,stable,1,8903840
+,months,1,8903840
+,secondary,1,8903840
+,streptavidin,1,8903840
+,first,2,8903840
+,first step,1,8903840
+,step,1,8903840
+,assay,2,8903840
+,opd,1,8903840
+,substrate,1,8903840
+,conjugate,1,8903840
+,rapid,1,8903840
+,kinetic,2,8903840
+,measurement,2,8903840
+,levels,2,8903840
+,upper,1,8903840
+,limit,1,8903840
+,reference,1,8903840
+,population,1,8903840
+,percentile,1,8903840
+,imprecision,2,8903840
+,studies,1,8903840
+,ckmb,3,8903840
+,mass,3,8903840
+,mass concentration,3,8903840
+,concentration,3,8903840
+,acute,1,8903840
+,acute myocardial infarction,1,8903840
+,myocardial,1,8903840
+,myocardial infarction,1,8903840
+,infarction,1,8903840
+,patients,4,8903840
+,streptokinase,1,8903840
+,clinical,1,8903840
+,clinical sensitivity,1,8903840
+,sensitivity,2,8903840
+,similar,1,8903840
+,test,1,8903840
+,initiation,1,8903840
+,thrombolytic,1,8903840
+,thrombolytic therapy,1,8903840
+,therapy,1,8903840
+,early,2,8903840
+,ratio,1,8903840
+,lower,1,8903840
+,signs,1,8903840
+,successful,1,8903840
+,reperfusion,1,8903840
+,peak,1,8903840
+,serum samples,1,8903840
+,samples,1,8903840
+,renal,1,8903840
+,renal failure,1,8903840
+,failure,1,8903840
+,patient,1,8903840
+,rhabdomyolysis,1,8903840
+,strong,1,8903840
+,behaviour,1,8903840
+,dilution,1,8903840
+,presence,1,8903840
+,interfering,1,8903840
+,factor,1,8903840
+,endpoint,1,8903840
+,analysis,2,8903840
+,respect,1,8903840
+,total,2,8903840
+,time,2,8903840
+,greatly,1,8903840
+,costs,1,8903840
+,measurements,1,8903840
+,systems,1,8903840
+,min,1,8903840
+,angiotensin,1,8903616
+,enzyme,1,8903616
+,enzyme gene,1,8903616
+,gene,1,8903616
+,gene polymorphism,1,8903616
+,polymorphism,1,8903616
+,carotid,1,8903616
+,carotid atherosclerosis,1,8903616
+,atherosclerosis,1,8903616
+,population,1,8903616
+,objectives,1,8903616
+,angiotensin,1,8903616
+,enzyme,1,8903616
+,ace,8,8903616
+,polymorphism,4,8903616
+,independent,1,8903616
+,risk,3,8903616
+,risk factor,1,8903616
+,factor,1,8903616
+,myocardial,1,8903616
+,myocardial infarction,1,8903616
+,infarction,1,8903616
+,other,2,8903616
+,other cardiovascular diseases,1,8903616
+,cardiovascular,1,8903616
+,cardiovascular diseases,1,8903616
+,diseases,1,8903616
+,aim,1,8903616
+,study,1,8903616
+,relationship,1,8903616
+,genotype,5,8903616
+,carotid,6,8903616
+,carotid atherosclerosis,4,8903616
+,atherosclerosis,5,8903616
+,ultrasonography,1,8903616
+,patients,5,8903616
+,methods,1,8903616
+,age,2,8903616
+,years,1,8903616
+,relation,1,8903616
+,traditional,1,8903616
+,risk factors,2,8903616
+,factors,2,8903616
+,degree,1,8903616
+,thickness,5,8903616
+,level,2,8903616
+,common,1,8903616
+,common carotid artery,1,8903616
+,carotid artery,1,8903616
+,artery,1,8903616
+,bifurcation,1,8903616
+,internal,1,8903616
+,internal carotid,1,8903616
+,normal,1,8903616
+,wall,1,8903616
+,atherosclerotic,1,8903616
+,atherosclerotic plaque,1,8903616
+,plaque,1,8903616
+,examination,1,8903616
+,sex,1,8903616
+,body,1,8903616
+,body mass,1,8903616
+,body mass index,1,8903616
+,mass,1,8903616
+,index,1,8903616
+,blood,1,8903616
+,blood pressure,1,8903616
+,pressure,1,8903616
+,levels,3,8903616
+,prevalence,1,8903616
+,similar,2,8903616
+,groups,2,8903616
+,polymerase,1,8903616
+,polymerase chain reaction,1,8903616
+,chain,1,8903616
+,reaction,1,8903616
+,specific,1,8903616
+,primers,1,8903616
+,genomic,1,8903616
+,genomic dna,1,8903616
+,dna,1,8903616
+,leukocytes,1,8903616
+,template,1,8903616
+,plasma,4,8903616
+,plasma renin activity,1,8903616
+,renin,1,8903616
+,renin activity,1,8903616
+,activity,1,8903616
+,plasma aldosterone,1,8903616
+,aldosterone,1,8903616
+,standard,1,8903616
+,procedures,1,8903616
+,results,1,8903616
+,significant,1,8903616
+,differences,1,8903616
+,parameters,1,8903616
+,distribution,1,8903616
+,allele,1,8903616
+,allele frequency,1,8903616
+,frequency,1,8903616
+,only,1,8903616
+,significantly,1,8903616
+,genotypes,2,8903616
+,mean,1,8903616
+,conclusion,1,8903616
+,coronary,1,8903616
+,coronary atherosclerosis,1,8903616
+,present,1,8903616
+,data,1,8903616
+,not,1,8903616
+,further,1,8903616
+,studies,1,8903616
+,larger,1,8903616
+,populations,1,8903616
+,genetic,1,8903616
+,lipoprotein(,1,8857237
+,cerebrovascular,1,8857237
+,coronary,1,8857237
+,coronary atherosclerosis,1,8857237
+,atherosclerosis,1,8857237
+,serum,2,8857237
+,serum lipoprotein(,1,8857237
+,lipoprotein(,1,8857237
+,healthy,1,8857237
+,healthy controls,1,8857237
+,controls,1,8857237
+,control,3,8857237
+,control group,2,8857237
+,group,8,8857237
+,patients,4,8857237
+,cerebrovascular,1,8857237
+,cerebrovascular disease,1,8857237
+,disease,1,8857237
+,cvd,4,8857237
+,acute,1,8857237
+,acute myocardial infarction,1,8857237
+,myocardial,1,8857237
+,myocardial infarction,1,8857237
+,infarction,4,8857237
+,ami,3,8857237
+,concentration,3,8857237
+,single,1,8857237
+,radial,1,8857237
+,immunodiffusion,1,8857237
+,method,1,8857237
+,skewed distribution,1,8857237
+,distribution,1,8857237
+,box,1,8857237
+,box plot,1,8857237
+,methods,1,8857237
+,results,2,8857237
+,levels,1,8857237
+,significantly,1,8857237
+,groups,3,8857237
+,cerebral,4,8857237
+,cerebral hemorrhage,1,8857237
+,hemorrhage,1,8857237
+,emb,1,8857237
+,lacunar,1,8857237
+,lacunar infarction,1,8857237
+,lac,2,8857237
+,thr,1,8857237
+,elevated,1,8857237
+,value,2,8857237
+,severe,1,8857237
+,lesions,1,8857237
+,major,1,8857237
+,cerebral arteries,1,8857237
+,arteries,3,8857237
+,cerebral arteriograms,1,8857237
+,arteriograms,1,8857237
+,coronary,4,8857237
+,coronary angiography,1,8857237
+,angiography,1,8857237
+,level,1,8857237
+,marked,1,8857237
+,increase,2,8857237
+,number,1,8857237
+,affected,1,8857237
+,vessels,1,8857237
+,correlation,1,8857237
+,index,1,8857237
+,lesion,1,8857237
+,severity,2,8857237
+,coronary arteries,2,8857237
+,high,1,8857237
+,atherosclerosis,1,8857237
+,effects,1,8850388
+,exchange,1,8850388
+,amiloride,1,8850388
+,ventricular,1,8850388
+,anterior,1,8850388
+,anterior myocardial infarction,1,8850388
+,myocardial,1,8850388
+,myocardial infarction,1,8850388
+,infarction,1,8850388
+,rats,1,8850388
+,effects,1,8850388
+,amiloride,6,8850388
+,exchange,1,8850388
+,ventricular,4,8850388
+,ventricular remodeling,1,8850388
+,remodeling,1,8850388
+,infarcted,1,8850388
+,rat,1,8850388
+,model,1,8850388
+,group,7,8850388
+,coronary,1,8850388
+,coronary artery,1,8850388
+,artery,1,8850388
+,rats,3,8850388
+,drinking,1,8850388
+,drinking water,1,8850388
+,water,2,8850388
+,weeks,2,8850388
+,control,3,8850388
+,control group,3,8850388
+,myocardial,3,8850388
+,myocardial infarction,2,8850388
+,infarction,2,8850388
+,day,1,8850388
+,ratio,1,8850388
+,heart,1,8850388
+,weight,4,8850388
+,body,2,8850388
+,body weight,2,8850388
+,significantly,3,8850388
+,less,1,8850388
+,diameter,1,8850388
+,fiber,1,8850388
+,region,1,8850388
+,adjacent,1,8850388
+,operated,1,8850388
+,area,1,8850388
+,ventricular cavity,1,8850388
+,cavity,1,8850388
+,dimension,1,8850388
+,smaller,1,8850388
+,findings,1,8850388
+,human,1,8850377
+,myocardium,1,8850377
+,recent,1,8850377
+,advances,1,8850377
+,aspirations,1,8850377
+,development,1,8850377
+,new,1,8850377
+,means,1,8850377
+,clinical,1,8850377
+,practice,1,8850377
+,ischemic,5,8850377
+,ischemic preconditioning,2,8850377
+,preconditioning,4,8850377
+,most,2,8850377
+,means,1,8850377
+,myocardium,3,8850377
+,injury,1,8850377
+,experimental,1,8850377
+,experimental animal,1,8850377
+,experimental animal models,1,8850377
+,animal,3,8850377
+,animal models,3,8850377
+,models,3,8850377
+,mechanism,2,8850377
+,incompletely,1,8850377
+,review,1,8850377
+,evidence,1,8850377
+,syndromes,1,8850377
+,humans,1,8850377
+,human,3,8850377
+,place,1,8850377
+,therapeutic,1,8850377
+,tool,1,8850377
+,clinical,3,8850377
+,practice,2,8850377
+,studies,2,8850377
+,patients,5,8850377
+,acute,1,8850377
+,acute myocardial infarction,1,8850377
+,myocardial,1,8850377
+,myocardial infarction,1,8850377
+,infarction,2,8850377
+,better,1,8850377
+,outcome,1,8850377
+,angina,2,8850377
+,onset,1,8850377
+,not,2,8850377
+,universal,1,8850377
+,finding,1,8850377
+,difficult,1,8850377
+,other,2,8850377
+,confounding factors,1,8850377
+,factors,1,8850377
+,collateral,1,8850377
+,flow,1,8850377
+,results,1,8850377
+,more,1,8850377
+,prospective,1,8850377
+,prospective studies,1,8850377
+,percutaneous,1,8850377
+,percutaneous transluminal coronary angioplasty,1,8850377
+,transluminal,1,8850377
+,coronary,2,8850377
+,coronary angioplasty,1,8850377
+,angioplasty,1,8850377
+,less,2,8850377
+,change,1,8850377
+,second,1,8850377
+,balloon,1,8850377
+,inflation,1,8850377
+,first,2,8850377
+,completely,1,8850377
+,causes,1,8850377
+,effect,1,8850377
+,dependence,1,8850377
+,mechanisms,2,8850377
+,phenomena,1,8850377
+,same,1,8850377
+,further,1,8850377
+,experiments,1,8850377
+,atrial,1,8850377
+,muscle,1,8850377
+,similar,1,8850377
+,adenosine,1,8850377
+,protein,1,8850377
+,protein kinase,1,8850377
+,kinase,1,8850377
+,potassium,1,8850377
+,potassium channels,1,8850377
+,channels,1,8850377
+,clinical medicine,1,8850377
+,medicine,1,8850377
+,most likely,1,8850377
+,likely,2,8850377
+,ischemia,1,8850377
+,cardiac,1,8850377
+,cardiac surgery,1,8850377
+,surgery,1,8850377
+,respect,1,8850377
+,study,1,8850377
+,coronary artery,1,8850377
+,coronary artery bypass,1,8850377
+,coronary artery bypass grafts,1,8850377
+,artery,1,8850377
+,artery bypass grafts,1,8850377
+,bypass,1,8850377
+,bypass grafts,1,8850377
+,grafts,1,8850377
+,reduction,1,8850377
+,atp,1,8850377
+,period,1,8850377
+,protocol,1,8850377
+,advances,1,8850377
+,full,1,8850377
+,potential,1,8850377
+,whole,1,8850377
+,protection,1,8850377
+,pharmacological,1,8850377
+,agent,1,8850377
+,available,1,8850377
+,oral,1,8848207
+,transmural,1,8848207
+,transmural myocardial infarction,1,8848207
+,myocardial,1,8848207
+,myocardial infarction,1,8848207
+,infarction,1,8848207
+,healthy,1,8848207
+,man,1,8848207
+,transmural,1,8848207
+,transmural myocardial infarction,1,8848207
+,myocardial,1,8848207
+,myocardial infarction,1,8848207
+,infarction,1,8848207
+,sumatriptan,2,8848207
+,sumatriptan succinate,1,8848207
+,succinate,1,8848207
+,migraine,1,8848207
+,coronary,2,8848207
+,coronary arteriography,1,8848207
+,arteriography,1,8848207
+,only,1,8848207
+,minor,1,8848207
+,left,1,8848207
+,left anterior,1,8848207
+,left anterior descending artery,1,8848207
+,anterior,1,8848207
+,descending,1,8848207
+,artery,2,8848207
+,oral,1,8848207
+,oral sumatriptan,1,8848207
+,patient,1,8848207
+,vascular,1,8848207
+,risk,1,8848207
+,risk factors,1,8848207
+,factors,1,8848207
+,coronary artery,1,8848207
+,coronary artery disease,1,8848207
+,artery disease,1,8848207
+,disease,1,8848207
+,vasospasm,1,8848207
+,relationship,1,8848181
+,headaches,1,8848181
+,experience,1,8848181
+,chest,1,8848181
+,chest pain,1,8848181
+,pain,1,8848181
+,subsequent,1,8848181
+,risk,1,8848181
+,myocardial,1,8848181
+,myocardial infarction,1,8848181
+,infarction,1,8848181
+,study,1,8848181
+,relationship,2,8848181
+,migraine,5,8848181
+,chest,4,8848181
+,chest pain,3,8848181
+,pain,4,8848181
+,risk,3,8848181
+,myocardial,1,8848181
+,myocardial infarction,1,8848181
+,infarction,1,8848181
+,retrospective,1,8848181
+,cohort,1,8848181
+,northern,1,8848181
+,california,1,8848181
+,medical,2,8848181
+,medical care,1,8848181
+,care,1,8848181
+,program,1,8848181
+,comprehensive,1,8848181
+,preventive,1,8848181
+,preventive medicine,1,8848181
+,medicine,1,8848181
+,examinations,1,8848181
+,questionnaire,1,8848181
+,physician,2,8848181
+,diagnosis,2,8848181
+,questions,1,8848181
+,feelings,1,8848181
+,pressure,1,8848181
+,tightness,1,8848181
+,middle,1,8848181
+,breastbone,1,8848181
+,respondent,1,8848181
+,followup,1,8848181
+,time,1,8848181
+,participants,1,8848181
+,medical examination,1,8848181
+,examination,1,8848181
+,continued,1,8848181
+,occurrence,1,8848181
+,hospitalization,1,8848181
+,death,1,8848181
+,termination,1,8848181
+,enrollment,1,8848181
+,strong,1,8848181
+,general,1,8848181
+,significant,1,8848181
+,association,1,8848181
+,women,1,8848181
+,family,1,8848181
+,family history,1,8848181
+,history,1,8848181
+,greater,1,8848181
+,increase,1,8848181
+,serum,1,8847372
+,levels,1,8847372
+,vitamin,1,8847372
+,relation,1,8847372
+,cardiovascular,1,8847372
+,cardiovascular diseases,1,8847372
+,diseases,1,8847372
+,serum,4,8847372
+,levels,4,8847372
+,healthy,1,8847372
+,people,1,8847372
+,patients,4,8847372
+,cardiovascular,4,8847372
+,cardiovascular diseases,1,8847372
+,diseases,1,8847372
+,cases,1,8847372
+,cardiovascular disease,3,8847372
+,disease,3,8847372
+,acute,1,8847372
+,acute myocardial infarction,1,8847372
+,myocardial,2,8847372
+,myocardial infarction,1,8847372
+,infarction,1,8847372
+,ami,2,8847372
+,atherosclerosis,1,8847372
+,myocardial ischaemia,1,8847372
+,ischaemia,1,8847372
+,mean,1,8847372
+,control,3,8847372
+,control group,3,8847372
+,group,5,8847372
+,overall,1,8847372
+,lower,1,8847372
+,respect,1,8847372
+,number,1,8847372
+,parameters,1,8847372
+,age,1,8847372
+,sex,1,8847372
+,smoking,1,8847372
+,smoking status,1,8847372
+,status,1,8847372
+,index,1,8847372
+,alcohol,1,8847372
+,alcohol consumption,1,8847372
+,consumption,1,8847372
+,dietary,1,8847372
+,dietary intake,1,8847372
+,intake,1,8847372
+,lip,1,8847372
+,ids,1,8847372
+,hypertension,1,8845099
+,other,1,8845099
+,cardiovascular,1,8845099
+,cardiovascular risk factors,1,8845099
+,risk,1,8845099
+,risk factors,1,8845099
+,factors,1,8845099
+,women,1,8845099
+,coronary,4,8845099
+,coronary heart disease,1,8845099
+,heart,1,8845099
+,heart disease,1,8845099
+,disease,2,8845099
+,chd,2,8845099
+,cause,1,8845099
+,death,1,8845099
+,women,20,8845099
+,deaths,1,8845099
+,annually,1,8845099
+,more,5,8845099
+,increases,1,8845099
+,years,4,8845099
+,risk,6,8845099
+,risk factors,2,8845099
+,factors,2,8845099
+,highly,1,8845099
+,hypertension,5,8845099
+,hypercholesterolemia,1,8845099
+,overweight,1,8845099
+,sedentary,1,8845099
+,additio,1,8845099
+,greater,2,8845099
+,men,10,8845099
+,risk factor,1,8845099
+,factor,1,8845099
+,prevalence,2,8845099
+,lower,3,8845099
+,socioeconomic,1,8845099
+,socioeconomic status,1,8845099
+,status,1,8845099
+,educational,1,8845099
+,educational level,1,8845099
+,level,1,8845099
+,decrease,2,8845099
+,less,3,8845099
+,past,1,8845099
+,decades,1,8845099
+,cardiovascular,1,8845099
+,mortality,1,8845099
+,example,1,8845099
+,white,2,8845099
+,black,2,8845099
+,age,7,8845099
+,systolic,1,8845099
+,systolic blood pressure,1,8845099
+,blood,1,8845099
+,blood pressure,1,8845099
+,pressure,1,8845099
+,pressure peaks,1,8845099
+,peaks,1,8845099
+,middle,2,8845099
+,middle age,1,8845099
+,complications,1,8845099
+,equal,1,8845099
+,current,1,8845099
+,cigarette,2,8845099
+,cigarette smoking,2,8845099
+,smoking,3,8845099
+,genders,1,8845099
+,due,1,8845099
+,smoking cessation,1,8845099
+,cessation,1,8845099
+,triples,1,8845099
+,myocardial,1,8845099
+,myocardial infarction,1,8845099
+,infarction,1,8845099
+,premenopausal,1,8845099
+,young,1,8845099
+,hdl,1,8845099
+,hdl cholesterol,1,8845099
+,cholesterol,5,8845099
+,cholesterol levels,3,8845099
+,levels,3,8845099
+,total,2,8845099
+,total cholesterol,2,8845099
+,progressively,1,8845099
+,postmenopausal,1,8845099
+,increase,1,8845099
+,far,1,8845099
+,association,1,8845099
+,physical,1,8845099
+,physical fitness,1,8845099
+,fitness,1,8845099
+,favorable,1,8845099
+,profile,1,8845099
+,education,1,8845099
+,part,1,8845099
+,illness,1,8845099
+,experience,1,8845099
+,unlikely,1,8845099
+,preventive,1,8845099
+,messages,1,8845099
+,uses,1,8839396
+,heparin,1,8839396
+,fractions,1,8839396
+,standard,1,8839396
+,unfractionated heparin,5,8839396
+,heparin,8,8839396
+,similar,2,8839396
+,many,1,8839396
+,aspects,1,8839396
+,main,1,8839396
+,advantages,2,8839396
+,new,2,8839396
+,class,1,8839396
+,antithrombotic agents,1,8839396
+,bioavailability,1,8839396
+,prolonged,1,8839396
+,halflife,1,8839396
+,laboratory,1,8839396
+,monitoring,1,8839396
+,single,1,8839396
+,daily,1,8839396
+,subcutaneous,1,8839396
+,subcutaneous injection,1,8839396
+,injection,1,8839396
+,ratio,1,8839396
+,less,1,8839396
+,bleeding,1,8839396
+,improved,1,8839396
+,efficacy,2,8839396
+,postoperative,1,8839396
+,thromboembolism,1,8839396
+,unresolved,1,8839396
+,unresolved issues,1,8839396
+,specific,1,8839396
+,indications,1,8839396
+,use,1,8839396
+,patients,2,8839396
+,arterial,1,8839396
+,arterial thrombosis,1,8839396
+,thrombosis,2,8839396
+,unstable,1,8839396
+,ang,1,8839396
+,myocardial,1,8839396
+,myocardial infarction,1,8839396
+,infarction,1,8839396
+,usually,1,8839396
+,conjunction,1,8839396
+,thrombolytic,1,8839396
+,treatment,2,8839396
+,symptomatic,1,8839396
+,pulmonary,1,8839396
+,pulmonary embolism,1,8839396
+,embolism,1,8839396
+,well,1,8839396
+,new agents,1,8839396
+,potential,1,8839396
+,outpatient,1,8839396
+,outpatient treatment,1,8839396
+,economic,1,8839396
+,logistic,1,8839396
+,point,1,8839396
+,view,1,8839396
+,safety,1,8839396
+,myocardial,1,8838048
+,myocardial perfusion,1,8838048
+,perfusion,1,8838048
+,perfusion scintigraphy,1,8838048
+,scintigraphy,1,8838048
+,compounds,1,8838048
+,correlations,1,8838048
+,coronary,1,8838048
+,coronary angiography,1,8838048
+,angiography,1,8838048
+,incidence,1,8838048
+,ischaemic,1,8838048
+,ischaemic heart disease,1,8838048
+,heart,1,8838048
+,heart disease,1,8838048
+,disease,1,8838048
+,high,1,8838048
+,mortality,1,8838048
+,mortality rate,1,8838048
+,rate,1,8838048
+,recent,1,8838048
+,introduction,1,8838048
+,myocardial,3,8838048
+,myocardial perfusion,2,8838048
+,perfusion,5,8838048
+,coronary,4,8838048
+,coronary angiography,2,8838048
+,angiography,3,8838048
+,programme,1,8838048
+,trinidad,1,8838048
+,ago,1,8838048
+,comparison,1,8838048
+,sensitivity,2,8838048
+,specificity,2,8838048
+,perfusion scintigraphy,1,8838048
+,scintigraphy,2,8838048
+,standard,1,8838048
+,protocol,1,8838048
+,single,1,8838048
+,photon,1,8838048
+,emission,1,8838048
+,tomography,1,8838048
+,spect,1,8838048
+,ventricular,1,8838048
+,ventricular myocardium,1,8838048
+,myocardium,1,8838048
+,patients,1,8838048
+,rest,1,8838048
+,exercise,1,8838048
+,defects,1,8838048
+,main,2,8838048
+,coronary arteries,1,8838048
+,arteries,3,8838048
+,left,2,8838048
+,left anterior,1,8838048
+,anterior,1,8838048
+,artery,4,8838048
+,lad,4,8838048
+,right,1,8838048
+,right coronary artery,1,8838048
+,coronary artery,1,8838048
+,left circumflex artery,1,8838048
+,circumflex,1,8838048
+,circumflex artery,1,8838048
+,lcx,3,8838048
+,data,2,8838048
+,then,1,8838048
+,angiographic,1,8838048
+,findings,1,8838048
+,overall,1,8838048
+,discordant,1,8838048
+,analysis,1,8838048
+,vascular,2,8838048
+,false,4,8838048
+,false positives,1,8838048
+,positives,1,8838048
+,false negative,2,8838048
+,negative,2,8838048
+,false positive,1,8838048
+,positive,1,8838048
+,cases,2,8838048
+,males,2,8838048
+,females,2,8838048
+,tunnelling,1,8838048
+,other,2,8838048
+,differential,2,8838048
+,syndrome,1,8838048
+,patient,1,8838048
+,good,1,8838048
+,collateral,1,8838048
+,collateral circulation,1,8838048
+,circulation,1,8838048
+,very,1,8838048
+,very well,1,8838048
+,well,1,8838048
+,family,2,8826061
+,heart,1,8826061
+,heart attacks,1,8826061
+,attacks,1,8826061
+,hypercholesterolaemic,1,8826061
+,men,1,8826061
+,family history,1,8826061
+,history,1,8826061
+,patients,3,8826061
+,often,1,8826061
+,biomedically,1,8826061
+,mild,1,8826061
+,conditions,2,8826061
+,previous,1,8826061
+,study,3,8826061
+,primary,1,8826061
+,primary care,1,8826061
+,care,1,8826061
+,frequent,1,8826061
+,associations,1,8826061
+,cases,2,8826061
+,serious,2,8826061
+,serious illness,1,8826061
+,illness,1,8826061
+,family,6,8826061
+,histories,2,8826061
+,further,1,8826061
+,phenomena,1,8826061
+,middle,1,8826061
+,men,4,8826061
+,recent,1,8826061
+,diagnosis,1,8826061
+,hypercholesterolaemia,3,8826061
+,male,1,8826061
+,participants,1,8826061
+,moderate,1,8826061
+,health,1,8826061
+,health survey,1,8826061
+,survey,1,8826061
+,minutes,1,8826061
+,lifestyle,1,8826061
+,sessions,1,8826061
+,respect,1,8826061
+,subjects,1,8826061
+,family history,4,8826061
+,history,4,8826061
+,main,1,8826061
+,content,1,8826061
+,category,1,8826061
+,talks,1,8826061
+,threat,1,8826061
+,risk,3,8826061
+,seriousness,1,8826061
+,event,2,8826061
+,hand,1,8826061
+,relevance,1,8826061
+,other,1,8826061
+,fatal,1,8826061
+,premature,1,8826061
+,disease,3,8826061
+,knowledge,2,8826061
+,beliefs,2,8826061
+,risk factors,2,8826061
+,factors,2,8826061
+,disease causation,1,8826061
+,causation,1,8826061
+,relevant,1,8826061
+,several,2,8826061
+,heredity,1,8826061
+,emotional,1,8826061
+,few,1,8826061
+,example,1,8826061
+,support,1,8826061
+,view,1,8826061
+,role,1,8826061
+,asymptomatic,1,8826061
+,development,1,8826061
+,consultation,1,8826061
+,skills,1,8826061
+,myosin,1,8825882
+,myosin light chain,1,8825882
+,light,1,8825882
+,chain,1,8825882
+,phosphorylation,1,8825882
+,cardiac,1,8825882
+,cardiac hypertrophy,1,8825882
+,hypertrophy,1,8825882
+,failure,1,8825882
+,due,1,8825882
+,myocardial,1,8825882
+,myocardial infarction,1,8825882
+,infarction,1,8825882
+,regulatory,1,8825882
+,myosin,2,8825882
+,myosin light chain,2,8825882
+,light,2,8825882
+,chain,2,8825882
+,cardiac,4,8825882
+,cardiac muscle,2,8825882
+,muscle,2,8825882
+,dependent,1,8825882
+,myosin light chain kinase,1,8825882
+,kinase,1,8825882
+,lck,1,8825882
+,modulatory,1,8825882
+,role,1,8825882
+,process,1,8825882
+,force,1,8825882
+,generation,1,8825882
+,order,1,8825882
+,changes,4,8825882
+,mlc,6,8825882
+,phosphorylation,5,8825882
+,cardiac hypertrophy,2,8825882
+,hypertrophy,2,8825882
+,heart,2,8825882
+,heart failure,2,8825882
+,failure,2,8825882
+,relative,4,8825882
+,content,2,8825882
+,mlck,5,8825882
+,sham,1,8825882
+,control,4,8825882
+,experimental,4,8825882
+,rats,4,8825882
+,weeks,2,8825882
+,ligation,1,8825882
+,left,3,8825882
+,left coronary artery,1,8825882
+,coronary,1,8825882
+,coronary artery,1,8825882
+,artery,1,8825882
+,electrophoresis,1,8825882
+,immunoblot,1,8825882
+,immunoblot assay,1,8825882
+,assay,1,8825882
+,gel,1,8825882
+,western,1,8825882
+,western blotting,1,8825882
+,amount,2,8825882
+,viable,2,8825882
+,left ventricle,2,8825882
+,ventricle,4,8825882
+,right,2,8825882
+,right ventricle,2,8825882
+,septum,2,8825882
+,comparison,2,8825882
+,values,2,8825882
+,significantly,1,8825882
+,markedly,1,8825882
+,results,1,8825882
+,region,1,8825882
+,specific,1,8825882
+,levels,1,8825882
+,subsequent,1,8825882
+,myocardial,1,8825882
+,myocardial infarction,1,8825882
+,infarction,1,8825882
+,cardiac,1,8822332
+,abnormalities,1,8822332
+,hydrops,1,8822332
+,hydrops fetalis,1,8822332
+,cardiovascular,1,8822332
+,cardiovascular abnormalities,1,8822332
+,abnormalities,3,8822332
+,hydrops,6,8822332
+,hydrops fetalis,6,8822332
+,cases,1,8822332
+,era,1,8822332
+,not,1,8822332
+,only,2,8822332
+,structural,3,8822332
+,cardiac,4,8822332
+,cardiac arrhythmias,1,8822332
+,arrhythmias,1,8822332
+,failure,1,8822332
+,tumors,2,8822332
+,myopathy,1,8822332
+,infection,1,8822332
+,inflammation,1,8822332
+,infarction,2,8822332
+,arterial,2,8822332
+,arterial calcification,2,8822332
+,calcification,2,8822332
+,cardiac structural,1,8822332
+,association,1,8822332
+,lesions,1,8822332
+,right,1,8822332
+,right atrial pressure,1,8822332
+,atrial,3,8822332
+,atrial pressure,2,8822332
+,pressure,2,8822332
+,volume,1,8822332
+,volume overload,1,8822332
+,most,2,8822332
+,fetal,4,8822332
+,cardiac tumors,1,8822332
+,cardiomyopathy,1,8822332
+,myocarditis,1,8822332
+,myocardial,1,8822332
+,myocardial infarction,1,8822332
+,probably,1,8822332
+,similar,1,8822332
+,mechanism,2,8822332
+,fetal tachyarrhythmia,1,8822332
+,tachyarrhythmia,1,8822332
+,elevation,1,8822332
+,atrial natriuretic peptide,1,8822332
+,natriuretic,1,8822332
+,natriuretic peptide,1,8822332
+,peptide,1,8822332
+,fetal tachyarrhythmias,1,8822332
+,tachyarrhythmias,1,8822332
+,causes,1,8822332
+,fetal bradyarrhythmias,1,8822332
+,bradyarrhythmias,1,8822332
+,less,2,8822332
+,easily,1,8822332
+,coronary,1,8821473
+,plaques,1,8821473
+,clinical,1,8821473
+,clinical presentation,1,8821473
+,presentation,1,8821473
+,prognosis,1,8821473
+,coronary,3,8821473
+,coronary atherosclerosis,1,8821473
+,atherosclerosis,1,8821473
+,more,1,8821473
+,plaque,5,8821473
+,type,1,8821473
+,size,1,8821473
+,stable,2,8821473
+,plaques,6,8821473
+,arterial,1,8821473
+,arterial lumen,1,8821473
+,lumen,1,8821473
+,stable angina,1,8821473
+,stable angina pectoris,1,8821473
+,angina,1,8821473
+,angina pectoris,1,8821473
+,contrast,1,8821473
+,thrombose,1,8821473
+,event,1,8821473
+,responsible,1,8821473
+,development,1,8821473
+,acute,1,8821473
+,acute coronary syndromes,1,8821473
+,syndromes,1,8821473
+,unstable,2,8821473
+,ang,1,8821473
+,myocardial,1,8821473
+,myocardial infarction,1,8821473
+,infarction,1,8821473
+,sudden,2,8821473
+,sudden death,1,8821473
+,death,1,8821473
+,gradual,1,8821473
+,lipid,1,8821473
+,ongoing,2,8821473
+,inflammation,1,8821473
+,risk,1,8821473
+,disruption,3,8821473
+,thrombosis,3,8821473
+,external,1,8821473
+,factors,1,8821473
+,mechanical,1,8821473
+,hemodynamic,1,8821473
+,response,2,8821473
+,dynamic,1,8821473
+,simultaneously,1,8821473
+,thrombolysis,1,8821473
+,frequently,1,8821473
+,intermittent,1,8821473
+,flow,1,8821473
+,obstruction,1,8821473
+,syndrome,1,8821473
+,challenge,1,8821473
+,today,1,8821473
+,new,1,8821473
+,formation,1,8821473
+,intact,1,8821473
+,coronary,1,8821469
+,coronary atherosclerosis,1,8821469
+,atherosclerosis,1,8821469
+,stabilization,1,8821469
+,goal,1,8821469
+,coronary,4,8821469
+,atherosclerotic,2,8821469
+,atherosclerotic plaques,2,8821469
+,plaques,4,8821469
+,blood,1,8821469
+,blood flow,1,8821469
+,flow,1,8821469
+,angina,1,8821469
+,rupture,3,8821469
+,unstable,1,8821469
+,ang,1,8821469
+,myocardial,2,8821469
+,myocardial infarction,2,8821469
+,infarction,2,8821469
+,sudden,1,8821469
+,sudden death,1,8821469
+,death,1,8821469
+,prone,1,8821469
+,lipid,3,8821469
+,rich,1,8821469
+,thin,1,8821469
+,fibrous,1,8821469
+,caps,1,8821469
+,often,1,8821469
+,mild,1,8821469
+,most,1,8821469
+,treatment,1,8821469
+,strategies,2,8821469
+,relieving,1,8821469
+,cardiac,2,8821469
+,cardiac symptoms,1,8821469
+,symptoms,1,8821469
+,myocardium,1,8821469
+,wake,1,8821469
+,plaque,2,8821469
+,animal,1,8821469
+,animal studies,1,8821469
+,studies,2,8821469
+,consequently,1,8821469
+,coronary artery,2,8821469
+,coronary artery disease,2,8821469
+,artery,2,8821469
+,artery disease,2,8821469
+,disease,3,8821469
+,humans,1,8821469
+,sixteen,1,8821469
+,angiographic,2,8821469
+,regression,1,8821469
+,date,1,8821469
+,consistently,1,8821469
+,lipid levels,1,8821469
+,levels,1,8821469
+,results,1,8821469
+,coronary artery disease progression,1,8821469
+,disease progression,1,8821469
+,progression,1,8821469
+,markedly,1,8821469
+,cardiac events,1,8821469
+,events,1,8821469
+,extent,1,8821469
+,event,1,8821469
+,reduction,1,8821469
+,change,1,8821469
+,concept,1,8821469
+,favorable,1,8821469
+,alterations,1,8821469
+,stabilization,1,8821469
+,need,1,8821469
+,individuals,1,8821469
+,risk,1,8821469
+,more,1,8821469
+,ever,1,8821469
+,patients,1,8821469
+,now,1,8821469
+,factitious,1,8808097
+,factitious hyperthyroidism,1,8808097
+,hyperthyroidism,1,8808097
+,acute,1,8808097
+,acute myocardial infarction,1,8808097
+,myocardial,1,8808097
+,myocardial infarction,1,8808097
+,infarction,1,8808097
+,myocardial,4,8808097
+,myocardial ischemia,1,8808097
+,ischemia,2,8808097
+,rare,1,8808097
+,severe,1,8808097
+,possibly,1,8808097
+,life,1,8808097
+,manifestation,1,8808097
+,hyperthyroidism,1,8808097
+,not,1,8808097
+,usually,1,8808097
+,persistent,2,8808097
+,woman,1,8808097
+,total,1,8808097
+,total thyroidectomy,1,8808097
+,thyroidectomy,1,8808097
+,subsequent,2,8808097
+,irradiation,1,8808097
+,follicular,1,8808097
+,follicular carcinoma,1,8808097
+,carcinoma,1,8808097
+,years,1,8808097
+,ago,1,8808097
+,then,1,8808097
+,oral,1,8808097
+,levothyroxine,3,8808097
+,replacement,3,8808097
+,replacement therapy,2,8808097
+,therapy,2,8808097
+,dose,3,8808097
+,alternating,1,8808097
+,daily,1,8808097
+,latent,1,8808097
+,latent hypothyroidism,1,8808097
+,hypothyroidism,1,8808097
+,day,1,8808097
+,weeks,2,8808097
+,later,1,8808097
+,patient,1,8808097
+,acute,1,8808097
+,acute posterior myocardial infarction,1,8808097
+,posterior,1,8808097
+,posterior myocardial infarction,1,8808097
+,myocardial infarction,2,8808097
+,infarction,3,8808097
+,previous,1,8808097
+,history,1,8808097
+,coronary,2,8808097
+,coronary artery,1,8808097
+,coronary artery disease,1,8808097
+,artery,1,8808097
+,artery disease,1,8808097
+,disease,2,8808097
+,coronary arteriograms,1,8808097
+,arteriograms,1,8808097
+,evidence,1,8808097
+,major,1,8808097
+,vessels,1,8808097
+,myocardial scintigraphy,1,8808097
+,scintigraphy,1,8808097
+,still,1,8808097
+,perfusion,1,8808097
+,defect,1,8808097
+,thyroid,1,8808097
+,thyroid hormones,1,8808097
+,thyroid hormones increase,1,8808097
+,hormones,1,8808097
+,increase,2,8808097
+,oxygen,2,8808097
+,demand,1,8808097
+,rapid,1,8808097
+,elevation,1,8808097
+,utilization,1,8808097
+,thyrotoxicosis,1,8808097
+,thyrotoxicosis factitia,1,8808097
+,likely,1,8808097
+,responsible,1,8808097
+,patients,1,8808097
+,case,1,8808097
+,sudden,1,8808097
+,carotid,1,8789528
+,carotid endarterectomy,1,8789528
+,endarterectomy,1,8789528
+,cervical,1,8789528
+,cervical plexus,1,8789528
+,cervical plexus block,1,8789528
+,plexus,1,8789528
+,plexus block,1,8789528
+,block,1,8789528
+,efficacy,1,8789528
+,level,1,8789528
+,patient,2,8789528
+,patient satisfaction,1,8789528
+,satisfaction,1,8789528
+,well,1,8789528
+,incidence,2,8789528
+,neurological,3,8789528
+,neurological manifestations,1,8789528
+,manifestations,1,8789528
+,hemodynamic,2,8789528
+,changes,1,8789528
+,other,1,8789528
+,perioperative,1,8789528
+,complications,4,8789528
+,cervical,3,8789528
+,cervical plexus,3,8789528
+,cervical plexus block,3,8789528
+,plexus,3,8789528
+,plexus block,3,8789528
+,block,3,8789528
+,prospective,1,8789528
+,prospective study,1,8789528
+,study,1,8789528
+,patients,6,8789528
+,carotid,4,8789528
+,carotid endarterectomy,2,8789528
+,endarterectomy,2,8789528
+,superficial,2,8789528
+,deep,2,8789528
+,deep cervical plexus,1,8789528
+,deep cervical plexus block,1,8789528
+,anesthetic,3,8789528
+,technique,5,8789528
+,effective,1,8789528
+,cases,1,8789528
+,supplementation,1,8789528
+,local,2,8789528
+,local anesthetic,1,8789528
+,none,1,8789528
+,general,1,8789528
+,general anesthesia,1,8789528
+,anesthesia,2,8789528
+,good,1,8789528
+,same,1,8789528
+,case,1,8789528
+,surgery,5,8789528
+,contralateral,1,8789528
+,carotid artery,1,8789528
+,artery,1,8789528
+,hypertension,1,8789528
+,change,1,8789528
+,most,2,8789528
+,often,1,8789528
+,serious,2,8789528
+,transient,1,8789528
+,dysphonia,1,8789528
+,frequently,1,8789528
+,effect,1,8789528
+,signs,1,8789528
+,symptoms,1,8789528
+,placement,1,8789528
+,shunt,2,8789528
+,deaths,1,8789528
+,due,1,8789528
+,myocardial,1,8789528
+,myocardial infarction,1,8789528
+,infarction,1,8789528
+,permanent,1,8789528
+,cerebrovascular,1,8789528
+,cerebrovascular accident,1,8789528
+,accident,2,8789528
+,regional,1,8789528
+,regional anesthesia,1,8789528
+,superficial cervical plexus,1,8789528
+,superficial cervical plexus block,1,8789528
+,continuous,1,8789528
+,evaluation,1,8789528
+,neurological status,1,8789528
+,status,1,8789528
+,use,1,8789528
+,intraluminal,1,8789528
+,prevention,1,8789528
+,stroke,1,8789528
+,not,2,8789528
+,more,1,8789528
+,difficult,1,8789528
+,rise,1,8789528
+,low,1,8789528
+,postoperative,1,8789524
+,postoperative complications,1,8789524
+,complications,1,8789524
+,mortality,1,8789524
+,abdominal,1,8789524
+,abdominal aortic aneurysm,1,8789524
+,aortic,1,8789524
+,aortic aneurysm,1,8789524
+,aneurysm,1,8789524
+,surger,1,8789524
+,objective,1,8789524
+,morbidity,1,8789524
+,mortality,3,8789524
+,patients,4,8789524
+,surgery,4,8789524
+,aneurysm,1,8789524
+,abdominal,1,8789524
+,abdominal aorta,1,8789524
+,aorta,1,8789524
+,order,1,8789524
+,risk,2,8789524
+,risk factors,1,8789524
+,factors,3,8789524
+,methods,1,8789524
+,retrospective,1,8789524
+,retrospective study,1,8789524
+,study,1,8789524
+,aortic,1,8789524
+,january,1,8789524
+,april,1,8789524
+,aneurysms,2,8789524
+,adjacent,1,8789524
+,kidney,1,8789524
+,results,1,8789524
+,cases,1,8789524
+,emergency,2,8789524
+,groups,1,8789524
+,place,1,8789524
+,first,2,8789524
+,hours,2,8789524
+,admission,1,8789524
+,secondary,1,8789524
+,secondary diseases,1,8789524
+,diseases,1,8789524
+,usually,1,8789524
+,ischemic,1,8789524
+,cardiopathy,1,8789524
+,present,1,8789524
+,most,2,8789524
+,frequently,1,8789524
+,postoperative,1,8789524
+,postoperative complications,1,8789524
+,complications,1,8789524
+,cardiovascular,2,8789524
+,renal,1,8789524
+,respiratory,1,8789524
+,digestive,1,8789524
+,digestive problems,1,8789524
+,problems,1,8789524
+,frequent,1,8789524
+,cause,1,8789524
+,death,1,8789524
+,acute,1,8789524
+,acute myocardial infarction,1,8789524
+,myocardial,1,8789524
+,myocardial infarction,1,8789524
+,infarction,1,8789524
+,hypovolemic,1,8789524
+,hypovolemic shock,1,8789524
+,shock,1,8789524
+,significant,1,8789524
+,age,1,8789524
+,years,1,8789524
+,rupture,1,8789524
+,blood,1,8789524
+,blood loss,1,8789524
+,loss,1,8789524
+,transfusion,1,8789524
+,more,1,8789524
+,units,1,8789524
+,red,1,8789524
+,red cells,1,8789524
+,cells,1,8789524
+,conclusions,1,8789524
+,increase,1,8789524
+,number,1,8789524
+,elective,1,8789524
+,elective procedures,1,8789524
+,procedures,1,8789524
+,resection,1,8789524
+,small,1,8789524
+,early,1,8789524
+,early diagnosis,1,8789524
+,diagnosis,1,8789524
+,treatment,1,8789524
+,ruptures,1,8789524
+,aggressive,1,8789524
+,hemodynamic,1,8789524
+,management,1,8789524
+,perioperative,1,8789524
+,special,1,8789524
+,attention,1,8789524
+,status,1,8789524
+,better,1,8789524
+,outcome,1,8789524
+,sudden,1,8789186
+,sudden cardiac death,1,8789186
+,cardiac,1,8789186
+,cardiac death,1,8789186
+,death,1,8789186
+,indeterminate,1,8789186
+,phase,1,8789186
+,chagas,1,8789186
+,chagas disease,1,8789186
+,disease,1,8789186
+,acute,1,8789186
+,infarction,1,8789186
+,right,1,8789186
+,right carotid body,1,8789186
+,carotid,1,8789186
+,carotid body,1,8789186
+,body,1,8789186
+,recently,1,8789186
+,case,2,8789186
+,patient,1,8789186
+,indeterminate,1,8789186
+,phase,1,8789186
+,chagas,1,8789186
+,chagas disease,1,8789186
+,disease,1,8789186
+,cardiac,2,8789186
+,cardiac arrhythmia,1,8789186
+,arrhythmia,1,8789186
+,acute,2,8789186
+,infarction,4,8789186
+,right,1,8789186
+,right carotid body,1,8789186
+,carotid,3,8789186
+,carotid body,3,8789186
+,body,3,8789186
+,due,1,8789186
+,occlusive,1,8789186
+,thrombosis,1,8789186
+,artery,1,8789186
+,available,1,8789186
+,data,1,8789186
+,not,1,8789186
+,definite,1,8789186
+,evidence,1,8789186
+,relationship,1,8789186
+,patients,1,8789186
+,sudden,1,8789186
+,sudden cardiac arrest,1,8789186
+,cardiac arrest,1,8789186
+,arrest,1,8789186
+,very,1,8789186
+,very likely,1,8789186
+,likely,1,8789186
+,distinct,1,8789186
+,morphological,1,8789186
+,functional,1,8789186
+,functional disturbance,1,8789186
+,disturbance,1,8789186
+,interactions,1,8789186
+,action,1,8789186
+,relationships,1,8789179
+,left,1,8789179
+,disturbances,1,8789179
+,lipid,1,8789179
+,lipid metabolism,1,8789179
+,metabolism,1,8789179
+,different,1,8789179
+,ethnic,1,8789179
+,ethnic groups,1,8789179
+,groups,1,8789179
+,purpose,1,8789179
+,study,1,8789179
+,relationships,1,8789179
+,brain,2,8789179
+,brain hemisphere,1,8789179
+,disturbance,1,8789179
+,lipid,3,8789179
+,lipid metabolism,3,8789179
+,metabolism,3,8789179
+,atherosclerosis,1,8789179
+,different,2,8789179
+,ethnic,2,8789179
+,ethnic groups,1,8789179
+,groups,4,8789179
+,subjects,4,8789179
+,healthy,2,8789179
+,ethnic population,1,8789179
+,population,2,8789179
+,far,1,8789179
+,north,1,8789179
+,russian,3,8789179
+,men,2,8789179
+,myocardial,1,8789179
+,myocardial infarction,1,8789179
+,infarction,1,8789179
+,age,1,8789179
+,blood,1,8789179
+,blood cholesterol,1,8789179
+,cholesterol,2,8789179
+,low,2,8789179
+,density,2,8789179
+,ldl,1,8789179
+,high,1,8789179
+,levels,1,8789179
+,brain functional,1,8789179
+,functional,1,8789179
+,asymmetry,1,8789179
+,lack,1,8789179
+,most,1,8789179
+,common,1,8789179
+,ups,1,8789179
+,whole,1,8789179
+,concentrations,1,8789179
+,comparison,1,8789179
+,pattern,1,8789179
+,left,2,8789179
+,changes,1,8789179
+,dominant,1,8789179
+,different,1,8787466
+,effects,1,8787466
+,adenosine,1,8787466
+,analogue,1,8787466
+,ischemic,1,8787466
+,ischemic preconditioning,1,8787466
+,preconditioning,1,8787466
+,rabbit,1,8787466
+,hearts,1,8787466
+,background,1,8787466
+,ischemic,6,8787466
+,infarct,7,8787466
+,size,7,8787466
+,effects,5,8787466
+,function,4,8787466
+,variable,1,8787466
+,adenosine,5,8787466
+,role,1,8787466
+,ischemic preconditioning,4,8787466
+,preconditioning,4,8787466
+,dysfunction,1,8787466
+,purpose,1,8787466
+,study,1,8787466
+,adenosine a1 receptor,3,8787466
+,adenosine a1 receptor agonist,1,8787466
+,receptor,3,8787466
+,agonist,2,8787466
+,recovery,4,8787466
+,isolated,1,8787466
+,rabbit,1,8787466
+,hearts,4,8787466
+,methods,1,8787466
+,group,1,8787466
+,minutes,3,8787466
+,global,1,8787466
+,ischemia,3,8787466
+,degrees,1,8787466
+,reperfusion,1,8787466
+,ventricular,4,8787466
+,ventricular function,1,8787466
+,pressure,3,8787466
+,percentage,1,8787466
+,left,2,8787466
+,left ventricle,1,8787466
+,ventricle,1,8787466
+,tetrazolium,1,8787466
+,staining,1,8787466
+,results,2,8787466
+,control,1,8787466
+,effect,1,8787466
+,immediately,1,8787466
+,enhanced,1,8787466
+,termination,1,8787466
+,treatment,1,8787466
+,adenosine a1 receptor antagonist,1,8787466
+,antagonist,1,8787466
+,dpcpx,1,8787466
+,not,1,8787466
+,conclusions,1,8787466
+,differences,1,8787466
+,receptor activation,1,8787466
+,activation,1,8787466
+,isotope,1,8787335
+,methods,1,8787335
+,determination,1,8787335
+,myocardial,1,8787335
+,viability,1,8787335
+,decision,1,8787335
+,myocardial,3,8787335
+,myocardial revascularization,1,8787335
+,revascularization,2,8787335
+,patients,2,8787335
+,chronic,1,8787335
+,chronic ischaemic heart disease,1,8787335
+,ischaemic,2,8787335
+,ischaemic heart disease,1,8787335
+,heart,1,8787335
+,heart disease,1,8787335
+,disease,1,8787335
+,infarction,1,8787335
+,many,1,8787335
+,criteria,1,8787335
+,coronary,1,8787335
+,anatomy,1,8787335
+,ventricular,1,8787335
+,ventricular function,1,8787335
+,function,1,8787335
+,clinical,1,8787335
+,context,1,8787335
+,physiological,1,8787335
+,age,1,8787335
+,essential,1,8787335
+,presence,1,8787335
+,viable,2,8787335
+,myocardium,4,8787335
+,territory,1,8787335
+,functional,2,8787335
+,functional imaging,2,8787335
+,imaging,3,8787335
+,imaging techniques,1,8787335
+,techniques,1,8787335
+,hibernating myocardium,1,8787335
+,clinician,1,8787335
+,reliable,1,8787335
+,answer,1,8787335
+,great,1,8787335
+,majority,1,8787335
+,cases,1,8787335
+,number,1,8787335
+,examination,1,8787335
+,protocols,1,8787335
+,order,1,8787335
+,investigation,2,8787335
+,more,1,8787335
+,efficient,1,8787335
+,late,1,8787335
+,films,1,8787335
+,reinjection,1,8787335
+,new,1,8787335
+,tracers,2,8787335
+,viability,1,8787335
+,currently,3,8787335
+,evaluation,2,8787335
+,positron,2,8787335
+,positron emission tomography,1,8787335
+,emission,1,8787335
+,tomography,1,8787335
+,pet,1,8787335
+,reference,1,8787335
+,technique,2,8787335
+,detection,2,8787335
+,numerous,1,8787335
+,parallel,1,8787335
+,cellular,1,8787335
+,cellular metabolism,1,8787335
+,metabolism,1,8787335
+,myocardial perfusion,1,8787335
+,perfusion,1,8787335
+,type,1,8787335
+,not,1,8787335
+,available,1,8787335
+,use,1,8787335
+,emitter,1,8787335
+,conventional,1,8787335
+,cameras,1,8787335
+,results,2,8787335
+,other,1,8787335
+,imaging devices,1,8787335
+,devices,1,8787335
+,stress,1,8787335
+,ultrasonography,2,8787335
+,good,1,8787335
+,contrast,1,8787335
+,magnetic,1,8787335
+,magnetic resonance,1,8787335
+,magnetic resonance imaging,1,8787335
+,resonance,1,8787335
+,development,1,8787335
+,treatments,1,8787334
+,ischemic,1,8787334
+,cardiopathies,1,8787334
+,modalities,1,8787334
+,prescription,1,8787334
+,aspirin,1,8787334
+,french,1,8787334
+,centers,1,8787334
+,french,1,8787334
+,centres,4,8787334
+,frequencies,1,8787334
+,myocardial,1,8787334
+,myocardial infarction,1,8787334
+,infarction,1,8787334
+,not,1,8787334
+,hospital,3,8787334
+,mortality,3,8787334
+,day,2,8787334
+,excess,1,8787334
+,hospital mortality,1,8787334
+,infarct,1,8787334
+,patients,7,8787334
+,emergency,1,8787334
+,management,1,8787334
+,coronary,2,8787334
+,subsequently,1,8787334
+,coronary heart disease,1,8787334
+,heart,1,8787334
+,heart disease,1,8787334
+,disease,1,8787334
+,characteristics,1,8787334
+,admission,1,8787334
+,differences,1,8787334
+,therapeutic,1,8787334
+,strategies,1,8787334
+,angioplasty,2,8787334
+,predominant,1,8787334
+,together,1,8787334
+,prescription,2,8787334
+,calcium,1,8787334
+,calcium channel,1,8787334
+,calcium channel blockers,1,8787334
+,channel,1,8787334
+,channel blockers,1,8787334
+,aspirin,3,8787334
+,high,1,8787334
+,other,1,8787334
+,acute,3,8787334
+,acute phase,3,8787334
+,phase,3,8787334
+,cardiologists,1,8787334
+,department,1,8787334
+,rarely,1,8787334
+,fibrinolysis,1,8787334
+,more,1,8787334
+,variable,1,8787334
+,dosage,2,8787334
+,greater,1,8787334
+,equal,1,8787334
+,while,1,8787334
+,only,1,8787334
+,anticoagulation,1,8787333
+,cardiology,1,8787333
+,various,1,8787333
+,applications,1,8787333
+,anticoagulation,2,8787333
+,cardiology,1,8787333
+,concern,1,8787333
+,primary,1,8787333
+,primary prevention,1,8787333
+,prevention,1,8787333
+,treatment,3,8787333
+,angina,1,8787333
+,infarction,1,8787333
+,revascularization,1,8787333
+,angioplasty,1,8787333
+,bypass,1,8787333
+,bypass grafts,1,8787333
+,grafts,1,8787333
+,artificial,1,8787333
+,valve,1,8787333
+,replacement,1,8787333
+,atrial,1,8787333
+,atrial fibrillation,1,8787333
+,fibrillation,1,8787333
+,precaution,1,8787333
+,case,1,8787333
+,impaired,1,8787333
+,ventricular,1,8787333
+,ventricular function,1,8787333
+,function,1,8787333
+,several,1,8787333
+,methods,1,8787333
+,indications,1,8787333
+,antagonists,2,8787333
+,vitamin,1,8787333
+,thrombolytics,1,8787333
+,last,1,8787333
+,group,1,8787333
+,not,1,8787333
+,article,1,8787333
+,acute,1,8787332
+,mitral,1,8787332
+,mitral valve,1,8787332
+,mitral valve insufficiency,1,8787332
+,valve,1,8787332
+,insufficiency,1,8787332
+,type,1,8787332
+,disease,3,8787332
+,recent,2,8787332
+,decades,1,8787332
+,progress,1,8787332
+,ultrasound,2,8787332
+,ultrasound technique,1,8787332
+,technique,1,8787332
+,new,1,8787332
+,methods,1,8787332
+,medical,2,8787332
+,surgical,2,8787332
+,surgical treatment,1,8787332
+,treatment,5,8787332
+,mitral,5,8787332
+,mitral incompetence,3,8787332
+,incompetence,3,8787332
+,categories,1,8787332
+,mechanism,2,8787332
+,valve,4,8787332
+,lesions,2,8787332
+,usually,4,8787332
+,secondary,2,8787332
+,bacterial,2,8787332
+,bacterial endocarditis,2,8787332
+,endocarditis,2,8787332
+,sometimes,3,8787332
+,trauma,1,8787332
+,percutaneous,1,8787332
+,percutaneous valvuloplasty,1,8787332
+,rupture,3,8787332
+,chordae,2,8787332
+,chordae tendineae,2,8787332
+,spontaneous,1,8787332
+,bac,1,8787332
+,context,1,8787332
+,valvular heart disease,1,8787332
+,heart,1,8787332
+,heart disease,1,8787332
+,degenerative,1,8787332
+,papillary,3,8787332
+,papillary muscle,3,8787332
+,muscle,3,8787332
+,head,1,8787332
+,myocardial,1,8787332
+,myocardial infarction,1,8787332
+,infarction,1,8787332
+,biological,1,8787332
+,mechanical,1,8787332
+,prosthesis,1,8787332
+,dysfunction,1,8787332
+,consequences,1,8787332
+,acute,4,8787332
+,aetiology,3,8787332
+,presence,2,8787332
+,absence,3,8787332
+,previous,1,8787332
+,mitral valve,1,8787332
+,mitral valve disease,1,8787332
+,factors,1,8787332
+,clinical,3,8787332
+,clinical presentation,1,8787332
+,presentation,1,8787332
+,prognosis,1,8787332
+,volume,6,8787332
+,regurgitation,4,8787332
+,ventricular,6,8787332
+,ventricular function,2,8787332
+,function,2,8787332
+,atrial,2,8787332
+,compliance,1,8787332
+,pure,1,8787332
+,forms,1,8787332
+,profile,1,8787332
+,marked,1,8787332
+,elevation,1,8787332
+,pressures,2,8787332
+,mean,1,8787332
+,systolic,2,8787332
+,systolic pressures,1,8787332
+,large,1,8787332
+,wave,1,8787332
+,reduction,2,8787332
+,cardiac,2,8787332
+,cardiac output,2,8787332
+,output,2,8787332
+,left,2,8787332
+,ventricular enddiastolic volume,2,8787332
+,moderately,1,8787332
+,normal,1,8787332
+,ejection,1,8787332
+,ejection fraction,1,8787332
+,fraction,1,8787332
+,picture,1,8787332
+,ventricular failure,1,8787332
+,failure,1,8787332
+,systolic murmur,1,8787332
+,murmur,1,8787332
+,mitral regurgitation,1,8787332
+,pulmonary,2,8787332
+,pulmonary hypertension,1,8787332
+,hypertension,2,8787332
+,syndrome,1,8787332
+,left ventricular hypertrophy,1,8787332
+,ventricular hypertrophy,1,8787332
+,hypertrophy,1,8787332
+,electrocardiogram,1,8787332
+,dilatation,1,8787332
+,radiological,1,8787332
+,examination,1,8787332
+,nature,1,8787332
+,disturbances,1,8787332
+,diagnosis,1,8787332
+,doppler,1,8787332
+,doppler ultrasound,1,8787332
+,need,1,8787332
+,invasive,1,8787332
+,investigation,1,8787332
+,clinical course,1,8787332
+,course,1,8787332
+,vasodilators,2,8787332
+,sodium,1,8787332
+,infusion,1,8787332
+,rapid,1,8787332
+,pulmonary artery,1,8787332
+,artery,1,8787332
+,capillary,1,8787332
+,not,1,8787332
+,counterpulsation,1,8787332
+,useful,1,8787332
+,emergency,1,8787332
+,surgery,2,8787332
+,improvement,1,8787332
+,state,1,8787332
+,replacement,1,8787332
+,surgical repair,1,8787332
+,repair,1,8787332
+,excellent,1,8787332
+,results,1,8787332
+,active,1,8787332
+,other,1,8787332
+,cases,1,8787332
+,control,1,8787332
+,acute phase,1,8787332
+,phase,1,8787332
+,chronic,1,8787332
+,project,1,8787328
+,authors,2,8787328
+,various,2,8787328
+,aspects,1,8787328
+,project,2,8787328
+,monitoring,1,8787328
+,trends,1,8787328
+,determinants,1,8787328
+,cardiovascular,1,8787328
+,cardiovascular diseases,1,8787328
+,diseases,1,8787328
+,world,1,8787328
+,world health,1,8787328
+,world health organization,1,8787328
+,health,2,8787328
+,health organization,1,8787328
+,organization,1,8787328
+,study,4,8787328
+,comprises,1,8787328
+,geographical,1,8787328
+,administrative,1,8787328
+,entity,1,8787328
+,infarction,7,8787328
+,registry,4,8787328
+,population,6,8787328
+,population surveys,3,8787328
+,surveys,4,8787328
+,treatment,1,8787328
+,acute,2,8787328
+,acute phase,1,8787328
+,phase,1,8787328
+,myocardial,2,8787328
+,myocardial infarction,2,8787328
+,collaborative,1,8787328
+,centres,5,8787328
+,continents,1,8787328
+,main,2,8787328
+,not,2,8787328
+,years,1,8787328
+,last,1,8787328
+,population survey,1,8787328
+,survey,1,8787328
+,results,1,8787328
+,date,1,8787328
+,publications,1,8787328
+,more,3,8787328
+,articles,1,8787328
+,wealth,1,8787328
+,information,1,8787328
+,clinicians,1,8787328
+,public,1,8787328
+,public health,1,8787328
+,example,1,8787328
+,marked,1,8787328
+,regional,2,8787328
+,regional differences,2,8787328
+,differences,3,8787328
+,coronary,3,8787328
+,bed,1,8787328
+,requirements,1,8787328
+,mortality,1,8787328
+,mortality rates,1,8787328
+,women,1,8787328
+,end,1,8787328
+,men,1,8787328
+,course,1,8787328
+,risk,2,8787328
+,risk factors,2,8787328
+,factors,2,8787328
+,levels,1,8787328
+,different,1,8787328
+,less,1,8787328
+,aggressive,1,8787328
+,approach,1,8787328
+,primary,2,8787328
+,primary prevention,1,8787328
+,prevention,2,8787328
+,presence,1,8787328
+,study protocols,1,8787328
+,protocols,1,8787328
+,several,1,8787328
+,examples,1,8787328
+,techniques,1,8787328
+,able,1,8787328
+,aetiology,1,8787328
+,coronary heart disease,1,8787328
+,heart,1,8787328
+,heart disease,1,8787328
+,disease,2,8787328
+,consequently,1,8787328
+,reduction,1,8787328
+,adequate,1,8787328
+,secondary,1,8787328
+,secondary prevention,1,8787328
+,evidence,1,8778159
+,thyroid,1,8778159
+,damage,1,8778159
+,amiodaroneinduced thyrotoxicosis,1,8778159
+,thyrotoxicosis,1,8778159
+,thyrotoxicosis,4,8778159
+,patients,2,8778159
+,chronic,1,8778159
+,amiodarone,3,8778159
+,treatment,4,8778159
+,most,1,8778159
+,cases,1,8778159
+,pathogenesis,2,8778159
+,iodine,3,8778159
+,iodine overload,2,8778159
+,presence,1,8778159
+,thyroid,6,8778159
+,abnormalities,1,8778159
+,multinodular,1,8778159
+,diffuse,1,8778159
+,diffuse goiter,1,8778159
+,goiter,1,8778159
+,nodule,1,8778159
+,minority,1,8778159
+,apparently,2,8778159
+,normal,2,8778159
+,glands,2,8778159
+,pictures,1,8778159
+,thyroiditis,1,8778159
+,recent,1,8778159
+,evidence,2,8778159
+,direct,1,8778159
+,toxic,2,8778159
+,toxic effect,1,8778159
+,effect,1,8778159
+,consequent,1,8778159
+,release,1,8778159
+,circulation,1,8778159
+,patient,2,8778159
+,amiodaroneinduced thyrotoxicosis,2,8778159
+,thyroid effects,1,8778159
+,effects,1,8778159
+,electron,1,8778159
+,electron microscopy,1,8778159
+,microscopy,1,8778159
+,fineneedle aspiration biopsy,1,8778159
+,aspiration,1,8778159
+,aspiration biopsy,1,8778159
+,biopsy,1,8778159
+,main,1,8778159
+,pathologic,1,8778159
+,pathologic findings,1,8778159
+,findings,2,8778159
+,lysosomal,3,8778159
+,inclusions,1,8778159
+,glycogen,1,8778159
+,ultrastructural findings,1,8778159
+,cell,2,8778159
+,microscopic,1,8778159
+,morphological,1,8778159
+,pattern,1,8778159
+,hyperfunction,1,8778159
+,inflammatory,1,8778159
+,inflammatory changes,1,8778159
+,changes,2,8778159
+,plasma,3,8778159
+,plasma thyroglobulin levels,1,8778159
+,thyroglobulin,3,8778159
+,thyroglobulin levels,1,8778159
+,levels,1,8778159
+,high,1,8778159
+,non,1,8778159
+,simultaneous,1,8778159
+,administration,1,8778159
+,methimazole,2,8778159
+,dose,2,8778159
+,potassium,1,8778159
+,potassium perchlorate,1,8778159
+,perchlorate,1,8778159
+,days,1,8778159
+,still,1,8778159
+,possible,1,8778159
+,role,2,8778159
+,dexamethasone,1,8778159
+,months,1,8778159
+,plasma thyroglobulin level,1,8778159
+,thyroglobulin level,1,8778159
+,level,1,8778159
+,subsequent,2,8778159
+,subclinical,1,8778159
+,subclinical hypothyroidism,1,8778159
+,hypothyroidism,2,8778159
+,substitution,1,8778159
+,levothyroxine,1,8778159
+,view,1,8778159
+,primary,1,8778159
+,lysosome,1,8778159
+,function,1,8778159
+,proteolysis,1,8778159
+,molecules,1,8778159
+,transport,1,8778159
+,monoiodotyrosine,1,8778159
+,lysosomal membrane,1,8778159
+,membrane,1,8778159
+,salvage,1,8778159
+,pathological,1,8778159
+,mitochondrial,1,8778159
+,marker,1,8778159
+,observations,1,8778159
+,usefulness,1,8778159
+,evaluation,1,8778159
+,serial,1,8778159
+,determinations,1,8778159
+,mechanisms,1,8778159
+,thyroid glands,1,8778159
+,more,1,8778159
+,knowledge,1,8778159
+,prognostic,1,8778159
+,stratification,1,8778159
+,guides,1,8778159
+,survival,1,8775861
+,acute,1,8775861
+,acute intestinal infarction,1,8775861
+,intestinal,1,8775861
+,intestinal infarction,1,8775861
+,infarction,1,8775861
+,cardiac,1,8775861
+,cardiac transplan,1,8775861
+,transplan,1,8775861
+,case,1,8775861
+,male,1,8775861
+,total,1,8775861
+,orthotopic,1,8775861
+,heart,1,8775861
+,heart transplantation,1,8775861
+,transplantation,1,8775861
+,ischemic,1,8775861
+,ischemic cardiomyopathy,1,8775861
+,cardiomyopathy,1,8775861
+,postoperative,1,8775861
+,course,1,8775861
+,acute,2,8775861
+,acute intestinal infarction,1,8775861
+,intestinal,1,8775861
+,intestinal infarction,1,8775861
+,infarction,1,8775861
+,surgical,2,8775861
+,surgical exploration,1,8775861
+,exploration,1,8775861
+,subtotal,1,8775861
+,subtotal colectomy,1,8775861
+,colectomy,1,8775861
+,brooke ileostomy,1,8775861
+,ileostomy,1,8775861
+,closure,1,8775861
+,distal,1,8775861
+,sigmoid,1,8775861
+,days,1,8775861
+,patient,1,8775861
+,nutritional,1,8775861
+,nutritional support,1,8775861
+,support,1,8775861
+,broad,1,8775861
+,antibiotic,1,8775861
+,antibiotic prophylaxis,1,8775861
+,prophylaxis,1,8775861
+,review,1,8775861
+,literature,1,8775861
+,abdominal,1,8775861
+,complications,2,8775861
+,operations,1,8775861
+,cardiopulmonary,1,8775861
+,cardiopulmonary bypass,1,8775861
+,bypass,1,8775861
+,usually,1,8775861
+,fatal,1,8775861
+,detection,1,8775861
+,diagnosis,1,8775861
+,treatment,1,8775861
+,immunosuppression,1,8775861
+,cardiac,1,8775861
+,cardiac transplan,1,8775861
+,transplan,1,8775861
+,poor,1,8775861
+,poor prognosis,1,8775861
+,prognosis,1,8775861
+,management,1,8775861
+,high,1,8775861
+,level,1,8775861
+,suspicion,1,8775861
+,early,1,8775861
+,aggressive,1,8775861
+,diagnostic,1,8775861
+,measures,1,8775861
+,swift,1,8775861
+,surgical intervention,1,8775861
+,intervention,1,8775861
+,essential,1,8775861
+,survival,1,8775861
+,years,1,8775860
+,experience,1,8775860
+,centrifugal,1,8775860
+,centrifugal pump,1,8775860
+,pump,1,8775860
+,patients,1,8775860
+,cardiogenic,1,8775860
+,cardiogenic shock,1,8775860
+,shock,1,8775860
+,september,1,8775860
+,patients,7,8775860
+,years,1,8775860
+,age,1,8775860
+,mechanical,1,8775860
+,mechanical circulatory support,1,8775860
+,circulatory,1,8775860
+,support,2,8775860
+,means,1,8775860
+,centrifugal,1,8775860
+,centrifugal pump,1,8775860
+,pump,1,8775860
+,groups,4,8775860
+,indication,1,8775860
+,group,8,8775860
+,early,2,8775860
+,cardiogenic,5,8775860
+,cardiogenic shock,5,8775860
+,shock,5,8775860
+,late,2,8775860
+,group ii,2,8775860
+,acute,2,8775860
+,acute myocardial infarction,1,8775860
+,myocardial,1,8775860
+,myocardial infarction,1,8775860
+,infarction,1,8775860
+,other,1,8775860
+,etiologies,1,8775860
+,duration,1,8775860
+,hours,1,8775860
+,survival,1,8775860
+,survival rates,1,8775860
+,iii,4,8775860
+,most,1,8775860
+,frequent,1,8775860
+,complications,1,8775860
+,acute renal failure,1,8775860
+,renal,1,8775860
+,renal failure,1,8775860
+,failure,4,8775860
+,multiple,3,8775860
+,multiple organ failure,3,8775860
+,organ,3,8775860
+,organ failure,3,8775860
+,major,1,8775860
+,causes,1,8775860
+,death,1,8775860
+,comparison,1,8775856
+,early,1,8775856
+,results,1,8775856
+,coronary,1,8775856
+,coronary artery,1,8775856
+,coronary artery bypass,1,8775856
+,artery,1,8775856
+,bypass,1,8775856
+,extracorporeal,1,8775856
+,extracorporeal circulation,1,8775856
+,circulation,1,8775856
+,safety,1,8775856
+,efficacy,1,8775856
+,coronary,2,8775856
+,coronary artery,2,8775856
+,coronary artery bypass,2,8775856
+,artery,2,8775856
+,bypass,4,8775856
+,extracorporeal,1,8775856
+,extracorporeal circulation,1,8775856
+,circulation,1,8775856
+,standard,2,8775856
+,cardiopulmonary,2,8775856
+,cardiopulmonary bypass,2,8775856
+,technique,3,8775856
+,certain,1,8775856
+,early,1,8775856
+,postoperative,1,8775856
+,criteria,1,8775856
+,randomized,1,8775856
+,prospective,1,8775856
+,prospective study,1,8775856
+,study,1,8775856
+,similar,2,8775856
+,groups,3,8775856
+,patients,2,8775856
+,hemodynamic,1,8775856
+,data,1,8775856
+,cardiac,2,8775856
+,cardiac index,1,8775856
+,index,1,8775856
+,systemic,1,8775856
+,systemic vascular resistance,1,8775856
+,vascular,1,8775856
+,vascular resistance,1,8775856
+,resistance,1,8775856
+,mechanical,2,8775856
+,support,2,8775856
+,needs,1,8775856
+,enzyme,1,8775856
+,enzyme levels,1,8775856
+,levels,1,8775856
+,sgot,1,8775856
+,well,1,8775856
+,mortality,2,8775856
+,perioperative,2,8775856
+,infarction,2,8775856
+,rate,1,8775856
+,homologous,2,8775856
+,transfusion,2,8775856
+,requirements,2,8775856
+,first,1,8775856
+,ups,1,8775856
+,myocardial,1,8775856
+,myocardial infarction,1,8775856
+,group,2,8775856
+,blood,1,8775856
+,consumption,1,8775856
+,percentages,1,8775856
+,greater,1,8775856
+,results,1,8775856
+,cases,1,8775856
+,offpump coronary artery bypass,1,8775856
+,offpump coronary artery bypass surgery,1,8775856
+,coronary artery bypass surgery,1,8775856
+,bypass surgery,1,8775856
+,surgery,1,8775856
+,efficient,1,8775856
+,cannulation,1,8775856
+,hypothermia,1,8775856
+,properties,1,8775856
+,place,1,8775856
+,cardiac surgeons,1,8775856
+,surgeons,1,8775856
+,cardiac,1,8775548
+,sequelae,1,8775548
+,kawasaki,1,8775548
+,kawasaki disease,1,8775548
+,disease,1,8775548
+,japan,1,8775548
+,years,1,8775548
+,secular,1,8775548
+,secular trend,1,8775548
+,trend,1,8775548
+,proportion,3,8775548
+,kawasaki,3,8775548
+,kawasaki disease,3,8775548
+,disease,4,8775548
+,patients,5,8775548
+,cardiac,4,8775548
+,sequelae,4,8775548
+,japan,1,8775548
+,surveys,2,8775548
+,years,4,8775548
+,july,1,8775548
+,dilatation,1,8775548
+,stenosis,1,8775548
+,coronary,1,8775548
+,coronary arteries,1,8775548
+,arteries,1,8775548
+,myocardial,1,8775548
+,myocardial infarction,1,8775548
+,infarction,1,8775548
+,lesions,1,8775548
+,month,1,8775548
+,more,1,8775548
+,onset,1,8775548
+,percentage,2,8775548
+,high,1,8775548
+,males,1,8775548
+,infants,1,8775548
+,year,1,8775548
+,children,3,8775548
+,age,3,8775548
+,overall,1,8775548
+,prevalence,1,8775548
+,observed,1,8775548
+,period,1,8775548
+,not,2,8775548
+,intravenous,2,8775548
+,intravenous gamma globulin,2,8775548
+,gamma,2,8775548
+,gamma globulin,2,8775548
+,globulin,2,8775548
+,untreated,1,8775548
+,consequence,1,8775548
+,increased,1,8775548
+,number,1,8775548
+,annually,1,8775548
+,ecg,1,8771133
+,criteria,1,8771133
+,supraventricular tachycardia,1,8771133
+,tachycardia,2,8771133
+,ventricular,1,8771133
+,ventricular tachycardia,1,8771133
+,aspects,1,8771133
+,immediate,1,8771133
+,care,1,8771133
+,setting,1,8771133
+,ecg,4,8771133
+,criteria,8,8771133
+,supraventricular tachycardia,1,8771133
+,tachycardia,2,8771133
+,aberrant,2,8771133
+,conduction,2,8771133
+,ventricular,1,8771133
+,ventricular tachycardia,1,8771133
+,wide,2,8771133
+,wide qrs tachycardias,2,8771133
+,tachycardias,4,8771133
+,patients,1,8771133
+,invasive,1,8771133
+,study,1,8771133
+,surface,1,8771133
+,standard,2,8771133
+,mcl,1,8771133
+,leads,2,8771133
+,correct,1,8771133
+,diagnosis,3,8771133
+,studies,1,8771133
+,morphology,2,8771133
+,highly,2,8771133
+,specific,2,8771133
+,svt,2,8771133
+,specificity,1,8771133
+,morphological,3,8771133
+,analysis,1,8771133
+,immediate,1,8771133
+,care,1,8771133
+,setting,1,8771133
+,results,1,8771133
+,useful,1,8771133
+,not,3,8771133
+,lead,4,8771133
+,different,1,8771133
+,cases,1,8771133
+,inferior,1,8771133
+,most,1,8771133
+,established,1,8771133
+,very,1,8771133
+,sensitive,1,8771133
+,individual,1,8771133
+,width,2,8771133
+,seconds,1,8771133
+,monophasic,1,8771133
+,wave,1,8771133
+,pattern,1,8771133
+,conclusions,1,8771133
+,differentiation,1,8771133
+,often,1,8771133
+,certain,1,8771133
+,multiple,1,8771133
+,accurate,1,8771133
+,assessment,1,8771133
+,presence,1,8771133
+,av dissociation,1,8771133
+,dissociation,1,8771133
+,block,1,8771133
+,qrs axis,1,8771133
+,axis,1,8771133
+,use,1,8771133
+,predictive,1,8771132
+,accuracy,1,8771132
+,spectral,1,8771132
+,analysis,2,8771132
+,monomorphic ventricular tachycardia,1,8771132
+,ventricular,1,8771132
+,ventricular tachycardia,1,8771132
+,tachycardia,1,8771132
+,postinfarction,1,8771132
+,patients,1,8771132
+,conduction,1,8771132
+,conduction defects,1,8771132
+,defects,1,8771132
+,electrocardiograms,1,8771132
+,postinfarction,1,8771132
+,patients,3,8771132
+,right,1,8771132
+,right bundle branch,1,8771132
+,right bundle branch block,1,8771132
+,bundle branch,2,8771132
+,bundle branch block,2,8771132
+,branch,2,8771132
+,block,2,8771132
+,bbb,2,8771132
+,intraventricular,1,8771132
+,intraventricular conduction,1,8771132
+,intraventricular conduction defect,1,8771132
+,conduction,2,8771132
+,conduction defect,1,8771132
+,defect,1,8771132
+,analysis,2,8771132
+,spectral,2,8771132
+,approach,1,8771132
+,more,5,8771132
+,effective,2,8771132
+,marker,1,8771132
+,sustained,1,8771132
+,monomorphic ventricular tachycardia,1,8771132
+,ventricular,1,8771132
+,ventricular tachycardia,1,8771132
+,tachycardia,1,8771132
+,parameter,1,8771132
+,root,1,8771132
+,square,1,8771132
+,value,1,8771132
+,last,1,8771132
+,complex,1,8771132
+,duration,1,8771132
+,low,2,8771132
+,low amplitude signal,1,8771132
+,amplitude,1,8771132
+,signal,1,8771132
+,summation,1,8771132
+,lead,1,8771132
+,parameters,1,8771132
+,correlation,3,8771132
+,standard,1,8771132
+,standard deviation,1,8771132
+,deviation,1,8771132
+,slice,1,8771132
+,ratio,1,8771132
+,entropy,1,8771132
+,filters,1,8771132
+,study,1,8771132
+,total,1,8771132
+,total patient population,1,8771132
+,patient,1,8771132
+,population,1,8771132
+,noise,5,8771132
+,noise levels,4,8771132
+,levels,4,8771132
+,subset,1,8771132
+,techniques,1,8771132
+,effectiveness,1,8771132
+,positive,1,8771132
+,positive predictive values,1,8771132
+,predictive,2,8771132
+,predictive values,2,8771132
+,values,2,8771132
+,ppv,2,8771132
+,negative,1,8771132
+,negative predictive values,1,8771132
+,sensitivity,1,8771132
+,specificity,1,8771132
+,rbbb,1,8771132
+,tool,1,8771132
+,filter,1,8771132
+,lbbb,1,8771132
+,consistently,1,8771132
+,isolated,1,8771132
+,exceptions,1,8771132
+,conduction defects,1,8771132
+,defects,1,8771132
+,equal,1,8771132
+,exception,1,8771132
+,noise level,1,8771132
+,level,1,8771132
+,addition,1,8771132
+,ejection,1,8771132
+,ejection fraction,1,8771132
+,fraction,1,8771132
+,data,1,8771132
+,score,1,8771132
+,further,1,8771132
+,overall,1,8771132
+,improvement,1,8771132
+,performance,1,8771132
+,conclusions,1,8771132
+,unchanged,1,8771132
+,assessment,1,8770336
+,coronary,1,8770336
+,coronary artery,1,8770336
+,coronary artery disease,1,8770336
+,artery,1,8770336
+,artery disease,1,8770336
+,disease,1,8770336
+,dobutamine,1,8770336
+,dobutamine stress echocardiography,1,8770336
+,stress,1,8770336
+,stress echocardiography,1,8770336
+,echocardiography,1,8770336
+,background,1,8770336
+,stress,2,8770336
+,stress echocardiography,1,8770336
+,echocardiography,2,8770336
+,new,1,8770336
+,noninvasive,1,8770336
+,imaging,1,8770336
+,imaging modality,1,8770336
+,modality,1,8770336
+,twodimensional echocardiography,1,8770336
+,cardiovascular,1,8770336
+,dobutamine,1,8770336
+,infusion,1,8770336
+,use,1,8770336
+,patients,9,8770336
+,suspected,1,8770336
+,coronary,3,8770336
+,coronary artery,1,8770336
+,coronary artery disease,1,8770336
+,artery,1,8770336
+,artery disease,1,8770336
+,disease,1,8770336
+,cad,3,8770336
+,currently,1,8770336
+,extensive,1,8770336
+,investigation,1,8770336
+,aims,1,8770336
+,clinical,1,8770336
+,utility,1,8770336
+,safety,1,8770336
+,diagnostic,1,8770336
+,value,1,8770336
+,methods,1,8770336
+,consecutive,1,8770336
+,coronary angiography,2,8770336
+,angiography,2,8770336
+,results,1,8770336
+,eleven,1,8770336
+,not,1,8770336
+,poor,1,8770336
+,image,1,8770336
+,image quality,1,8770336
+,quality,1,8770336
+,target,1,8770336
+,target heart rate,1,8770336
+,heart,1,8770336
+,heart rate,1,8770336
+,rate,1,8770336
+,end,1,8770336
+,end point,1,8770336
+,point,1,8770336
+,side,1,8770336
+,side effects,1,8770336
+,effects,1,8770336
+,none,1,8770336
+,premature,1,8770336
+,termination,1,8770336
+,procedure,1,8770336
+,cardiac,2,8770336
+,cardiac arrhythmias,1,8770336
+,arrhythmias,1,8770336
+,only,1,8770336
+,intervention,1,8770336
+,sensitivity,1,8770336
+,specificity,1,8770336
+,presence,1,8770336
+,significant,2,8770336
+,uncomplicated,1,8770336
+,myocardial,1,8770336
+,myocardial infarction,1,8770336
+,infarction,2,8770336
+,positive,1,8770336
+,negative,1,8770336
+,negative predictive values,1,8770336
+,predictive,1,8770336
+,predictive values,1,8770336
+,values,1,8770336
+,cardiac events,1,8770336
+,events,1,8770336
+,followup,1,8770336
+,period,1,8770336
+,conclusions,1,8770336
+,well,1,8770336
+,useful,2,8770336
+,test,1,8770336
+,postinfarctional,1,8770336
+,prognostic,1,8770336
+,information,1,8770336
+,directional coronary atherectomy,1,8770330
+,coronary,1,8770330
+,coronary atherectomy,1,8770330
+,atherectomy,1,8770330
+,lesions,1,8770330
+,proximal,1,8770330
+,anterior,1,8770330
+,descending,1,8770330
+,artery,1,8770330
+,initial,1,8770330
+,clinical,1,8770330
+,results,1,8770330
+,complications,1,8770330
+,histopathological,1,8770330
+,findings,1,8770330
+,background,1,8770330
+,directional coronary atherectomy,2,8770330
+,coronary,6,8770330
+,coronary atherectomy,3,8770330
+,atherectomy,4,8770330
+,percutaneous,2,8770330
+,percutaneous technique,1,8770330
+,technique,1,8770330
+,role,1,8770330
+,balloon,2,8770330
+,balloon angioplasty,2,8770330
+,angioplasty,3,8770330
+,eccentric,1,8770330
+,coronary lesions,1,8770330
+,lesions,6,8770330
+,aims,1,8770330
+,early,1,8770330
+,early experience,1,8770330
+,experience,1,8770330
+,clinical,1,8770330
+,results,2,8770330
+,complications,3,8770330
+,histopathological,1,8770330
+,findings,1,8770330
+,proximal,4,8770330
+,left,1,8770330
+,left anterior,1,8770330
+,anterior,1,8770330
+,artery,4,8770330
+,lad,5,8770330
+,ste,1,8770330
+,methods,1,8770330
+,study,2,8770330
+,patients,6,8770330
+,directional atherectomy,1,8770330
+,proximal lad artery,2,8770330
+,atherectomy device,1,8770330
+,device,1,8770330
+,procedures,1,8770330
+,stenosis,3,8770330
+,males,1,8770330
+,females,1,8770330
+,mean,5,8770330
+,age,1,8770330
+,years,1,8770330
+,stable,1,8770330
+,stable angina,1,8770330
+,angina,1,8770330
+,unstable,1,8770330
+,ang,1,8770330
+,previous,1,8770330
+,previous myocardial infarction,1,8770330
+,myocardial,1,8770330
+,myocardial infarction,1,8770330
+,infarction,1,8770330
+,angiographic,2,8770330
+,success,1,8770330
+,lesion,1,8770330
+,length,1,8770330
+,diameter,6,8770330
+,minimal,2,8770330
+,luminal,3,8770330
+,percentage,2,8770330
+,acute,2,8770330
+,occlusion,1,8770330
+,patient,3,8770330
+,local,1,8770330
+,vascular,1,8770330
+,vascular complications,1,8770330
+,loss,1,8770330
+,histology,1,8770330
+,fibrous,1,8770330
+,cap,1,8770330
+,atherosclerotic,1,8770330
+,atherosclerotic plaque,1,8770330
+,plaque,1,8770330
+,media,1,8770330
+,internal,1,8770330
+,internal elastic lamina,1,8770330
+,elastic,1,8770330
+,lamina,1,8770330
+,intimal,1,8770330
+,intimal hyperplasia,1,8770330
+,hyperplasia,1,8770330
+,native,1,8770330
+,restenosis,2,8770330
+,followup,1,8770330
+,conclusion,1,8770330
+,initial,1,8770330
+,effective,1,8770330
+,procedure,1,8770330
+,treatment,1,8770330
+,large,2,8770330
+,appearance,1,8770330
+,coronary angioplasty,1,8770330
+,complication,1,8770330
+,low,1,8770330
+,transluminal,1,8770330
+,coronary balloon angioplasty,1,8770330
+,therapy,1,8750250
+,secondary,1,8750250
+,secondary prevention,1,8750250
+,prevention,1,8750250
+,coronary,1,8750250
+,coronary heart disease,1,8750250
+,heart,1,8750250
+,heart disease,1,8750250
+,disease,1,8750250
+,scandinavian,1,8750250
+,simvastatin,2,8750250
+,survival,2,8750250
+,study,1,8750250
+,decrease,1,8750250
+,reduction,1,8750250
+,coronary,3,8750250
+,mortality,1,8750250
+,period,1,8750250
+,time,1,8750250
+,year,1,8750250
+,divergence,1,8750250
+,placebo,1,8750250
+,groups,1,8750250
+,reasons,1,8750250
+,effect,2,8750250
+,lipid,1,8750250
+,rapid,1,8750250
+,stabilization,1,8750250
+,coronary lesions,1,8750250
+,lesions,1,8750250
+,effects,1,8750250
+,endothelium,1,8750250
+,studies,1,8750250
+,acute,1,8750250
+,stage,1,8750250
+,coronary heart disease,1,8750250
+,heart,1,8750250
+,heart disease,1,8750250
+,disease,1,8750250
+,occupational,1,8749740
+,mortality,1,8749740
+,firefighters,1,8749740
+,association,1,8749740
+,occupational,2,8749740
+,occupational exposure,1,8749740
+,exposure,2,8749740
+,variety,1,8749740
+,toxic,1,8749740
+,fire,2,8749740
+,fire fighters,2,8749740
+,risk,15,8749740
+,number,1,8749740
+,diseases,1,8749740
+,current,1,8749740
+,literature,1,8749740
+,disease,4,8749740
+,disease risk,1,8749740
+,findings,1,8749740
+,magnitude,4,8749740
+,standard,1,8749740
+,mortality,1,8749740
+,ratio,1,8749740
+,equal,1,8749740
+,attributable,1,8749740
+,attributable risk,1,8749740
+,sufficient,3,8749740
+,most,1,8749740
+,workers,1,8749740
+,workers compensation,1,8749740
+,compensation,1,8749740
+,systems,1,8749740
+,risks,1,8749740
+,approach,2,8749740
+,smr,1,8749740
+,equivalent,1,8749740
+,risk estimate,1,8749740
+,estimate,1,8749740
+,mind,1,8749740
+,confidence,1,8749740
+,confidence intervals,1,8749740
+,intervals,1,8749740
+,estimates,1,8749740
+,wide,1,8749740
+,criteria,1,8749740
+,conclusions,1,8749740
+,respect,1,8749740
+,general,7,8749740
+,lung,4,8749740
+,lung cancer,1,8749740
+,cancer,4,8749740
+,evidence,7,8749740
+,association,7,8749740
+,not,3,8749740
+,cardiovascular,1,8749740
+,death,2,8749740
+,overall,1,8749740
+,heart,3,8749740
+,heart disease,1,8749740
+,sudden,1,8749740
+,sudden death,1,8749740
+,myocardial,1,8749740
+,myocardial infarction,1,8749740
+,infarction,1,8749740
+,fatal,1,8749740
+,arrhythmia,1,8749740
+,stress,1,8749740
+,job,1,8749740
+,likely,1,8749740
+,heart attacks,1,8749740
+,attacks,1,8749740
+,work,2,8749740
+,aortic,1,8749740
+,aortic aneurysm,1,8749740
+,aneurysm,1,8749740
+,incomplete,2,8749740
+,probably,1,8749740
+,compatible,1,8749740
+,cancers,1,8749740
+,genitourinary,1,8749740
+,genitourinary tract,1,8749740
+,tract,1,8749740
+,kidney,1,8749740
+,ureter,1,8749740
+,bladder,1,8749740
+,strong,1,8749740
+,brain,1,8749740
+,possible,1,8749740
+,consistent,1,8749740
+,lymphatic,1,8749740
+,hematopoietic,1,8749740
+,hematopoietic tissue,1,8749740
+,tissue,1,8749740
+,group,1,8749740
+,aggregation,1,8749740
+,colon,1,8749740
+,rectum,1,8749740
+,lung disease,2,8749740
+,unusual,1,8749740
+,exposures,1,8749740
+,fumes,1,8749740
+,plastics,1,8749740
+,severe,1,8749740
+,toxicity,1,8749740
+,permanent,1,8749740
+,disability,1,8749740
+,lifetime risk,1,8749740
+,chronic,1,8749740
+,chronic lung disease,1,8749740
+,high,1,8748390
+,high dose,1,8748390
+,dose,1,8748390
+,transdermal,1,8748390
+,nicotine,2,8748390
+,therapy,1,8748390
+,heavy,1,8748390
+,heavy smokers,1,8748390
+,smokers,1,8748390
+,safety,1,8748390
+,tolerability,1,8748390
+,measurement,1,8748390
+,cotinine,1,8748390
+,levels,1,8748390
+,transdermal,2,8748390
+,nicotine,13,8748390
+,nicotine withdrawal,1,8748390
+,withdrawal,1,8748390
+,smoking,8,8748390
+,smoking cessation,4,8748390
+,cessation,4,8748390
+,clinical,1,8748390
+,clinical trials,1,8748390
+,dose,2,8748390
+,steady,2,8748390
+,steady state,2,8748390
+,state,2,8748390
+,serum,2,8748390
+,less,1,8748390
+,information,1,8748390
+,available,1,8748390
+,nicotine patch,4,8748390
+,patch,9,8748390
+,doses,1,8748390
+,better,1,8748390
+,optimal,1,8748390
+,therapy,6,8748390
+,study,1,8748390
+,safety,1,8748390
+,tolerability,1,8748390
+,subjects,4,8748390
+,cigarettes,2,8748390
+,day,1,8748390
+,forty,1,8748390
+,smokers,2,8748390
+,weeks,5,8748390
+,entire,1,8748390
+,nonsmokers,3,8748390
+,week,4,8748390
+,mean,1,8748390
+,nicotine level,1,8748390
+,level,3,8748390
+,cotinine,3,8748390
+,percent,2,8748390
+,replacement,5,8748390
+,state level,1,8748390
+,baseline,1,8748390
+,usual,1,8748390
+,number,1,8748390
+,nicotine replacement,2,8748390
+,biochemically,1,8748390
+,point,1,8748390
+,prevalence,1,8748390
+,months,1,8748390
+,most,1,8748390
+,common,1,8748390
+,effect,1,8748390
+,skin,1,8748390
+,skin irritation,1,8748390
+,irritation,1,8748390
+,site,1,8748390
+,single,1,8748390
+,subject,2,8748390
+,myocardial,1,8748390
+,myocardial infarction,1,8748390
+,infarction,1,8748390
+,not,2,8748390
+,adverse event,1,8748390
+,event,1,8748390
+,complaints,2,8748390
+,phase,1,8748390
+,other,1,8748390
+,infrequent,1,8748390
+,24h,1,8748390
+,heavy,1,8748390
+,heavy smokers,1,8748390
+,significant,1,8748390
+,adverse events,1,8748390
+,events,1,8748390
+,hydrogen,1,8746221
+,hydrogen peroxide,1,8746221
+,peroxide,1,8746221
+,protective agent,1,8746221
+,agent,1,8746221
+,reperfusion,1,8746221
+,study,1,8746221
+,isolated,1,8746221
+,rabbit,1,8746221
+,heart,1,8746221
+,regional,1,8746221
+,ischemia,1,8746221
+,extensive,1,8746221
+,research,1,8746221
+,last,1,8746221
+,decade,1,8746221
+,not,2,8746221
+,possible,1,8746221
+,endogenously,1,8746221
+,hydrogen,4,8746221
+,hydrogen peroxide,3,8746221
+,peroxide,3,8746221
+,oxygen,1,8746221
+,species,1,8746221
+,sufficient,1,8746221
+,concentration,1,8746221
+,reperfusion,9,8746221
+,myocardial,1,8746221
+,myocardial ischemia,1,8746221
+,ischemia,2,8746221
+,significantly,1,8746221
+,cell,2,8746221
+,cell injury,1,8746221
+,injury,1,8746221
+,attempt,1,8746221
+,further,1,8746221
+,test,1,8746221
+,hypothesis,1,8746221
+,rabbit,1,8746221
+,hearts,1,8746221
+,min,5,8746221
+,regional,1,8746221
+,low,1,8746221
+,levels,1,8746221
+,catalase,5,8746221
+,first,1,8746221
+,total,1,8746221
+,different,1,8746221
+,groups,1,8746221
+,controls,1,8746221
+,microm,6,8746221
+,alone,2,8746221
+,initial,1,8746221
+,part,1,8746221
+,end,1,8746221
+,area,1,8746221
+,risk,2,8746221
+,fluorescent,1,8746221
+,particles,1,8746221
+,infarct,2,8746221
+,zone,2,8746221
+,size,2,8746221
+,tetrazolium,1,8746221
+,staining,1,8746221
+,results,1,8746221
+,control,1,8746221
+,control group,1,8746221
+,group,3,8746221
+,reduction,2,8746221
+,not present,1,8746221
+,present,2,8746221
+,solution,1,8746221
+,infarction,2,8746221
+,heart,1,8746221
+,amount,1,8746221
+,cell death,1,8746221
+,death,1,8746221
+,study,1,8746221
+,delay,1,8746221
+,only,1,8746221
+,treatment,1,8746221
+,period,1,8746221
+,mechanism,1,8746221
+,protection,1,8746221
+,endocardial,1,8746219
+,epicardial,1,8746219
+,infarct,1,8746219
+,size,1,8746219
+,partial,1,8746219
+,coronary,1,8746219
+,coronary artery,1,8746219
+,coronary artery occlusion,1,8746219
+,artery,1,8746219
+,artery occlusion,1,8746219
+,occlusion,1,8746219
+,reperfusion,1,8746219
+,degree,1,8746219
+,duration,1,8746219
+,flow,1,8746219
+,reduction,1,8746219
+,objective,1,8746219
+,recently,1,8746219
+,partial,2,8746219
+,coronary,6,8746219
+,coronary artery,4,8746219
+,coronary artery occlusion,3,8746219
+,artery,4,8746219
+,artery occlusion,3,8746219
+,occlusion,3,8746219
+,immediately,3,8746219
+,infarct,3,8746219
+,size,2,8746219
+,now,1,8746219
+,protection,3,8746219
+,coronary artery occlusions,1,8746219
+,artery occlusions,1,8746219
+,occlusions,1,8746219
+,severity,1,8746219
+,duration,2,8746219
+,flow,4,8746219
+,reduction,3,8746219
+,different,2,8746219
+,myocardial,3,8746219
+,layers,2,8746219
+,methods,1,8746219
+,pigs,2,8746219
+,groups,2,8746219
+,ventricular,1,8746219
+,area,2,8746219
+,risk,1,8746219
+,endocardial,3,8746219
+,epicardial,5,8746219
+,results,1,8746219
+,control,2,8746219
+,control animals,1,8746219
+,animals,2,8746219
+,total,1,8746219
+,min,11,8746219
+,reperfusion,2,8746219
+,rep,4,8746219
+,highly,2,8746219
+,linear,1,8746219
+,relations,1,8746219
+,endocardium,3,8746219
+,epicardium,4,8746219
+,prior,2,8746219
+,less,1,8746219
+,slopes,1,8746219
+,blood,1,8746219
+,blood flow,1,8746219
+,same,1,8746219
+,degree,1,8746219
+,endo,2,8746219
+,half,2,8746219
+,not,3,8746219
+,most,1,8746219
+,most likely,1,8746219
+,likely,1,8746219
+,infarction,3,8746219
+,more,1,8746219
+,severe,2,8746219
+,control group,1,8746219
+,group,1,8746219
+,mild,2,8746219
+,damage,1,8746219
+,conclusions,1,8746219
+,thirty,1,8746219
+,reductions,1,8746219
+,myocardial infarction,1,8746219
+,limited,1,8746219
+,findings,1,8746219
+,perfusion,1,8746219
+,abnormalities,1,8746219
+,source,1,8746219
+,variability,1,8746219
+,patients,1,8746219
+,pathway,1,8746214
+,gene,1,8746214
+,gene regulation,1,8746214
+,regulation,1,8746214
+,hyp,1,8746214
+,objectives,2,8746214
+,endothelin1,1,8746214
+,vasoconstrictor,1,8746214
+,endothelial,4,8746214
+,endothelial cells,2,8746214
+,cells,5,8746214
+,many,1,8746214
+,other,2,8746214
+,other cells,1,8746214
+,tissues,1,8746214
+,plasma,1,8746214
+,levels,2,8746214
+,peptide,1,8746214
+,ischemic,1,8746214
+,ischemic heart disease,1,8746214
+,heart,1,8746214
+,heart disease,1,8746214
+,disease,1,8746214
+,atherosclerosis,1,8746214
+,myocardial,1,8746214
+,myocardial infarction,1,8746214
+,infarction,1,8746214
+,current,1,8746214
+,study,1,8746214
+,tissue,1,8746214
+,tissue specificity,1,8746214
+,specificity,1,8746214
+,induction,6,8746214
+,gene,3,8746214
+,hyp,2,8746214
+,hypoxia,6,8746214
+,regulatory,2,8746214
+,regulatory pathway,1,8746214
+,pathway,3,8746214
+,same,1,8746214
+,genes,1,8746214
+,contributions,1,8746214
+,protein,9,8746214
+,protein kinases,1,8746214
+,kinases,1,8746214
+,basal,3,8746214
+,induced,2,8746214
+,expression,3,8746214
+,methods,1,8746214
+,transcript,1,8746214
+,northern,1,8746214
+,northern blot,1,8746214
+,quantitative,1,8746214
+,polymerase,1,8746214
+,polymerase chain reaction,1,8746214
+,chain,1,8746214
+,reaction,1,8746214
+,exposure,1,8746214
+,steps,2,8746214
+,aerobic,1,8746214
+,hypoxic,2,8746214
+,cultures,1,8746214
+,cycloheximide,2,8746214
+,pma,1,8746214
+,series,1,8746214
+,protein kinase,5,8746214
+,protein kinase inhibitors,1,8746214
+,kinase,7,8746214
+,kinase inhibitors,1,8746214
+,inhibitors,3,8746214
+,transition,2,8746214
+,transition metals,2,8746214
+,metals,2,8746214
+,effects,1,8746214
+,transcripts,1,8746214
+,inducible,1,8746214
+,pyruvate,1,8746214
+,pyruvate kinase,1,8746214
+,results,1,8746214
+,vitro,1,8746214
+,early,1,8746214
+,passage,1,8746214
+,treatment,2,8746214
+,protein synthesis,2,8746214
+,protein synthesis inhibitor,1,8746214
+,synthesis,2,8746214
+,inhibitor,1,8746214
+,not,1,8746214
+,calciumcalmodulin dependent protein kinase,1,8746214
+,dependent,2,8746214
+,cyclic,1,8746214
+,cyclic gmp,1,8746214
+,cyclic gmp dependent protein kinase,1,8746214
+,gmp,1,8746214
+,tyrosine,2,8746214
+,conclusions,1,8746214
+,new,1,8746214
+,haeme,1,8746214
+,oxygen,1,8746214
+,protein tyrosine kinase,1,8746214
+,tyrosine kinase,1,8746214
+,step,1,8746214
+,well,1,8746210
+,application,1,8746210
+,exchange,1,8746210
+,inhibitor,1,8746210
+,infarct,1,8746210
+,size,1,8746210
+,pigs,1,8746210
+,background,1,8746210
+,reperfusion,5,8746210
+,ischaemic,2,8746210
+,myocardium,2,8746210
+,exchange,5,8746210
+,promotes,1,8746210
+,recovery,1,8746210
+,acidosis,1,8746210
+,intracellular,1,8746210
+,cell,2,8746210
+,necrosis,2,8746210
+,reperfusion injury,2,8746210
+,injury,2,8746210
+,methods,1,8746210
+,results,1,8746210
+,specific,1,8746210
+,inhibitor,1,8746210
+,able,2,8746210
+,infarct,6,8746210
+,size,5,8746210
+,swine,1,8746210
+,experiments,1,8746210
+,pigs,1,8746210
+,min,4,8746210
+,occlusion,4,8746210
+,left,1,8746210
+,left anterior,1,8746210
+,left anterior descending coronary artery,1,8746210
+,anterior,1,8746210
+,anterior descending coronary artery,1,8746210
+,descending,1,8746210
+,coronary,1,8746210
+,coronary artery,1,8746210
+,artery,1,8746210
+,groups,1,8746210
+,animals,2,8746210
+,group,6,8746210
+,infusion,2,8746210
+,end,2,8746210
+,onset,2,8746210
+,ischaemia,4,8746210
+,control,2,8746210
+,control group,2,8746210
+,vehicle,1,8746210
+,alone,1,8746210
+,protocol,1,8746210
+,ventricular,1,8746210
+,risk,1,8746210
+,region,1,8746210
+,tetrazolium,1,8746210
+,method,1,8746210
+,treatment,2,8746210
+,prior,1,8746210
+,significantly,2,8746210
+,more,2,8746210
+,conclusion,1,8746210
+,significant,1,8746210
+,reduction,1,8746210
+,inhibition,1,8746210
+,role,1,8746210
+,pathogenesis,1,8746210
+,evidence,1,8746210
+,effective,1,8746210
+,additional,1,8746210
+,effect,1,8746210
+,due,1,8746210
+,down,1,8746210
+,cycle,1,8746210
+,atp,1,8746210
+,dietary,1,8746207
+,dietary magnesium,1,8746207
+,magnesium,1,8746207
+,magnesium deficiency,1,8746207
+,deficiency,1,8746207
+,increases,1,8746207
+,alpha,1,8746207
+,levels,1,8746207
+,rat,1,8746207
+,rat heart,1,8746207
+,heart,1,8746207
+,myocardial,1,8746207
+,myocardial infarction,1,8746207
+,infarction,1,8746207
+,objective,1,8746207
+,magnesium,1,8746207
+,function,4,8746207
+,proteins,2,8746207
+,roles,1,8746207
+,effects,1,8746207
+,beta,1,8746207
+,beta adrenergic agonists,1,8746207
+,adrenergic,1,8746207
+,adrenergic agonists,1,8746207
+,agonists,1,8746207
+,heart,4,8746207
+,heart failure,1,8746207
+,failure,1,8746207
+,study,1,8746207
+,not,5,8746207
+,dietary,3,8746207
+,deficiency,9,8746207
+,functional,1,8746207
+,activity,2,8746207
+,levels,2,8746207
+,major,1,8746207
+,ventricular,1,8746207
+,alpha,6,8746207
+,myocardial,3,8746207
+,myocardial infarction,1,8746207
+,infarction,1,8746207
+,methods,1,8746207
+,week,2,8746207
+,old,1,8746207
+,rats,3,8746207
+,adequate,2,8746207
+,deficient,2,8746207
+,diet,3,8746207
+,weeks,2,8746207
+,end,1,8746207
+,coronary,1,8746207
+,coronary artery,1,8746207
+,artery,1,8746207
+,artery ligation,1,8746207
+,ligation,1,8746207
+,sham,1,8746207
+,operation,1,8746207
+,control,1,8746207
+,surgery,1,8746207
+,animals,6,8746207
+,diets,1,8746207
+,then,1,8746207
+,cardiac,2,8746207
+,cardiac function,2,8746207
+,plasma,3,8746207
+,tissue,1,8746207
+,results,1,8746207
+,severe,1,8746207
+,hypomagnesemia,1,8746207
+,plasma catecholamine,1,8746207
+,plasma catecholamine level,1,8746207
+,catecholamine,1,8746207
+,catecholamine level,1,8746207
+,level,3,8746207
+,significant,1,8746207
+,reduction,1,8746207
+,concentration,1,8746207
+,elevated,1,8746207
+,calcium,1,8746207
+,concentrations,1,8746207
+,further,1,8746207
+,alone,3,8746207
+,protein,1,8746207
+,groups,1,8746207
+,gppnhp,1,8746207
+,adenylyl cyclase,1,8746207
+,adenylyl cyclase activity,1,8746207
+,cyclase activity,1,8746207
+,slightly,1,8746207
+,conclusion,1,8746207
+,findings,1,8746207
+,expression,1,8746207
+,aspirin,1,8746200
+,not,1,8746200
+,effect,1,8746200
+,suboptimal,1,8746200
+,dose,1,8746200
+,thrombin,1,8746200
+,thrombin inhibitor,1,8746200
+,inhibitor,1,8746200
+,inogatran,1,8746200
+,coronary,1,8746200
+,coronary thrombolysis,1,8746200
+,thrombolysis,1,8746200
+,objectives,1,8746200
+,coronary,4,8746200
+,coronary artery,4,8746200
+,artery,4,8746200
+,often,2,8746200
+,thrombolytic,1,8746200
+,thrombolytic therapy,1,8746200
+,therapy,1,8746200
+,recombinant,2,8746200
+,recombinant tissueplasminogen activator (r,2,8746200
+,tissueplasminogen activator (r,2,8746200
+,tpa,2,8746200
+,reocclusion,4,8746200
+,due,1,8746200
+,platelet,1,8746200
+,platelet activation,1,8746200
+,activation,1,8746200
+,thrombin,1,8746200
+,aspirin,2,8746200
+,inhibitors,1,8746200
+,patients,1,8746200
+,acute,1,8746200
+,acute myocardial infarction,1,8746200
+,myocardial,1,8746200
+,myocardial infarction,1,8746200
+,infarction,1,8746200
+,study,1,8746200
+,modulation,1,8746200
+,coronary artery reocclusion,2,8746200
+,novel,1,8746200
+,low,3,8746200
+,molecular,1,8746200
+,molecular weight,1,8746200
+,weight,1,8746200
+,direct,2,8746200
+,inhibitor,2,8746200
+,inogatran,6,8746200
+,methods,1,8746200
+,dogs,8,8746200
+,occlusive,1,8746200
+,intracoronary,1,8746200
+,thrombus,1,8746200
+,saline,1,8746200
+,group,8,8746200
+,high,2,8746200
+,high dose,2,8746200
+,dose,4,8746200
+,bolus,3,8746200
+,low dose,2,8746200
+,aspirin+,1,8746200
+,min,6,8746200
+,blood,2,8746200
+,blood flow,2,8746200
+,flow,2,8746200
+,administration,1,8746200
+,results,1,8746200
+,reperfusion,2,8746200
+,similar,2,8746200
+,groups,4,8746200
+,time,4,8746200
+,shortest,1,8746200
+,end,1,8746200
+,infusion,1,8746200
+,prothrombin,1,8746200
+,prothrombin time,1,8746200
+,partial,1,8746200
+,aptt,2,8746200
+,times,1,8746200
+,control,1,8746200
+,value,1,8746200
+,changes,1,8746200
+,generation,1,8746200
+,activity,1,8746200
+,rise,1,8746200
+,complex,1,8746200
+,levels,2,8746200
+,fibrinogen,1,8746200
+,fibrinogen levels,1,8746200
+,most,1,8746200
+,marked,1,8746200
+,less,1,8746200
+,conclusions,1,8746200
+,data,1,8746200
+,not,1,8746200
+,effect,1,8746200
+,suboptimal,1,8746200
+,doses,1,8746200
+,insulinlike growth factor,1,8746194
+,growth,1,8746194
+,growth factor,1,8746194
+,factor,1,8746194
+,binding,1,8746194
+,binding proteins,1,8746194
+,proteins,1,8746194
+,cardiovascular,1,8746194
+,cardiovascular system,1,8746194
+,system,1,8746194
+,large,1,8746194
+,body,1,8746194
+,evidence,2,8746194
+,conclusively,1,8746194
+,igf,13,8746194
+,essential,1,8746194
+,regulator,1,8746194
+,developmental,1,8746194
+,developmental growth,1,8746194
+,growth,7,8746194
+,mice,2,8746194
+,null,2,8746194
+,mutation,2,8746194
+,ir gene,1,8746194
+,gene,2,8746194
+,birth,1,8746194
+,high,1,8746194
+,neonatal,1,8746194
+,neonatal mortality,1,8746194
+,mortality,1,8746194
+,mortality rate,1,8746194
+,rate,1,8746194
+,marked,1,8746194
+,growth retardation,1,8746194
+,effects,3,8746194
+,likely,1,8746194
+,system,1,8746194
+,role,3,8746194
+,cardiovascular,4,8746194
+,development,3,8746194
+,potential,2,8746194
+,pathophysiology,1,8746194
+,interest,2,8746194
+,last,1,8746194
+,several,1,8746194
+,years,1,8746194
+,strong,1,8746194
+,critical,1,8746194
+,determinant,1,8746194
+,vascular,3,8746194
+,responses,4,8746194
+,vitro,1,8746194
+,vivo,1,8746194
+,regulation,1,8746194
+,availability,1,8746194
+,control,2,8746194
+,convergence,1,8746194
+,point,1,8746194
+,multiple,1,8746194
+,growth factors,1,8746194
+,factors,1,8746194
+,clinical,3,8746194
+,clinical studies,1,8746194
+,studies,3,8746194
+,hypertension,2,8746194
+,extremely,1,8746194
+,limited,1,8746194
+,significant,2,8746194
+,data,2,8746194
+,animal,2,8746194
+,animal studies,1,8746194
+,now,2,8746194
+,mediator,3,8746194
+,animal data,1,8746194
+,cardiac,1,8746194
+,cardiac hypertrophic,1,8746194
+,hypertrophic,1,8746194
+,specific,1,8746194
+,pharmacologic,1,8746194
+,inhibitor,1,8746194
+,rational,1,8746194
+,clinical trials,1,8746194
+,function,2,8746194
+,areas,1,8746194
+,great,1,8746194
+,prevention,1,8746194
+,restenosis,1,8746194
+,atherosclerotic,1,8746194
+,lesion,1,8746194
+,progression,1,8746194
+,complications,1,8746194
+,hypertensive,1,8746194
+,hypertensive vascular disease,1,8746194
+,vascular disease,2,8746194
+,disease,2,8746194
+,use,2,8746194
+,myocardial,1,8746194
+,post,1,8746194
+,infarction,1,8746194
+,angiogenesis,1,8746194
+,collateral,1,8746194
+,artery,1,8746194
+,formation,1,8746194
+,setting,1,8746194
+,peripheral,1,8746194
+,peripheral vascular disease,1,8746194
+,other,1,8746194
+,directions,1,8746194
+,future,1,8746194
+,research,2,8746194
+,healing,1,8746194
+,recovery,1,8746194
+,acute,1,8746194
+,acute renal failure,1,8746194
+,renal,1,8746194
+,renal failure,1,8746194
+,failure,1,8746194
+,glucose,1,8746194
+,glucose control,1,8746194
+,currently,1,8746194
+,investigation,1,8746194
+,ongoing,1,8746194
+,mechanisms,1,8746194
+,receptor,1,8746194
+,binding,1,8746194
+,binding proteins,1,8746194
+,proteins,1,8746194
+,tissues,1,8746194
+,rationale,1,8746194
+,novel,1,8746194
+,clinical research,1,8746194
+,hemodynamic,1,8731859
+,renal,1,8731859
+,effects,1,8731859
+,strong,1,8731859
+,diuretic,1,8731859
+,atrial,1,8731859
+,atrial natriuretic peptide,1,8731859
+,natriuretic,1,8731859
+,natriuretic peptide,1,8731859
+,peptide,1,8731859
+,patients,1,8731859
+,acute,1,8731859
+,acute myocardial infarction,1,8731859
+,myocardial,1,8731859
+,myocardial infarction,1,8731859
+,infarction,1,8731859
+,hemodynamic,1,8731859
+,renal,1,8731859
+,effects,1,8731859
+,strong,5,8731859
+,diuretic,5,8731859
+,atrial,2,8731859
+,atrial natriuretic peptide,1,8731859
+,natriuretic,1,8731859
+,natriuretic peptide,1,8731859
+,peptide,1,8731859
+,patients,2,8731859
+,acute,1,8731859
+,acute myocardial infarction,1,8731859
+,myocardial,1,8731859
+,myocardial infarction,1,8731859
+,infarction,1,8731859
+,anp,4,8731859
+,bolus,1,8731859
+,injection,1,8731859
+,micrograms,1,8731859
+,continuous,1,8731859
+,continuous infusion,1,8731859
+,infusion,4,8731859
+,minutes,1,8731859
+,right,2,8731859
+,right atrium,1,8731859
+,atrium,1,8731859
+,catheter,1,8731859
+,increase,1,8731859
+,cardiac,1,8731859
+,cardiac index,1,8731859
+,index,2,8731859
+,volume,3,8731859
+,right atrial pressure,1,8731859
+,atrial pressure,1,8731859
+,pressure,4,8731859
+,pulmonary,3,8731859
+,pulmonary arterial pressure,1,8731859
+,arterial,2,8731859
+,arterial pressure,1,8731859
+,pulmonary capillary,1,8731859
+,pulmonary capillary wedge pressure,1,8731859
+,capillary,1,8731859
+,wedge,1,8731859
+,wedge pressure,1,8731859
+,systemic,1,8731859
+,systemic vascular resistance,1,8731859
+,vascular,2,8731859
+,vascular resistance,2,8731859
+,resistance,2,8731859
+,pulmonary vascular resistance,1,8731859
+,maximal,1,8731859
+,responses,1,8731859
+,observed,1,8731859
+,immediately,1,8731859
+,significant,2,8731859
+,change,1,8731859
+,arterial blood,1,8731859
+,arterial blood pressure,1,8731859
+,blood,1,8731859
+,blood pressure,1,8731859
+,heart,1,8731859
+,heart rate,1,8731859
+,rate,1,8731859
+,urine,1,8731859
+,urine volume,1,8731859
+,urinary,3,8731859
+,sodium,1,8731859
+,chloride,1,8731859
+,potassium,1,8731859
+,results,1,8731859
+,changes,1,8731859
+,hemodynamics,1,8731859
+,development,1,8731859
+,severe,1,8731859
+,circulatory,1,8731859
+,volume overload,1,8731859
+,ami,1,8731859
+,assessment,1,8731299
+,myocardial,1,8731299
+,functional,1,8731299
+,reserve,1,8731299
+,patients,1,8731299
+,left,1,8731299
+,left ventricular aneurysm,1,8731299
+,ventricular,1,8731299
+,ventricular aneurysm,1,8731299
+,aneurysm,1,8731299
+,radionuclide,1,8731299
+,radionuclide ventriculography,1,8731299
+,ventriculography,1,8731299
+,response,1,8731299
+,isotonic,1,8731299
+,isotonic exercise,1,8731299
+,exercise,1,8731299
+,purpose,1,8731299
+,global,3,8731299
+,regional,3,8731299
+,left,1,8731299
+,ventricular,2,8731299
+,ejection,1,8731299
+,ejection fractions,1,8731299
+,fractions,1,8731299
+,radionuclide,3,8731299
+,radionuclide ventriculography,3,8731299
+,ventriculography,3,8731299
+,patients,8,8731299
+,aneurysm,3,8731299
+,rest,3,8731299
+,isotonic,1,8731299
+,isotonic exercise,1,8731299
+,exercise,5,8731299
+,methods,1,8731299
+,cineangiography,1,8731299
+,post,1,8731299
+,myocardial,1,8731299
+,myocardial infarction,1,8731299
+,infarction,1,8731299
+,results,1,8731299
+,groups,3,8731299
+,other,2,8731299
+,normal,3,8731299
+,response,5,8731299
+,values,2,8731299
+,same,1,8731299
+,behavior,1,8731299
+,half,2,8731299
+,abnormal,2,8731299
+,changes,1,8731299
+,not,1,8731299
+,due,1,8731299
+,lateral,1,8731299
+,wall,1,8731299
+,group,2,8731299
+,stress,1,8731299
+,conclusion,1,8731299
+,evaluation,1,8731299
+,better,1,8731299
+,discriminates,1,8731299
+,functional,1,8731299
+,reserve,1,8731299
+,findings,1,8731299
+,decision,1,8731299
+,therapeutic,1,8731299
+,approach,1,8731299
+,specific,1,8731299
+,specific group,1,8731299
+,role,1,8731298
+,heparin,1,8731298
+,unstable,1,8731298
+,ang,1,8731298
+,myocardial,1,8731298
+,myocardial infarction,1,8731298
+,infarction,1,8731298
+,percutaneous,1,8731298
+,percutaneous transluminal coronary angioplasty,1,8731298
+,transluminal,1,8731298
+,coronary,1,8731298
+,coronary angioplasty,1,8731298
+,angioplasty,1,8731298
+,purpose,1,8731298
+,clinical,2,8731298
+,clinical efficacy,2,8731298
+,efficacy,2,8731298
+,safety,2,8731298
+,subcutaneous,1,8731298
+,low,1,8731298
+,low molecular weight heparin,1,8731298
+,molecular,1,8731298
+,molecular weight,1,8731298
+,weight,1,8731298
+,heparin,2,8731298
+,intravenous,1,8731298
+,non,1,8731298
+,nfh,3,8731298
+,unstable,2,8731298
+,ang,2,8731298
+,myocardial,2,8731298
+,myocardial infarction,2,8731298
+,infarction,2,8731298
+,transluminal,2,8731298
+,coronary,2,8731298
+,coronary angioplasty,2,8731298
+,angioplasty,2,8731298
+,methods,1,8731298
+,patients,6,8731298
+,groups,2,8731298
+,group,4,8731298
+,lmwh,3,8731298
+,1st,1,8731298
+,phase,1,8731298
+,dosage,3,8731298
+,2nd,1,8731298
+,bolus,1,8731298
+,activated,1,8731298
+,partial,1,8731298
+,time,1,8731298
+,results,1,8731298
+,not,1,8731298
+,statistically,1,8731298
+,statistically significant,1,8731298
+,significant,1,8731298
+,difference,1,8731298
+,relation,1,8731298
+,cardiac,1,8731298
+,cardiac events,1,8731298
+,events,1,8731298
+,hemorrhagic,1,8731298
+,complications,1,8731298
+,deaths,1,8731298
+,conclusion,1,8731298
+,similar,1,8731298
+,dosages,1,8731298
+,study,1,8731298
+,ventricular,1,8729374
+,ventricular tachycardia,1,8729374
+,tachycardia,1,8729374
+,paroxysmal,1,8729374
+,paroxysmal atrial fibrillation,1,8729374
+,atrial,1,8729374
+,atrial fibrillation,1,8729374
+,fibrillation,1,8729374
+,severe,1,8729374
+,myocardial,1,8729374
+,myocardial ischemia,1,8729374
+,ischemia,1,8729374
+,authors,1,8729374
+,cases,2,8729374
+,spontaneous,2,8729374
+,paroxysmal,2,8729374
+,paroxysmal atrial fibrillation,2,8729374
+,atrial,3,8729374
+,atrial fibrillation,3,8729374
+,fibrillation,3,8729374
+,ventricular,4,8729374
+,ventricular tachycardia,2,8729374
+,tachycardia,2,8729374
+,cardiac,1,8729374
+,cardiac arrest,1,8729374
+,arrest,1,8729374
+,defibrillation,1,8729374
+,patients,2,8729374
+,men,1,8729374
+,years,1,8729374
+,past,1,8729374
+,past history,1,8729374
+,history,1,8729374
+,myocardial,3,8729374
+,myocardial infarction,1,8729374
+,infarction,1,8729374
+,arrhythmias,1,8729374
+,severe,1,8729374
+,myocardial ischaemia,2,8729374
+,ischaemia,2,8729374
+,coronary,2,8729374
+,coronary arteriography,1,8729374
+,arteriography,1,8729374
+,tight,1,8729374
+,stenoses,1,8729374
+,main,1,8729374
+,coronary artery,1,8729374
+,artery,1,8729374
+,normal,1,8729374
+,left,1,8729374
+,left ventricular function,1,8729374
+,ventricular function,1,8729374
+,function,1,8729374
+,rare,2,8729374
+,occurrence,1,8729374
+,sequence,1,8729374
+,events,1,8729374
+,accessory,1,8729374
+,conduction,1,8729374
+,pathways,1,8729374
+,hypertrophic,1,8729374
+,hypertrophic cardiomyopathy,1,8729374
+,cardiomyopathy,1,8729374
+,complication,1,8729374
+,ischemic,1,8729374
+,ischemic heart disease,1,8729374
+,heart,1,8729374
+,heart disease,1,8729374
+,disease,1,8729374
+,only,1,8729374
+,very,1,8729374
+,few,1,8729374
+,probably,1,8729374
+,cause,1,8729374
+,arrhythmia,1,8729374
+,together,1,8729374
+,contractions,1,8729374
+,responsible,1,8729374
+,long,1,8729374
+,cycle,1,8729374
+,sequences,1,8729374
+,changes,1,8729374
+,thrombolytic,1,8729370
+,thrombolytic therapy,1,8729370
+,therapy,1,8729370
+,acute,1,8729370
+,acute myocardial infarction,1,8729370
+,myocardial,1,8729370
+,myocardial infarction,1,8729370
+,infarction,1,8729370
+,thrombolytic,2,8729370
+,thrombolytic therapy,2,8729370
+,therapy,2,8729370
+,mortality,1,8729370
+,acute,1,8729370
+,acute myocardial infarction,1,8729370
+,myocardial,1,8729370
+,myocardial infarction,1,8729370
+,infarction,1,8729370
+,first,1,8729370
+,hours,1,8729370
+,onset,1,8729370
+,author,1,8729370
+,evidence,1,8729370
+,more,1,8729370
+,difficult,1,8729370
+,aspects,1,8729370
+,treatment,2,8729370
+,patients,1,8729370
+,same,1,8729370
+,benefits,1,8729370
+,early,1,8729370
+,possible,1,8729370
+,value,1,8729370
+,late,1,8729370
+,best,1,8729370
+,agent,1,8729370
+,optimal,1,8729370
+,mode,1,8729370
+,administration,1,8729370
+,article,1,8729370
+,state,1,8729370
+,art,1,8729370
+,beginning,1,8729370
+,rapidly,1,8729370
+,field,1,8729370
+,therapeutics,1,8729370
+,indium,1,8729367
+,iii,1,8729367
+,monoclonal,1,8729367
+,antibody,1,8729367
+,scintigraphy,1,8729367
+,detection,1,8729367
+,chronic,1,8729367
+,myocardial,1,8729367
+,myocardial infarction,1,8729367
+,infarction,1,8729367
+,acute,1,8729367
+,acute phase,1,8729367
+,phase,1,8729367
+,fab,1,8729367
+,scintigraphy,2,8729367
+,sensitive,1,8729367
+,specific,1,8729367
+,acute,3,8729367
+,myocardial,4,8729367
+,myocardial necrosis,1,8729367
+,necrosis,1,8729367
+,study,1,8729367
+,preoperative,1,8729367
+,frequency,1,8729367
+,uptake,4,8729367
+,patients,6,8729367
+,coronary,5,8729367
+,coronary artery,3,8729367
+,coronary artery bypass,1,8729367
+,coronary artery bypass surgery,1,8729367
+,artery,3,8729367
+,bypass,2,8729367
+,bypass surgery,1,8729367
+,surgery,1,8729367
+,results,1,8729367
+,other,2,8729367
+,criteria,2,8729367
+,myocardial infarction,2,8729367
+,infarction,2,8729367
+,sixteen,1,8729367
+,consecutive,1,8729367
+,recent,4,8729367
+,months,1,8729367
+,accurate,1,8729367
+,localization,2,8729367
+,cases,2,8729367
+,classic,1,8729367
+,more,1,8729367
+,old,2,8729367
+,wave,1,8729367
+,one,1,8729367
+,not,3,8729367
+,territory,2,8729367
+,second,1,8729367
+,patient,1,8729367
+,year,1,8729367
+,old infarct,1,8729367
+,infarct,1,8729367
+,events,2,8729367
+,intense,1,8729367
+,consistent,1,8729367
+,ecg,4,8729367
+,angiographic,1,8729367
+,stable,1,8729367
+,stable angina,1,8729367
+,angina,1,8729367
+,limited,2,8729367
+,uptakes,2,8729367
+,medical,1,8729367
+,medical history,1,8729367
+,history,1,8729367
+,left,1,8729367
+,left ventricle,1,8729367
+,ventricle,2,8729367
+,angiography,2,8729367
+,normal,1,8729367
+,location,1,8729367
+,occluded,1,8729367
+,tight,1,8729367
+,stenosis,1,8729367
+,bypass graft,1,8729367
+,graft,1,8729367
+,probably,1,8729367
+,small,1,8729367
+,necroses,2,8729367
+,ventricular,1,8729367
+,ventricular segmental,1,8729367
+,segmental,1,8729367
+,segmental wall motion,1,8729367
+,wall,1,8729367
+,wall motion,1,8729367
+,motion,1,8729367
+,diagnosis,1,8729367
+,recent myocardial infarction,1,8729367
+,detectable,1,8729367
+,changes,1,8729367
+,detection,1,8729362
+,endothelial,1,8729362
+,endothelial cells,1,8729362
+,cells,1,8729362
+,new,1,8729362
+,diagnostic,1,8729362
+,diagnostic test,1,8729362
+,test,1,8729362
+,angina,1,8729362
+,rest,1,8729362
+,diagnosis,3,8729362
+,spontaneous,5,8729362
+,angina,3,8729362
+,electrocardiographic,1,8729362
+,electrocardiographic changes,1,8729362
+,changes,1,8729362
+,simple,2,8729362
+,biological,3,8729362
+,biological test,2,8729362
+,test,4,8729362
+,retrospective,2,8729362
+,attack,2,8729362
+,usually,1,8729362
+,instability,1,8729362
+,atheromatous,2,8729362
+,atheromatous plaque,2,8729362
+,plaque,2,8729362
+,fissures,1,8729362
+,endothelial,4,8729362
+,endothelial cells,4,8729362
+,cells,5,8729362
+,stream,1,8729362
+,detection,3,8729362
+,cold,1,8729362
+,sign,1,8729362
+,condition,1,8729362
+,technique,1,8729362
+,method,1,8729362
+,groups,1,8729362
+,patients,6,8729362
+,hospital,1,8729362
+,hours,1,8729362
+,group,6,8729362
+,comprised,1,8729362
+,acute,1,8729362
+,acute myocardial infarction,1,8729362
+,myocardial,1,8729362
+,myocardial infarction,1,8729362
+,infarction,1,8729362
+,group ii,2,8729362
+,st segment,1,8729362
+,st segment depression,1,8729362
+,segment,1,8729362
+,depression,1,8729362
+,significant,1,8729362
+,coronary,2,8729362
+,arterial,1,8729362
+,arterial ste,1,8729362
+,arterial ste nosis,1,8729362
+,ste,1,8729362
+,chest,1,8729362
+,chest pain,1,8729362
+,pain,1,8729362
+,coronary angiography,1,8729362
+,angiography,1,8729362
+,normal,1,8729362
+,provocative test,1,8729362
+,spasm,1,8729362
+,negative,3,8729362
+,only,1,8729362
+,iii,1,8729362
+,results,1,8729362
+,specificity,1,8729362
+,positive,1,8729362
+,value,3,8729362
+,sensitivity,2,8729362
+,negative predictive value,2,8729362
+,predictive,2,8729362
+,predictive value,2,8729362
+,reliable,1,8729362
+,ang,2,8729362
+,mechanism,1,8729362
+,other,1,8729362
+,cases,1,8729362
+,spasm,1,8729361
+,normal,1,8729361
+,irregular,1,8729361
+,coronary,1,8729361
+,coronary arteries,1,8729361
+,arteries,1,8729361
+,outcome,1,8729361
+,patients,1,8729361
+,outcome,2,8729361
+,patients,7,8729361
+,spasm,3,8729361
+,normal,2,8729361
+,coronary,12,8729361
+,coronary arteries,1,8729361
+,arteries,2,8729361
+,only,2,8729361
+,small,1,8729361
+,series,1,8729361
+,authors,2,8729361
+,average,1,8729361
+,period,1,8729361
+,months,2,8729361
+,men,1,8729361
+,women,1,8729361
+,mean,1,8729361
+,age,1,8729361
+,years,1,8729361
+,coronary angiography,7,8729361
+,angiography,7,8729361
+,cases,8,8729361
+,not,2,8729361
+,stenosis,1,8729361
+,greater,1,8729361
+,positive,1,8729361
+,methergin,1,8729361
+,test,1,8729361
+,ecg,1,8729361
+,prinzmetal,1,8729361
+,prinzmetal angina,1,8729361
+,angina,2,8729361
+,nearly,2,8729361
+,calcium,1,8729361
+,calcium antagonists,1,8729361
+,antagonists,1,8729361
+,end,1,8729361
+,deaths,1,8729361
+,cardiac,1,8729361
+,myocardial,3,8729361
+,myocardial infarctions,1,8729361
+,infarctions,1,8729361
+,repeat,2,8729361
+,more,1,8729361
+,new,2,8729361
+,significant,3,8729361
+,coronary lesions,1,8729361
+,lesions,1,8729361
+,persistence,1,8729361
+,chest,2,8729361
+,chest pain,2,8729361
+,pain,2,8729361
+,severity,1,8729361
+,symptoms,1,8729361
+,attack,1,8729361
+,month,1,8729361
+,coronary disease,1,8729361
+,disease,1,8729361
+,asymptomatic,1,8729361
+,statistical,1,8729361
+,statistical analysis,1,8729361
+,analysis,1,8729361
+,hypertension,1,8729361
+,appearances,1,8729361
+,initial,1,8729361
+,predictive,1,8729361
+,predictive factors,1,8729361
+,factors,1,8729361
+,events,1,8729361
+,myocardial infarction,2,8729361
+,infarction,2,8729361
+,coronary spasm,1,8729361
+,well,1,8729361
+,responsible,1,8729361
+,death,1,8729361
+,year,1,8729361
+,risk,1,8723020
+,stratification,1,8723020
+,malignant,1,8723020
+,events,1,8723020
+,patients,1,8723020
+,acute,1,8723020
+,acute myocardial infarction,1,8723020
+,myocardial,1,8723020
+,myocardial infarction,1,8723020
+,infarction,1,8723020
+,role,1,8723020
+,open,1,8723020
+,artery,1,8723020
+,ecg,1,8723020
+,background,1,8723020
+,evidence,1,8723020
+,open,2,8723020
+,artery,6,8723020
+,results,2,8723020
+,increased,1,8723020
+,electrical,1,8723020
+,stability,1,8723020
+,heart,1,8723020
+,effect,1,8723020
+,part,1,8723020
+,responsible,1,8723020
+,favorable,1,8723020
+,outcome,1,8723020
+,patients,7,8723020
+,thrombolytic,1,8723020
+,era,1,8723020
+,optimal,1,8723020
+,strategy,1,8723020
+,risk,2,8723020
+,stratification,1,8723020
+,study,1,8723020
+,predictors,1,8723020
+,serious,1,8723020
+,events,4,8723020
+,first,1,8723020
+,year,1,8723020
+,myocardial,3,8723020
+,myocardial infarction,3,8723020
+,infarction,3,8723020
+,methods,1,8723020
+,total,1,8723020
+,acute,2,8723020
+,acute myocardial infarction,2,8723020
+,thrombolysis,1,8723020
+,hospital,2,8723020
+,hospital discharge,2,8723020
+,discharge,2,8723020
+,electrocardiography,2,8723020
+,subjects,2,8723020
+,holter monitoring,3,8723020
+,monitoring,3,8723020
+,coronary,1,8723020
+,coronary angiography,1,8723020
+,angiography,1,8723020
+,ventricular,7,8723020
+,ventricular ejection,2,8723020
+,ventricular ejection fraction,2,8723020
+,ejection,3,8723020
+,ejection fraction,3,8723020
+,fraction,3,8723020
+,incidence,1,8723020
+,late,3,8723020
+,potentials,3,8723020
+,event,1,8723020
+,followup,1,8723020
+,sudden,1,8723020
+,sudden death,1,8723020
+,death,1,8723020
+,ventricular tachyarrhythmias,1,8723020
+,tachyarrhythmias,1,8723020
+,syncope,1,8723020
+,signalaveraged electrocardiography,1,8723020
+,sensitivity,2,8723020
+,specificity,2,8723020
+,prediction,1,8723020
+,occluded,4,8723020
+,sensitive,3,8723020
+,specific,3,8723020
+,only,1,8723020
+,combination,4,8723020
+,positive,2,8723020
+,positive predictive value,2,8723020
+,predictive,3,8723020
+,predictive value,2,8723020
+,value,2,8723020
+,low,1,8723020
+,variables,1,8723020
+,several,1,8723020
+,risk factors,1,8723020
+,factors,1,8723020
+,highest,1,8723020
+,abnormal,2,8723020
+,ecg,3,8723020
+,complex,2,8723020
+,ventricular arrhythmias,2,8723020
+,arrhythmias,2,8723020
+,ambulatory,1,8723020
+,ambulatory ecg,1,8723020
+,multivariate analysis,1,8723020
+,analysis,1,8723020
+,rank,1,8723020
+,order,1,8723020
+,presence,1,8723020
+,ventricular ectopic,1,8723020
+,ventricular ectopic activity,1,8723020
+,ectopic,1,8723020
+,activity,1,8723020
+,conclusion,1,8723020
+,occurrence,1,8723020
+,malignant,1,8723020
+,ventricular dysfunction,1,8723020
+,dysfunction,1,8723020
+,time,1,8723020
+,gad,1,8722051
+,antibodies,1,8722051
+,followup,1,8722051
+,diagnosis,1,8722051
+,objective,1,8722051
+,study,3,8722051
+,frequency,1,8722051
+,antibodies,4,8722051
+,glutamic acid,1,8722051
+,glutamic acid decarboxylase,1,8722051
+,acid,1,8722051
+,decarboxylase,1,8722051
+,gad,10,8722051
+,islet cell,1,8722051
+,cell,1,8722051
+,predictive,3,8722051
+,predictive value,3,8722051
+,value,3,8722051
+,respect,1,8722051
+,development,2,8722051
+,insulin,5,8722051
+,deficiency,4,8722051
+,newly,3,8722051
+,patients,7,8722051
+,noninsulindependent diabetes mellitus,1,8722051
+,diabetes,2,8722051
+,diabetes mellitus,1,8722051
+,niddm,4,8722051
+,control,3,8722051
+,subjects,2,8722051
+,persistence,1,8722051
+,diabetic,3,8722051
+,research,1,8722051
+,research design,1,8722051
+,design,1,8722051
+,methods,1,8722051
+,study participants,1,8722051
+,participants,1,8722051
+,group,1,8722051
+,followup,1,8722051
+,examinations,1,8722051
+,years,1,8722051
+,baseline,1,8722051
+,absolute,3,8722051
+,relative,3,8722051
+,stimulated,1,8722051
+,cpeptide,1,8722051
+,level,1,8722051
+,undetectable,1,8722051
+,retrospectively,1,8722051
+,samples,1,8722051
+,results,1,8722051
+,overall,1,8722051
+,prevalence,2,8722051
+,gad antibody,7,8722051
+,antibody,7,8722051
+,ica,3,8722051
+,time,3,8722051
+,diagnosis,3,8722051
+,control population,1,8722051
+,population,2,8722051
+,sensitivity,2,8722051
+,specificity,1,8722051
+,negative,1,8722051
+,negative predictive value,1,8722051
+,antibody testing,1,8722051
+,testing,1,8722051
+,positive,1,8722051
+,positive predictive value,1,8722051
+,nature,1,8722051
+,high,1,8722051
+,levels,1,8722051
+,persistent,1,8722051
+,conclusions,1,8722051
+,latent,1,8722051
+,autoimmune,1,8722051
+,autoimmune diabetes,1,8722051
+,adults,1,8722051
+,specific,1,8722051
+,predictors,1,8722051
+,subsequent,1,8722051
+,dependency,1,8722051
+,measurements,1,8722051
+,aid,1,8722051
+,clinician,1,8722051
+,choice,1,8722051
+,treatment,1,8722051
+,preoperative,1,8719937
+,evaluation,1,8719937
+,risk,1,8719937
+,risk factors,1,8719937
+,factors,1,8719937
+,complications,1,8719937
+,patients,1,8719937
+,primary,1,8719937
+,primary hyperparathyroidism,1,8719937
+,hyperparathyroidism,1,8719937
+,impairments,2,8719937
+,cardiovascular,2,8719937
+,respiratory,2,8719937
+,kidney,2,8719937
+,kidney function,2,8719937
+,function,2,8719937
+,risk,2,8719937
+,risk factors,1,8719937
+,factors,1,8719937
+,complications,1,8719937
+,surgery,4,8719937
+,indication,1,8719937
+,asymptomatic,2,8719937
+,primary,1,8719937
+,primary hyperparathyroidism,1,8719937
+,hyperparathyroidism,1,8719937
+,patients,4,8719937
+,control,3,8719937
+,subjects,2,8719937
+,common,1,8719937
+,surgical,1,8719937
+,surgical procedures,1,8719937
+,procedures,1,8719937
+,preoperatively,1,8719937
+,age,1,8719937
+,control group,1,8719937
+,group,3,8719937
+,serum,1,8719937
+,serum calcium,1,8719937
+,calcium,1,8719937
+,creatinine,1,8719937
+,glucose,2,8719937
+,peak,1,8719937
+,peak expiratory flow,1,8719937
+,expiratory,1,8719937
+,flow,1,8719937
+,pef,1,8719937
+,controls,3,8719937
+,more,2,8719937
+,often,1,8719937
+,antihypertensive,1,8719937
+,medication,1,8719937
+,likely,1,8719937
+,history,1,8719937
+,congestive,1,8719937
+,congestive heart disease,1,8719937
+,heart,2,8719937
+,heart disease,1,8719937
+,disease,1,8719937
+,thromboembolic,1,8719937
+,thromboembolic diseases,1,8719937
+,diseases,1,8719937
+,stroke,1,8719937
+,diabetes,1,8719937
+,diabetes mellitus,1,8719937
+,frequencies,1,8719937
+,depression,1,8719937
+,abnormalities,1,8719937
+,electrocardiography,1,8719937
+,together,1,8719937
+,prevalence,1,8719937
+,heart enlargement,1,8719937
+,enlargement,1,8719937
+,visible,1,8719937
+,chest,1,8719937
+,chest radiography,1,8719937
+,radiography,1,8719937
+,patient,1,8719937
+,myocardial,1,8719937
+,myocardial infarction,1,8719937
+,infarction,1,8719937
+,postoperative,1,8719937
+,postoperative period,1,8719937
+,period,1,8719937
+,present,1,8719937
+,study,1,8719937
+,preoperative,1,8719937
+,risk factor,1,8719937
+,factor,1,8719937
+,profile,1,8719937
+,respiratory functions,1,8719937
+,functions,1,8719937
+,well,1,8719937
+,glucose control,1,8719937
+,findings,1,8719937
+,mind,1,8719937
+,indications,1,8719937
+,contribution,1,8719812
+,tumour,1,8719812
+,tumour necrosis,1,8719812
+,necrosis,1,8719812
+,increase,1,8719812
+,coronary,1,8719812
+,resistance,1,8719812
+,hearts,1,8719812
+,rats,1,8719812
+,endotoxin,1,8719812
+,inflammatory,3,8719812
+,inflammatory disease,2,8719812
+,disease,2,8719812
+,states,2,8719812
+,myocardial,2,8719812
+,myocardial infarction,1,8719812
+,infarction,1,8719812
+,effects,1,8719812
+,systemic,1,8719812
+,systemic inflammatory response syndrome,1,8719812
+,inflammatory response,1,8719812
+,response,1,8719812
+,syndrome,1,8719812
+,lipopolysaccharide,1,8719812
+,circulatory,1,8719812
+,circulatory shock,1,8719812
+,shock,2,8719812
+,rats,3,8719812
+,coronary,5,8719812
+,vascular,3,8719812
+,lps,4,8719812
+,hearts,5,8719812
+,min,4,8719812
+,later,1,8719812
+,perfusion,5,8719812
+,constant,1,8719812
+,flow,1,8719812
+,technique,1,8719812
+,once,1,8719812
+,ex vivo,1,8719812
+,ex vivo perfusion,1,8719812
+,vivo,2,8719812
+,pressure,3,8719812
+,control,1,8719812
+,mmhg,1,8719812
+,increase,3,8719812
+,resistance,2,8719812
+,not,1,8719812
+,reduction,1,8719812
+,endothelial,1,8719812
+,endothelial cell,1,8719812
+,cell,1,8719812
+,cell function,1,8719812
+,function,1,8719812
+,vasodilator,1,8719812
+,responses,1,8719812
+,bradykinin,1,8719812
+,unchanged,1,8719812
+,injection,2,8719812
+,rise,1,8719812
+,changes,1,8719812
+,pretreatment,1,8719812
+,cycloheximide,1,8719812
+,necrosis,1,8719812
+,tnfalpha,5,8719812
+,antibody,2,8719812
+,continuous,1,8719812
+,continuous infusion,1,8719812
+,infusion,1,8719812
+,vitro,1,8719812
+,endothelin,1,8719812
+,eta,2,8719812
+,receptor,2,8719812
+,antagonist,2,8719812
+,greatly,1,8719812
+,vascular resistance,1,8719812
+,data,1,8719812
+,release,2,8719812
+,endothelin1,1,8719812
+,mediates,1,8719812
+,part,1,8719812
+,vasoconstriction,1,8719812
+,hypothesis,1,8719812
+,administration,1,8719812
+,levels,1,8719812
+,septic,1,8719812
+,septic shock,1,8719812
+,sequential,1,8719812
+,predisposition,1,8719812
+,myocardial ischaemia,1,8719812
+,ischaemia,1,8719812
+,inactivation,1,8719812
+,antibody as,1,8719812
+,well,1,8719812
+,blockade,1,8719812
+,pathway,1,8719812
+,evidence,1,8719395
+,dynamic,1,8719395
+,coronary,1,8719395
+,vasoconstriction,1,8719395
+,vessels,1,8719395
+,acute,1,8719395
+,acute myocardial infarction,1,8719395
+,myocardial,1,8719395
+,myocardial infarction,1,8719395
+,infarction,1,8719395
+,role,1,8719395
+,coronary,2,8719395
+,vasoconstriction,1,8719395
+,acute,3,8719395
+,acute myocardial infarction,3,8719395
+,myocardial,3,8719395
+,myocardial infarction,3,8719395
+,infarction,3,8719395
+,patients,1,8719395
+,angiography,1,8719395
+,early,1,8719395
+,hours,1,8719395
+,reversible,1,8719395
+,spasm,1,8719395
+,vessels,1,8719395
+,coronary vasospasm,1,8719395
+,vasospasm,1,8719395
+,generalized,1,8719395
+,phenomenon,1,8719395
+,effects,1,8719378
+,technique,1,8719378
+,modification,1,8719378
+,immediate,1,8719378
+,results,1,8719378
+,high,1,8719378
+,high speed rotational atherectomy,1,8719378
+,speed,1,8719378
+,rotational,1,8719378
+,rotational atherectomy,1,8719378
+,atherectomy,1,8719378
+,procedures,1,8719378
+,patients,1,8719378
+,high,2,8719378
+,high speed rotational atherectomy,1,8719378
+,speed,2,8719378
+,rotational,2,8719378
+,rotational atherectomy,1,8719378
+,atherectomy,1,8719378
+,sra,1,8719378
+,procedures,2,8719378
+,single,1,8719378
+,consecutive,1,8719378
+,series,1,8719378
+,patients,4,8719378
+,alone,1,8719378
+,adjunctive,2,8719378
+,low,1,8719378
+,pressure,2,8719378
+,atm,2,8719378
+,balloon,2,8719378
+,balloon angioplasty,2,8719378
+,angioplasty,2,8719378
+,unfavorable,1,8719378
+,type,1,8719378
+,lesions,1,8719378
+,study,1,8719378
+,group,1,8719378
+,success,1,8719378
+,rate,1,8719378
+,emergency,1,8719378
+,coronary,2,8719378
+,coronary artery,1,8719378
+,coronary artery bypass,1,8719378
+,coronary artery bypass surgery,1,8719378
+,artery,1,8719378
+,bypass,1,8719378
+,bypass surgery,1,8719378
+,surgery,1,8719378
+,cases,2,8719378
+,wave,1,8719378
+,myocardial,1,8719378
+,myocardial infarction,1,8719378
+,infarction,1,8719378
+,death,1,8719378
+,procedure,1,8719378
+,consequent,1,8719378
+,incidence,1,8719378
+,flow,1,8719378
+,dissections,1,8719378
+,distal,1,8719378
+,spasm,1,8719378
+,phenomenon,1,8719378
+,recent,1,8719378
+,technique,3,8719378
+,modifications,1,8719378
+,continuous,1,8719378
+,catheter,1,8719378
+,infusion,1,8719378
+,mixture,1,8719378
+,limitation,1,8719378
+,duration,1,8719378
+,lesion,2,8719378
+,engagement,1,8719378
+,burr,3,8719378
+,increase,2,8719378
+,size,1,8719378
+,decrease,3,8719378
+,control,1,8719378
+,rpm,1,8719378
+,drop,1,8719378
+,ablation,1,8719378
+,evolution,1,8719378
+,interventional,1,8719378
+,trends,1,8719378
+,use,1,8719378
+,conjunction,1,8719378
+,steady,1,8719378
+,percentage,1,8719378
+,time,1,8719378
+,changes,1,8719378
+,complete,1,8719378
+,absence,1,8719378
+,well,1,8719378
+,generalized,1,8719378
+,overall,1,8719378
+,vascular,1,8719378
+,vascular reactivity,1,8719378
+,acute,1,8714449
+,acute stroke,1,8714449
+,stroke,1,8714449
+,use,1,8714449
+,fibrinolytic,1,8714449
+,fibrinolytic agents,1,8714449
+,acute,2,8714449
+,acute ischemic,1,8714449
+,ischemic,1,8714449
+,ischemic stroke,1,8714449
+,stroke,1,8714449
+,attention,1,8714449
+,due,1,8714449
+,completion,1,8714449
+,several,1,8714449
+,prospective,1,8714449
+,prospective studies,1,8714449
+,studies,1,8714449
+,efficacy,1,8714449
+,safety,1,8714449
+,drugs,1,8714449
+,clinical,1,8714449
+,clinical setting,1,8714449
+,setting,1,8714449
+,experience,1,8714449
+,plasminogen,3,8714449
+,plasminogen activators,1,8714449
+,recanalization,1,8714449
+,carotid,2,8714449
+,vertebrobasilar,1,8714449
+,territory,1,8714449
+,occlusion,1,8714449
+,hours,1,8714449
+,symptom,1,8714449
+,onset,1,8714449
+,optimal,1,8714449
+,plasminogen activator,2,8714449
+,delivery,1,8714449
+,delivery system,1,8714449
+,system,1,8714449
+,not,2,8714449
+,phase,2,8714449
+,trial,1,8714449
+,european,1,8714449
+,cooperative,1,8714449
+,study,1,8714449
+,potential,1,8714449
+,benefit,1,8714449
+,outcome,1,8714449
+,recombinant,1,8714449
+,recombinant tissue plasminogen activator,1,8714449
+,tissue,1,8714449
+,tissue plasminogen activator,1,8714449
+,tpa,1,8714449
+,risk,1,8714449
+,hemorrhage,1,8714449
+,attributable,1,8714449
+,patients,2,8714449
+,early,1,8714449
+,signs,1,8714449
+,ischemia,1,8714449
+,complete,1,8714449
+,cervical,1,8714449
+,internal,1,8714449
+,internal carotid,1,8714449
+,internal carotid artery,1,8714449
+,internal carotid artery occlusions,1,8714449
+,carotid artery,1,8714449
+,carotid artery occlusions,1,8714449
+,artery,2,8714449
+,artery occlusions,1,8714449
+,occlusions,2,8714449
+,thrombosis,1,8714449
+,more,1,8714449
+,resistant,1,8714449
+,stem,1,8714449
+,major,1,8714449
+,middle,1,8714449
+,middle cerebral artery,1,8714449
+,cerebral,1,8714449
+,cerebral artery,1,8714449
+,issue,1,8714449
+,hemorrhagic,1,8714449
+,transformation,1,8714449
+,delayed,1,8714449
+,intervention,1,8714449
+,hand,1,8714449
+,different,1,8714449
+,observed,1,8714449
+,placebo,1,8714449
+,series,1,8714449
+,california,1,8688923
+,hospital,2,8688923
+,outcomes,1,8688923
+,project,1,8688923
+,administrative,1,8688923
+,data,1,8688923
+,performance,1,8688923
+,background,1,8688923
+,california,2,8688923
+,hospital,5,8688923
+,outcomes,6,8688923
+,project,3,8688923
+,act,1,8688923
+,state,1,8688923
+,legislature,1,8688923
+,office,1,8688923
+,health,1,8688923
+,health planning,1,8688923
+,planning,1,8688923
+,development,1,8688923
+,annual,1,8688923
+,annual reports,1,8688923
+,reports,2,8688923
+,medical,1,8688923
+,surgical,1,8688923
+,obstetric,1,8688923
+,obstetric patients,1,8688923
+,patients,1,8688923
+,indicators,1,8688923
+,inhospital mortality,1,8688923
+,mortality,1,8688923
+,days,1,8688923
+,acute,1,8688923
+,acute myocardial infarction,1,8688923
+,myocardial,1,8688923
+,myocardial infarction,1,8688923
+,infarction,1,8688923
+,ami,2,8688923
+,postoperative,2,8688923
+,postoperative complications,1,8688923
+,complications,1,8688923
+,diskectomy,4,8688923
+,delivery,2,8688923
+,length,1,8688923
+,weeks,1,8688923
+,discharge,1,8688923
+,abstracts,1,8688923
+,hospitals,7,8688923
+,outcome,3,8688923
+,risk,2,8688923
+,risk adjustment,1,8688923
+,adjustment,1,8688923
+,models,1,8688923
+,values,1,8688923
+,likelihood,1,8688923
+,observed,1,8688923
+,number,2,8688923
+,chance,1,8688923
+,results,2,8688923
+,first,1,8688923
+,report,4,8688923
+,june,2,8688923
+,public,1,8688923
+,december,1,8688923
+,total,1,8688923
+,better,1,8688923
+,expecte,1,8688923
+,cervical,1,8688923
+,lumbar,1,8688923
+,second,1,8688923
+,response,3,8688923
+,conclusions,1,8688923
+,letters,1,8688923
+,coding,2,8688923
+,practices,1,8688923
+,quality,1,8688923
+,care,2,8688923
+,media,1,8688923
+,media coverage,1,8688923
+,coverage,1,8688923
+,sometimes,1,8688923
+,critical,1,8688923
+,failure,1,8688923
+,worse,1,8688923
+,providers,1,8688923
+,concerns,1,8688923
+,validation,1,8688923
+,validation study,1,8688923
+,study,1,8688923
+,differences,2,8688923
+,risk factors,1,8688923
+,factors,1,8688923
+,reported,1,8688923

@@ -1,0 +1,17 @@
+{
+    "contents" : "library(shiny)\nlibrary(ggplot2)\nlibrary(tm)\n\n\n\n# Define server logic required to draw a histogram\nshinyServer(function(input, output) {\n  \n  output$distPlot <- renderPlot({\n    \n    MI <- read.csv(\"MI_2012.csv\",encoding=\"UTF-8\")\n    (myCorpus = Corpus(VectorSource(MI$concept)))\n    dtm <- DocumentTermMatrix(myCorpus)  \n    freq <- sort(colSums(as.matrix(dtm)), decreasing=TRUE)\n    wf <- data.frame(word=names(freq), freq=freq) \n    p <- ggplot(subset(wf, freq>50), aes(word, freq))    \n    p <- p + geom_bar(stat=\"identity\")   \n    p <- p + theme(axis.text.x=element_text(angle=45, hjust=1))   \n    p \n  \n  })\n  \n})",
+    "created" : 1454272902300.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2700635499",
+    "id" : "707E43E4",
+    "lastKnownWriteTime" : 1454252991,
+    "path" : "~/Data Incubator/Plot2/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
