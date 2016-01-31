@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1454180861776.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B7C5A301",
+    "lastKnownWriteTime" : 13229740524830817,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "kwa07xw0c6",
+        "caption" : "MI",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=MI&cache_key=kwa07xw0c6",
+        "displayedObservations" : 437,
+        "environment" : "",
+        "object" : "MI",
+        "totalObservations" : 437,
+        "variables" : 5
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

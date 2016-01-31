@@ -1,0 +1,17 @@
+{
+    "contents" : "\nfunction(input, output, session) {\n  # Define a reactive expression for the document term matrix\n  terms <- reactive({\n    # Change when the \"update\" button is pressed...\n    input$update\n    # ...but not for anything else\n    isolate({\n      withProgress({\n        setProgress(message = \"Processing corpus...\")\n        getTermMatrix(input$selection)\n      })\n    })\n  })\n  \n  # Make the wordcloud drawing predictable during a session\n  wordcloud_rep <- repeatable(wordcloud)\n  \n  output$plot <- renderPlot({\n    v <- terms()\n    wordcloud_rep(names(v), v, scale=c(4,0.5),\n                  min.freq = input$freq, max.words=input$max,\n                  colors=brewer.pal(8, \"Dark2\"))\n  })\n}\n",
+    "created" : 1454179394917.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2568746180",
+    "id" : "4CD35012",
+    "lastKnownWriteTime" : 1454249097,
+    "path" : "~/Data Incubator/DataIncubator/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

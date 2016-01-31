@@ -1,0 +1,17 @@
+{
+    "contents" : "fluidPage(\n  # Application title\n  titlePanel(\"Word Cloud for Myocardial Infarction Articles \"),\n  \n  sidebarLayout(\n    # Sidebar with a slider and selection inputs\n    sidebarPanel(\n      selectInput(\"selection\", \"Choose a specific year:\",\n                  choices = books),\n      actionButton(\"update\", \"Change\"),\n      hr(),\n      sliderInput(\"freq\",\n                  \"Minimum Frequency:\",\n                  min = 1,  max = 50, value = 15),\n      sliderInput(\"max\",\n                  \"Maximum Number of Words:\",\n                  min = 1,  max = 300,  value = 100)\n    ),\n    \n    # Show Word Cloud\n    mainPanel(\n      plotOutput(\"plot\")\n    )\n  )\n)",
+    "created" : 1454179394623.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1176993560",
+    "id" : "42D05402",
+    "lastKnownWriteTime" : 1454249705,
+    "path" : "~/Data Incubator/DataIncubator/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

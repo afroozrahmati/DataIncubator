@@ -1,0 +1,18 @@
+{
+    "contents" : "library(tm)\nlibrary(wordcloud)\nlibrary(memoise)\n\n\nbooks <<- list(\"myocardial infarction in 1990\" = \"MI_1990\",\n               \"myocardial infarction in 1995\" = \"MI_1995\",\n               \"myocardial infarction in 2000\" = \"MI_2000\",\n               \"myocardial infarction in 2005\" = \"MI_2005\",\n               \"myocardial infarction in 2010\" = \"MI_2010\",\n               \"myocardial infarction in 2011\" = \"MI_2011\",\n               \"myocardial infarction in 2012\" = \"MI_2012\",\n               \"myocardial infarction in 2013\" = \"MI_2013\",\n               \"myocardial infarction in 2014\" = \"MI_2014\",\n               \"myocardial infarction in 2015\" = \"MI_2015\")\n\n# Using \"memoise\" to automatically cache the results\ngetTermMatrix <- memoise(function(book) {\n  # Careful not to let just any name slip in here; a\n  # malicious user could manipulate this value.\n  if (!(book %in% books))\n    stop(\"Unknown book\")\n  \n  MI <- read.csv(sprintf(\"./%s.csv\", book),\n                    encoding=\"UTF-8\")\n  \n  (myCorpus = Corpus(VectorSource(MI$concept)))\n # myCorpus = tm_map(myCorpus, content_transformer(tolower))\n\n  myDTM = TermDocumentMatrix(myCorpus,\n                             control = list(minWordLength = 1))\n  m = as.matrix(myDTM)\n  \n  sort(rowSums(m), decreasing = TRUE)\n\n})",
+    "created" : 1454179424819.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1920881810",
+    "id" : "3FA8A2BF",
+    "lastKnownWriteTime" : 1454253029,
+    "path" : "~/Data Incubator/DataIncubator/global.R",
+    "project_path" : "global.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
